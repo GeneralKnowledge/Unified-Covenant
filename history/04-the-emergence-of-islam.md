@@ -229,7 +229,7 @@ Muhammad’s death (632 CE) ended unique prophetic leadership in **Religious tra
 
 ### Saqifa and Abu Bakr
 
-Tradition: Ansar gathered at Saqifa Banu Sa‘ida to discuss leadership; Abu Bakr, ‘Umar, and Abu ‘Ubayda intervened; Abu Bakr was  acclaimed caliph (khalīfat rasūl Allāh—“successor of God’s messenger”). Competing claims: ‘Ali and Muhammad’s family ( Banu Hashim ) had strong partisan support in later Shi‘i memory.
+Tradition: Ansar gathered at Saqifa Banu Sa‘ida to discuss leadership; Abu Bakr, ‘Umar, and Abu ‘Ubayda intervened; Abu Bakr was acclaimed caliph (khalīfat rasūl Allāh—“successor of God’s messenger”). Competing claims: ‘Ali and Muhammad’s family ( Banu Hashim ) had strong partisan support in later Shi‘i memory.
 
 Historical reconstruction: elite negotiation and precedence arguments (Abu Bakr as elder Companion) within hours of death—details and speeches tradition-dependent. **Do not** project mature Sunni–Shi‘i theology onto 632.
 
