@@ -295,6 +295,23 @@ notes: >
 related_ledger: Direct disagreements register; Evidence-gap register
 ```
 
+### `comparison-phase-5-2-convergence`
+
+```yaml
+id: comparison-phase-5-2-convergence
+claim: Phase 5.2 convergence assessment evaluates ten candidate themes for defensible common ground among Judaism, Christianity, and Islam, assigns provisional compatibility outcomes, and tests THE_UNIFIED_COVENANT.md without editing it or the chronicle.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - comparison/convergence-assessment.md
+  - comparison/evidence-matrix.md
+  - THE_UNIFIED_COVENANT.md (read-only assessment)
+notes: >
+  Outcomes: Genuine, Qualified, Translation-dependent, Unresolved, Irreducible disagreement.
+  Does not harmonise crucifixion/4:157, Trinity/tawḥīd, or final revelation by redefinition.
+related_ledger: Convergence assessment summary table; Test of THE_UNIFIED_COVENANT.md
+```
+
 ### `quran-4-157-crucifixion`
 
 ```yaml
