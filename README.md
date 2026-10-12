@@ -18,13 +18,14 @@ The name comes from [THE_UNIFIED_COVENANT.md](./THE_UNIFIED_COVENANT.md)—a **f
 | [history/01-before-the-branches.md](./history/01-before-the-branches.md) | **Chapter 1:** Ancient Near East and emergence of Israelite religion |
 | [history/02-from-israel-to-judaism.md](./history/02-from-israel-to-judaism.md) | **Chapter 2:** Kingdoms, exile, Persian restoration, Second Temple Judaism |
 | [history/03-the-emergence-of-christianity.md](./history/03-the-emergence-of-christianity.md) | **Chapter 3:** Jesus movement to early second-century Christianity |
+| [history/04-the-emergence-of-islam.md](./history/04-the-emergence-of-islam.md) | **Chapter 4:** Muhammad, Qur’an, early caliphate to ca. 700 CE |
 | [history/README.md](./history/README.md) | Chronicle index |
 | [sources/registry.md](./sources/registry.md) | Minimal claim registry (sample entries) |
 
 ## Next stages
 
-- **Chapter 4 (planned):** Emergence of Islam and further historical chronicle (not started).  
-- Future: comparative ledgers across Abrahamic traditions, then controlled synthesis experiments.
+- **Comparative stage (planned):** Agreement/disagreement ledgers across Abrahamic traditions (not started).  
+- Future: controlled synthesis experiments after history and comparison phases.
 
 ## Note
 

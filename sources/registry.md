@@ -202,3 +202,79 @@ notes: >
   Do not treat Birkat ha-Minim or single expulsion events as globally established without qualification.
 related_ledger: Unresolved — timing of separation; Provisional significance — communal identity
 ```
+
+### `hijra-622-traditional`
+
+```yaml
+id: hijra-622-traditional
+claim: The Hijra (migration) from Mecca to Medina is traditionally dated to 622 CE and anchors the Islamic calendar.
+status: religious-tradition
+period: 622 CE (1 AH in traditional reckoning)
+sources:
+  - al-Tabari, History; Ibn Ishaq/Ibn Hisham, Sira (via Guillaume trans., 1955)
+  - W. Montgomery Watt, Muhammad at Medina (1956)
+notes: >
+  Widely used historiographical convention; independent contemporary confirmation of exact year is limited.
+related_ledger: Emerging distinctions — Muslim communal calendar
+```
+
+### `quran-birmingham-parchment-rc`
+
+```yaml
+id: quran-birmingham-parchment-rc
+claim: Radiocarbon dating of Birmingham Qur'an manuscript Mingana 1572a parchment yielded ca. 568–645 CE (95.4%) for animal death, not ink or composition date.
+status: well-established
+period: parchment ca. 568–645 CE; manuscript witness to surahs 18–20 material
+sources:
+  - University of Birmingham, FAQ on radiocarbon analysis (2014 release)
+  - Behnam Sadeghi and Uwe Bergmann, Der Islam 87 (2010) — related textual studies cited in chapter
+notes: >
+  Hijazi script; aligns with standard consonantal text. Do not equate parchment date with dictation date of full Qur'an canon.
+related_ledger: Unresolved — Qur'an collection timeline
+```
+
+### `constitution-of-medina`
+
+```yaml
+id: constitution-of-medina
+claim: A document known as the Constitution of Medina preserves or reflects early treaty arrangements between Muhammad and Medinan factions including Jewish clans.
+status: contested
+period: traditionally early Medinan period (post-622 CE)
+sources:
+  - Ibn Hisham, Sira; Julius Wellhausen, Skizzen und Vorarbeiten IV
+  - Michael Lecker, Muslims, Jews and Pagans (1995)
+notes: >
+  Debate over single vs. composite document and exact wording; many scholars accept an early authentic kernel.
+related_ledger: Open question — Medina Jewish relations
+```
+
+### `conquest-not-mass-conversion`
+
+```yaml
+id: conquest-not-mass-conversion
+claim: Seventh-century Arab-Muslim conquests did not immediately convert most conquered populations to Islam; Christian and Jewish communities persisted for centuries.
+status: widely-accepted interpretation
+period: 634–700 CE and beyond
+sources:
+  - Hugh Kennedy, The Great Arab Conquests (2007)
+  - Michael G. Morony, Syria after the Muslim Conquest (2005)
+  - Milka Levy-Rubin, Non-Muslims in the Early Islamic Empire (2011)
+notes: >
+  Conversion curves varied by region; Arabicization and Islamization are long processes.
+related_ledger: Provisional significance — religious community
+```
+
+### `dome-of-the-rock-72ah`
+
+```yaml
+id: dome-of-the-rock-72ah
+claim: The Dome of the Rock in Jerusalem bears inscriptions dated 72 AH / ca. 691–692 CE with Qur'anic text witnessing early Islamic theology and textual tradition.
+status: well-established
+period: 691–692 CE (72 AH)
+sources:
+  - Oleg Grabar, The Dome of the Rock (2006)
+  - Inscriptions published in corpora of early Islamic epigraphy (chapter bibliography)
+notes: >
+  Material evidence for Umayyad public Islam; occasional variant readings vs. standard text noted by scholars.
+related_ledger: Emerging distinctions — Islamic imperial visibility
+```
