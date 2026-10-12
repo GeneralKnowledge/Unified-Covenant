@@ -109,6 +109,8 @@ Fred Donner’s *Muhammad and the Believers* (2010) argues that the earliest mov
 
 For hadith specifically, Joseph Schacht’s mid-twentieth-century legal analysis argued that many attributed Prophetic rulings grew from **later** regional practice retrojected to Muhammad—a **contested** generalization, but a permanent reminder that **isnād** lists authenticate **transmission**, not automatically **fact**. Modern Muslim scholarship and Western philology both pursue **matn** (text) analysis and **cross-reference** with Qur’an and archaeology.
 
+Non-Muslim **Syriac** chronicles from the seventh century (e.g. **Thomas the Presbyter**, 640 CE entry on **Arab** victory; **Sebeos** on Muhammad’s **legislation** and **Abrahamic** lineage) provide **roughly contemporary** external **perspective** but **not** independent **biography**. They confirm that **outsiders** soon linked **Arab** **success** to a **prophetic** **figure** and **monotheist** **preaching**, while **misdating** or **misunderstanding** details (**widely accepted interpretation** in Hoyland’s survey).
+
 ---
 
 ## C. Muhammad’s life and preaching
