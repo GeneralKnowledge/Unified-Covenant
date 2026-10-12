@@ -278,3 +278,19 @@ notes: >
   Material evidence for Umayyad public Islam; occasional variant readings vs. standard text noted by scholars.
 related_ledger: Emerging distinctions — Islamic imperial visibility
 ```
+
+### `comparison-phase-5-matrix`
+
+```yaml
+id: comparison-phase-5-matrix
+claim: Phase 5 comparative evidence matrix records agreements, differences, and direct incompatibilities across Judaism, Christianity, and Islam without reconciling them.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - comparison/evidence-matrix.md
+  - history/01-before-the-branches.md through history/04-the-emergence-of-islam.md
+notes: >
+  Matrix rows trace to chronicle sections; disagreement register flags e.g. crucifixion (historical
+  well-established vs. Qur'an 4:157 religious tradition), Trinity, final prophethood. Not project doctrine.
+related_ledger: Direct disagreements register; Evidence-gap register
+```
