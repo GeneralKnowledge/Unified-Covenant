@@ -294,3 +294,21 @@ notes: >
   well-established vs. Qur'an 4:157 religious tradition), Trinity, final prophethood. Not project doctrine.
 related_ledger: Direct disagreements register; Evidence-gap register
 ```
+
+### `quran-4-157-crucifixion`
+
+```yaml
+id: quran-4-157-crucifixion
+claim: Qur'an 4:157 states that Jews did not kill or crucify 'Isa and that it was made to appear so to them; mainstream Muslim exegesis treats this as denial of successful crucifixion by opponents, while Christian tradition affirms crucifixion under Pilate as historical and theological core.
+status: religious-tradition
+period: Qur'an text tradition 7th century CE; exegesis ongoing
+sources:
+  - history/04-the-emergence-of-islam.md (§ D Qur'an engagement; ledger Jesus row; signposts)
+  - history/03-the-emergence-of-christianity.md (§ C Crucifixion; § D Resurrection)
+notes: >
+  Historical crucifixion under Pilate is well-established separately (jesus-crucifixion-pilate).
+  Matrix separates historical reconstruction, Qur'anic religious tradition, and theological incompatibility;
+  does not downgrade crucifixion to "unresolved" because of Q. 4:157. Academic readings of Arabic and
+  intent remain contested; chronicle does not adjudicate.
+related_ledger: Direct disagreements §2; Matrix theme E crucifixion row
+```
