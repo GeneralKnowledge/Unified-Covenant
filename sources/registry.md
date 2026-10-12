@@ -151,3 +151,54 @@ notes: >
   Josephus uses Greek philosophical categories; sect membership was a minority phenomenon.
 related_ledger: Emerging distinctions — sects; Provisional significance for later comparison
 ```
+
+### `jesus-crucifixion-pilate`
+
+```yaml
+id: jesus-crucifixion-pilate
+claim: Jesus of Nazareth was executed by crucifixion under Roman authority; Pontius Pilate was prefect of Judea.
+status: well-established
+period: ca. 30–33 CE (exact year contested)
+sources:
+  - Tacitus, Annals 15.44
+  - Josephus, Antiquities 18.63–64 (Testimonium Flavianum; partial authenticity widely accepted)
+  - Mark 15 / parallel passion narratives; John 19
+  - E. P. Sanders, The Historical Figure of Jesus (1993)
+notes: >
+  Gospel accounts of Sanhedrin and crowd roles are theological-narrative; collective Jewish
+  responsibility is a later misreading, not a historical conclusion.
+related_ledger: Emerging distinctions — crucifixion; Open questions — trial sequence
+```
+
+### `corinthians-15-pre-pauline-creed`
+
+```yaml
+id: corinthians-15-pre-pauline-creed
+claim: 1 Corinthians 15:3–5 (possibly 3–7) incorporates a pre-Pauline tradition formula about death, burial, and resurrection appearances.
+status: widely-accepted interpretation
+period: tradition plausibly within years of crucifixion; letter ca. 53–55 CE
+sources:
+  - G. L. MacGregor, JETS 49/2 (2006)
+  - Larry Hurtado, Lord Jesus Christ (2003)
+  - 1 Corinthians 15:3–7; Galatians 1:18–19 (context for reception)
+notes: >
+  Theological claim that God raised Jesus is distinct from historical claim about early belief.
+  Extent of formula (vv. 6–7) contested.
+related_ledger: Emerging distinctions — resurrection proclamation
+```
+
+### `parting-of-ways-gradual`
+
+```yaml
+id: parting-of-ways-gradual
+claim: Distinct Jewish and Christian religious identities emerged unevenly over centuries; second-century border-making differs from first-century overlap.
+status: contested
+period: 1st–4th centuries CE (focus of chapter: through early 2nd c.)
+sources:
+  - Daniel Boyarin, Border Lines (2004)
+  - Judith M. Lieu, Neither Jew nor Christian? (2002)
+  - Shaye J. D. Cohen, From the Maccabees to the Mishnah (2018)
+notes: >
+  Do not treat Birkat ha-Minim or single expulsion events as globally established without qualification.
+related_ledger: Unresolved — timing of separation; Provisional significance — communal identity
+```
