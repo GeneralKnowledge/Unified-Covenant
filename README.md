@@ -16,13 +16,14 @@ The name comes from [THE_UNIFIED_COVENANT.md](./THE_UNIFIED_COVENANT.md)—a **f
 |----------|-------------|
 | [THE_UNIFIED_COVENANT.md](./THE_UNIFIED_COVENANT.md) | Initial speculative merge essay (preserved as-is) |
 | [history/01-before-the-branches.md](./history/01-before-the-branches.md) | **Chapter 1:** Ancient Near East and emergence of Israelite religion |
+| [history/02-from-israel-to-judaism.md](./history/02-from-israel-to-judaism.md) | **Chapter 2:** Kingdoms, exile, Persian restoration, Second Temple Judaism |
 | [history/README.md](./history/README.md) | Chronicle index |
 | [sources/registry.md](./sources/registry.md) | Minimal claim registry (sample entries) |
 
 ## Next stages
 
-- **Chapter 2 (not started):** Development of Israel and Judah, biblical traditions, emergence of Judaism.  
-- Future: comparative ledgers, then controlled synthesis experiments.
+- **Chapter 3 (not started):** Emergence of Christianity and its Jewish context.  
+- Future: comparative ledgers across Abrahamic traditions, then controlled synthesis experiments.
 
 ## Note
 

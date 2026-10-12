@@ -88,3 +88,66 @@ notes: >
   tradition history. Finkelstein/Römer propose some "realia" may reflect Iron Age southern highlands.
 related_ledger: Shared inheritance — Abraham as figure; Open questions — historicity
 ```
+
+### `samaria-fall-722-720`
+
+```yaml
+id: samaria-fall-722-720
+claim: The northern kingdom's capital Samaria fell to Assyria in the late 8th century BCE; Shalmaneser V and Sargon II both appear in sources as conquerors.
+status: well-established
+period: ca. 723–720 BCE (exact sequence contested)
+sources:
+  - Bob Becking, The Fall of Samaria (Brill, 1992)
+  - Radner, Hasegawa, Levin, eds., The Last Days of the Kingdom of Israel, BZAW 511 (2018)
+  - 2 Kings 17; Assyrian royal inscriptions (Sargon II)
+notes: >
+  Two-conquest hypothesis resolves biblical vs. Assyrian attribution; deportation and
+  resettlement are Assyrian policy but demographic details are incomplete.
+related_ledger: Emerging distinctions — end of northern kingdom
+```
+
+### `jerusalem-destroyed-587`
+
+```yaml
+id: jerusalem-destroyed-587
+claim: Nebuchadnezzar destroyed Jerusalem and the First Temple ca. 587/586 BCE; the Davidic monarchy ended.
+status: well-established
+period: 587/586 BCE
+sources:
+  - 2 Kings 25; Jeremiah 39; Babylonian Chronicle (conventional correlation)
+  - Lester L. Grabbe, A History of the Jews and Judaism in the Second Temple Period, vol. 1 (2004)
+notes: >
+  Minority of population deported; many remained in Judah. Exile is both event and theological frame.
+related_ledger: Inherited traditions — temple loss; Provisional significance — exile
+```
+
+### `exodus-historicity-debate`
+
+```yaml
+id: exodus-historicity-debate
+claim: The biblical exodus narrative is not confirmed by Egyptian records; scholars dispute whether a historical kernel exists (13th-c. Ramesside vs. literary construct).
+status: contested
+period: narrative set in New Kingdom/Egypt; literary development 1st millennium BCE and later
+sources:
+  - James K. Hoffmeier, Israel in Egypt (Oxford, 1997); JETS 50/2 (2007)
+  - Israel Finkelstein & Neil Silberman, The Bible Unearthed (2001)
+notes: >
+  Distinct from charter function of exodus in Jewish identity (Passover, Torah).
+related_ledger: Open questions — Exodus/Sinai; Provisional significance — liberation memory
+```
+
+### `second-temple-jewish-diversity`
+
+```yaml
+id: second-temple-jewish-diversity
+claim: Second Temple Judaism comprised diverse groups (e.g. Pharisees, Sadducees, Essenes) and many non-sectarian Jews sharing common practices.
+status: widely-accepted interpretation
+period: ca. 515 BCE – 70 CE
+sources:
+  - Lester L. Grabbe, A History of the Jews and Judaism in the Second Temple Period (2004–2008)
+  - Shaye J. D. Cohen, From the Maccabees to the Mishnah (2018)
+  - Josephus, Antiquities 18.11–25 (primary literary source; used critically)
+notes: >
+  Josephus uses Greek philosophical categories; sect membership was a minority phenomenon.
+related_ledger: Emerging distinctions — sects; Provisional significance for later comparison
+```
