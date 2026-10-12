@@ -1,7 +1,9 @@
 # Comparative evidence matrix
 
-**Status:** Phase 5 first pass (comparison only, not synthesis).  
+**Status:** Phase 5.1 audit pass (comparison only, not synthesis).  
 **Grounding:** [history/01-before-the-branches.md](../history/01-before-the-branches.md) through [history/04-the-emergence-of-islam.md](../history/04-the-emergence-of-islam.md).
+
+**Audit note:** Rows name **period-appropriate** or **normative** positions where the chronicle allows; see [comparison/README.md](./README.md) on qualifying “the tradition.”
 
 ## How to read each row
 
@@ -25,8 +27,8 @@ Chapter shorthand: **Ch.1**–**Ch.4** = history chapters 01–04.
 
 | Theme | Judaism | Christianity | Islam | Relationship | Evidence status | Historical development | Sources | Open questions |
 |-------|---------|--------------|-------|--------------|-----------------|------------------------|---------|----------------|
-| Commitment to one God | **Religious tradition:** YHWH as sole God of Israel; post-exilic texts stress exclusive devotion (**Widely accepted interpretation:** monolatry → monotheism gradual). | **Religious tradition:** one God; early Jesus-devotion adds exalted Christ without Nicene formula in 1st c. (**Ch.3**). | **Religious tradition:** *tawḥīd*; God without partners (*shirk* rejected) (**Ch.4**). | **Structural similarity** (monotheistic rhetoric); **Different interpretation** (Trinity/incarnation vs. Jewish/Islamic divine simplicity). | Historical: **Contested** (pace of Israelite monotheism). Theological: **Religious tradition** each. | Israelite Yahwism (Iron Age–); Second Temple Jewish diversity; Christian high christology 1st c.; Qur’anic polemic 7th c. | Ch.1 § religion; Ch.2 ledger; Ch.3 § resurrection/devotion; Ch.4 § Meccan preaching; `yahwism-monotheism-gradual` | Whether “monotheism” is one category or three family resemblances |
-| Trinity / incarnation | n/a (later rabbinic Judaism rejects Christian God-language). | **Religious tradition:** later creeds (Nicene **outside Ch.3**); Ch.3: Lord/Christ devotion, not full Trinity. | **Religious tradition:** rejects divine sonship/partnership (Q. 5:17, 9:30 cited **Ch.4**). | **Direct disagreement** (Christian **Religious tradition** vs. Jewish/Islamic **Religious tradition**). | **Religious tradition**; historical **Widely accepted interpretation:** christological development post-1st c. | 1st–4th c. CE Christian development (beyond Ch.3); 7th c. Qur’anic engagement | Ch.3 provisional table; Ch.4 § Qur’an engagement; Ch.4 signposts | Matrix does not adjudicate metaphysics |
+| Commitment to one God | **Religious tradition** (biblical/Second Temple): YHWH as God of Israel; exclusive devotion stressed in many post-exilic texts. **Widely accepted interpretation:** monolatry → monotheism gradual (**Contested** pace). | **Religious tradition:** one God of Israel; **Ch.3** documents early **exalted Jesus-devotion** without Nicene Trinity (creeds **post–Ch.3 endpoint**). | **Religious tradition:** *tawḥīd*; rejection of *shirk* (**Ch.4**). | **Structural similarity** (one-God rhetoric in each); **Different interpretation** (what “one God” entails). **Not** shared inheritance of Trinity or *tawḥīd* formulas as such. | Historical development: **Contested** (Israelite monotheism). Theological claims: **Religious tradition** each. | Iron Age Yahwism → Second Temple; 1st c. Christ-devotion; 7th c. Qur’an | [Ch.1](../history/01-before-the-branches.md); [Ch.2 ledger](../history/02-from-israel-to-judaism.md#historical-ledger-chapter-2); [Ch.3 § D](../history/03-the-emergence-of-christianity.md#d-resurrection-belief-and-the-birth-of-the-movement); [Ch.4 § C](../history/04-the-emergence-of-islam.md#c-muhammads-life-and-preaching); `yahwism-monotheism-gradual` | Whether “monotheism” is one analytical category |
+| Trinity / incarnation | Normative **rabbinic Judaism** (post-70, **outside Ch.2–3 depth**): rejects Christian Trinitarian/incarnational God-language. **Ch.3** period: Jewish **diversity** (no single “Jewish view” of Jesus). | **Religious tradition:** Trinitarian/incarnational Christology in **later** mainstream Christianity (**Nicene** etc. **outside Ch.3**). **Ch.3:** Lord/Christ devotion, not fixed Trinity. | **Religious tradition:** Qur’an rejects divine sonship/partnership (e.g. Q. 5:17, 9:30, **Ch.4**). | **Direct disagreement** (theological, normative streams). **Historical contact:** Christian–Jewish and Christian–Muslim polemic. | **Religious tradition**; **Widely accepted interpretation:** christological **development** continues after Ch.3 ends. | Post-1st c. Christian creeds; 7th c. Qur’anic polemic | [Ch.3 provisional table](../history/03-the-emergence-of-christianity.md#provisional-significance-for-later-comparison); [Ch.4 § D](../history/04-the-emergence-of-islam.md#d-the-quran-revelation-text-and-historical-context) | Compare only with period labels |
 | Transcendence / names | God beyond images; divine names (YHWH, El traditions **Ch.1**). | God acts in history; Jesus as human **Religious tradition** + divine status debated historically. | Transcendent creator; 99 names tradition (**post-7th c.** not in Ch.4). | **Shared inheritance** (ANE + biblical idiom); **Different interpretation** | **Widely accepted interpretation** (shared idiom); details **Contested** | Ancient Near East → biblical → Second Temple; Late Antique Arabia | Ch.1; Ch.2; Ch.4 § Late Antique setting | Islamic divine attributes system barely in chronicle |
 
 ---
@@ -56,7 +58,7 @@ Chapter shorthand: **Ch.1**–**Ch.4** = history chapters 01–04.
 | Theme | Judaism | Christianity | Islam | Relationship | Evidence status | Historical development | Sources | Open questions |
 |-------|---------|--------------|-------|--------------|-----------------|------------------------|---------|----------------|
 | Primary scripture corpus | Hebrew Bible formation over centuries; Torah central by Second Temple (**Ch.2**). | Hebrew Bible + emerging NT (Gospels, Paul **Ch.3**); no closed canon in 1st–early 2nd c. | Qur’an Arabic corpus 7th c.; oral/written transmission (**Ch.4**). | **Shared inheritance** (Jewish scripture in Christian use); **Different interpretation** (canon, authority). | **Widely accepted interpretation** (processes); dates **Contested** | 5th c. BCE–2nd c. CE Jewish canonization **partial in Ch.2**; Christian 1st–2nd c.; Qur’an collection tradition | Ch.2; Ch.3; Ch.4 § Qur’an; `corinthians-15-pre-pauline-creed` (method analog) | NT canon closure **outside** Ch.3 endpoint |
-| Preservation / corruption | **Religious tradition:** Torah preserved; scribal tradition. | **Religious tradition:** OT + NT inspired; textual criticism **modern**. | **Religious tradition:** Qur’an preserved; Q. accuses some People of the Book of altering texts (**Ch.4**). | **Direct disagreement** (mutual **Religious tradition** charges **not** historiographically adjudicated here) | Theological: **Religious tradition**. Historical text criticism: **Widely accepted interpretation** (variants exist—Sana‘a, LXX, etc.) | Manuscript traditions each branch | Ch.4 § manuscripts; Ch.2 Septuagint mention | Matrix **does not** rule authentic/corrupt |
+| Preservation / corruption | **Religious tradition:** Torah preserved through scribal transmission. | **Religious tradition:** scriptures inspired; **Well established** that manuscripts vary (textual criticism). | **Religious tradition:** Qur’an preserved; Q. 2:75–79, 4:157 context — some **People of the Book** accused of distortion (**Ch.4**). | **Direct disagreement** (theological polemic). **Shared inheritance:** manuscript cultures. **Different interpretation:** what “corruption” means. | Variants: **Well established** (material evidence). “Corruption” charges: **Religious tradition**, not historical verdict here. | Manuscript eras each branch | [Ch.4 § D](../history/04-the-emergence-of-islam.md#d-the-quran-revelation-text-and-historical-context); `quran-birmingham-parchment-rc` | Do not equate variants with theological taḥrīf |
 | What historians can study | Composition, editing, archaeology, manuscripts. | Same + Gospel source criticism (**Ch.3**). | Qur’an manuscripts, sira limits (**Ch.4**). | **Structural similarity** (historical methods differ by source survival) | **Well established** (methods exist); conclusions **Contested** | — | All chapters § sources | Uniform standards across traditions **Unresolved** |
 
 ---
@@ -65,10 +67,10 @@ Chapter shorthand: **Ch.1**–**Ch.4** = history chapters 01–04.
 
 | Theme | Judaism | Christianity | Islam | Relationship | Evidence status | Historical development | Sources | Open questions |
 |-------|---------|--------------|-------|--------------|-----------------|------------------------|---------|----------------|
-| Historical Jesus | **Widely accepted interpretation:** Jewish teacher, crucified under Pilate (**Ch.3**); Jewish tradition later rejects messianic claims (**post-Ch.3**). | Same historical baseline in **Ch.3**; **Religious tradition:** Messiah, Lord, risen. | Qur’an presupposes Jesus; biography **not** Qur’an’s genre (**Ch.4**). | **Historical contact** (Jews in 1st c. Judea); **Different interpretation** | Historical: **Well established** (minimal facts). Theological: **Religious tradition** | 1st c. CE | Ch.3 § historical Jesus; `jesus-crucifixion-pilate` | Jesus in rabbinic sources **not** in chronicle depth |
-| Crucifixion | **Religious tradition:** executed (historical **Well established**); not Messiah for normative Judaism. | **Religious tradition:** salvific death; resurrection faith launches movement (**Ch.3**). | **Religious tradition:** Q. 4:157—opponents did not kill/crucify him; interpretation **Contested** across traditions (**Ch.4**). | **Direct disagreement** (Christian **Religious tradition** vs. Qur’anic **Religious tradition**); historical crucifixion **Well established** vs. theological denial | Dual labels required | 1st c.; 7th c. Qur’an | Ch.3 § crucifixion; Ch.4 ledger Jesus row | Historical method cannot settle theological denial |
-| Resurrection | Some Jews accepted resurrection hope; Sadducees denied (**Ch.3** context). | **Religious tradition:** God raised Jesus; pre-Pauline formula (**Widely accepted interpretation**). | **Religious tradition:** Jesus not killed (Q. 4:157); no NT-style Easter narrative in Qur’an. | **Direct disagreement** (theological); **Shared inheritance** (resurrection discourse in Late Antiquity) | Historical belief: **Widely accepted interpretation**; event: **Religious tradition** | 1st c. Christian; Jewish apocalyptic background | Ch.3 § 1 Cor 15; `corinthians-15-pre-pauline-creed` | Naturalistic explanations **Contested** (Ch.3) |
-| Son of God / incarnation | Rejection of Christian claims (**Religious tradition**, post-1st c.). | **Religious tradition:** develops toward incarnation/Trinity (**after Ch.3**). | Messenger/Messiah, not divine Son as Trinitarian Christianity (**Ch.4**). | **Direct disagreement** | **Religious tradition** | Post-apostolic Christianity; Qur’anic 7th c. | Ch.3; Ch.4 § Dome inscriptions (Christological polemic) | — |
+| Historical Jesus | **Widely accepted interpretation** (mainstream historians, **Ch.3**): Jewish figure, executed under Pilate. **Religious tradition** (normative rabbinic Judaism, **post-1st c., underdeveloped in chronicle**): not Messiah; no salvific role. **Ch.3:** movement began **within** Jewish diversity. | Same historical baseline (**Ch.3**); **Religious tradition:** Messiah/Lord, risen. | Qur’an names and discusses ‘Īsā; **not** a continuous biography (**Ch.4**). | **Historical contact:** 1st c. Judean Jews and Jesus-followers. **Different interpretation:** status of Jesus. | Minimal facts: **Well established** (`jesus-crucifixion-pilate`). Theological titles: **Religious tradition**. | 1st c. CE | [Ch.3 § B–C](../history/03-the-emergence-of-christianity.md#b-the-historical-jesus); `jesus-crucifixion-pilate` | Rabbinic portraits of Jesus **gap** |
+| Crucifixion (event) | Historians: execution under Roman authority **Well established** (**Ch.3**). Jewish **Religious tradition** does not treat crucifixion as salvific; **rejection of Jesus as Messiah** is normative in later rabbinic Judaism, not denial of Roman execution as such. | **Religious tradition:** salvific death; **Well established** historically that crucifixion occurred (**Ch.3**). | **Religious tradition** (Q. 4:157): opponents did **not** kill or crucify him; see `quran-4-157-crucifixion`. **Contested** academic readings of Arabic wording and intent. | **Direct disagreement** (theological narratives). **Not** a historical **Unresolved** on crucifixion under Pilate. | Event: **Well established**. Qur’anic verse: **Religious tradition**; meaning **Contested**. | 1st c.; 7th c. text | [Ch.3 § C](../history/03-the-emergence-of-christianity.md#c-crucifixion-under-rome); [Ch.4 § D](../history/04-the-emergence-of-islam.md#d-the-quran-revelation-text-and-historical-context); `quran-4-157-crucifixion` | Apologetic harmonizations **out of scope** |
+| Resurrection (belief vs. event) | Second Temple: Pharisees vs. Sadducees on resurrection (**Ch.2–3**). No **Religious tradition** of Easter faith in Jesus in normative Judaism. | **Religious tradition:** God raised Jesus. **Widely accepted interpretation:** early believers proclaimed appearances/resurrection (**Ch.3**); supernatural causation **not** verified by historians. | **Religious tradition:** Q. 4:157 implies no crucifixion/killing by foes; **no** NT-style passion/resurrection narrative in Qur’an. | **Shared inheritance:** resurrection/judgment discourse. **Direct disagreement:** Easter faith vs. Qur’anic account. | Belief attested: **Widely accepted interpretation**; event: **Religious tradition** (Christian); denied in Qur’anic **Religious tradition** sense above. | 1st c. movement; 7th c. Qur’an | [Ch.3 § D](../history/03-the-emergence-of-christianity.md#d-resurrection-belief-and-the-birth-of-the-movement); `corinthians-15-pre-pauline-creed` | Do not conflate “no resurrection faith” with “no resurrection hope” |
+| Son of God / incarnation | Normative rabbinic Judaism (**post-1st c.**): rejects Christian divine-son/incarnation claims. | **Ch.3:** exalted titles; **Religious tradition** of incarnation/Trinity **develops after** chronicle endpoint. | **Religious tradition:** messenger/Messiah; rejects Trinitarian **Son of God** (**Ch.4**, Dome inscriptions). | **Direct disagreement** (normative theology). **Different interpretation** of “Messiah.” | **Religious tradition** | Post-apostolic Christianity; 7th c. Islam | [Ch.3](../history/03-the-emergence-of-christianity.md); [Ch.4 § G](../history/04-the-emergence-of-islam.md#g-the-early-caliphate-and-expansion); `dome-of-the-rock-72ah` | — |
 
 ---
 
@@ -76,8 +78,8 @@ Chapter shorthand: **Ch.1**–**Ch.4** = history chapters 01–04.
 
 | Theme | Judaism | Christianity | Islam | Relationship | Evidence status | Historical development | Sources | Open questions |
 |-------|---------|--------------|-------|--------------|-----------------|------------------------|---------|----------------|
-| Prophetic office | Prophets in Hebrew Bible; cessation debates Second Temple (**Ch.2** implied). | Jesus as prophet/Messiah; apostles; **Religious tradition** continuation via Spirit (**Ch.3**). | Muhammad **Religious tradition:** final prophet (*khātama al-nabiyyīn*, Q. 33:40 **Ch.4**). | **Different interpretation**; **Direct disagreement** on finality and Jesus/Muhammad | **Religious tradition**; historical roles **Widely accepted interpretation** (Muhammad as 7th c. leader) | Israelite → Second Temple; 1st c. movement; 7th c. | Ch.2; Ch.3; Ch.4 § identity | Prophethood in modern Judaism **underdeveloped** in matrix |
-| Institutional authority | Priests, later rabbis (**Ch.2** Pharisees); post-70 rabbinic **preview only**. | Apostles, Paul, Ignatius bishops trend (**Ch.3**); no pope yet. | Caliph + emerging scholars; hadith corpus **later** (**Ch.4**). | **Structural similarity** (community leaders); **Different interpretation** | **Widely accepted interpretation** (institutions emerge over time) | Second Temple → rabbinic; early church; Umayyad | Ch.2–4 authority rows | Shi‘i imamology **minimal** in Ch.4 |
+| Prophetic office | Hebrew Bible prophets; Second Temple **diversity** (**Ch.2**). Modern rabbinic Judaism: prophecy ceased (**Religious tradition**, **post-70 gap**). | Jesus as prophet/Messiah in **Ch.3**; Spirit and apostles; **not** “final prophet” in Christian **Religious tradition**. | Muhammad: **Religious tradition** final prophet (Q. 33:40, **Ch.4**). Shi‘i: adds imamate **after** Muhammad (**Ch.4**, not mature imamology). | **Shared inheritance:** prophetic figures in scripture. **Direct disagreement:** finality (Muhammad vs. Christ). **Different interpretation:** “Messiah/prophet.” | **Religious tradition**; Muhammad’s 7th c. leadership **Widely accepted interpretation** | Israelite → Second Temple; 1st c.; 7th c. | [Ch.2](../history/02-from-israel-to-judaism.md); [Ch.3 § E–F](../history/03-the-emergence-of-christianity.md#e-the-earliest-jesus-movement-within-judaism); [Ch.4 § I](../history/04-the-emergence-of-islam.md#i-the-formation-of-islamic-identity-and-authority) | Prophecy cessation in Judaism **needs chronicle depth** |
+| Institutional authority | Priests; Pharisees vs. Sadducees (**Ch.2**). Rabbis **post-70** (preview). | Apostles, Paul, Ignatius (**Ch.3**); bishops emerging, not papal monarchy. | Caliph (**Ch.4**); scholars/hadith **later**; Sunni caliph vs. Shi‘i imam **Contested** within Islam (**Ch.4** Fitna). | **Structural similarity** (leadership institutions). **Different interpretation** (sources of legitimacy). | **Widely accepted interpretation** | Second Temple → Umayyad | [Ch.2](../history/02-from-israel-to-judaism.md); [Ch.3 § I](../history/03-the-emergence-of-christianity.md#i-the-roman-world-and-the-first-christians); [Ch.4 § F–I](../history/04-the-emergence-of-islam.md#f-the-death-of-muhammad-and-the-succession-crisis) | Mature papacy/rabbinate **outside** chronicle |
 | Succession after founder | n/a (no single founder in same sense). | No clear successor to Jesus; Paul/James tension (**Ch.3**). | Saqifa, caliphate; Sunni/Shi‘i memories differ (**Ch.4**). | **Structural similarity** (leadership crisis); **Different interpretation** | **Widely accepted interpretation** / **Contested** details | 632 CE Islamic; 1st c. Christian collegial | Ch.3; Ch.4 § F | — |
 
 ---
@@ -116,7 +118,7 @@ Chapter shorthand: **Ch.1**–**Ch.4** = history chapters 01–04.
 
 | Theme | Judaism | Christianity | Islam | Relationship | Evidence status | Historical development | Sources | Open questions |
 |-------|---------|--------------|-------|--------------|-----------------|------------------------|---------|----------------|
-| Other religions (ideal) | Hebrew Bible: other nations’ gods rejected; strangers in land laws (**Ch.1–2**). | Early mission to gentiles; Jewish-Christian split (**Ch.3**). | Ahl al-Kitāb; Q. polemic + recognition (**Ch.4**). | **Historical contact**; **Different interpretation** | Mixed **Religious tradition** + historical | 1st c. parting; 7th c. conquests | Ch.3 `parting-of-ways-gradual`; Ch.4 § H | — |
+| Other religions (ideal) | Hebrew Bible: rejection of other gods; laws on strangers (**Ch.1–2**). **Not** one uniform policy in all periods. | Gentile mission; **gradual** Jewish–Christian differentiation (**Contested** pace, **Ch.3**). | Ahl al-Kitāb; recognition + polemic (**Ch.4**). | **Historical contact** (1st c. overlap; 7th c. conquest). **Different interpretation** (theological evaluation of others). | Mixed | 1st–7th c. | `parting-of-ways-gradual`; [Ch.4 § H](../history/04-the-emergence-of-islam.md#h-jewish-and-christian-communities-under-early-muslim-rule) | Ideal vs. practice always diverge |
 | Minorities under rule | Diaspora under empires (**Ch.2**). | Minority in empire (**Ch.3**). | Conquest ≠ mass conversion; dhimma **later** than 7th c. (**Ch.4**). | **Historical contact** (Jews/Christians under early Islam) | **Widely accepted interpretation** | 7th c. patchwork | Ch.4 § H; `conquest-not-mass-conversion` | Classical fiqh ≠ 7th c. practice |
 | Violence / tolerance | **Contested** per period (not uniform). | Same (**Ch.3** avoids collective guilt on Jews). | Same (**Ch.4** Medina conflicts qualified). | **Unresolved** for global character judgments | **Contested** | All periods | All chapters safeguards | Matrix refuses uniform labels |
 
@@ -130,28 +132,56 @@ Each entry: (1) claims, (2) who holds them, (3) disagreement type, (4) what hist
 
 | | |
 |--|--|
-| **Claims** | Christianity (**Religious tradition**, developing in 1st c., creeds later): Jesus is Lord/Messiah, ultimately incarnate divine Son in normative Christianity. Judaism (**Religious tradition**): God is one; Jesus is not incarnate God. Islam (**Religious tradition**): ‘Īsā is messenger/Messiah, not co-eternal Son; rejects Trinitarian formulas (**Ch.4**). |
-| **Holdings** | Normative Christian churches; normative rabbinic Judaism; normative Islam. |
+| **Claims** | **Christianity:** **Ch.3** — exalted Lord/Christ devotion; **post–Ch.3** mainstream — incarnate divine Son/Trinity (**Religious tradition**, creeds **outside chronicle**). **Judaism:** God is one; Jesus not incarnate God (**Religious tradition**, normative rabbinic stream **post-70**). **Islam:** ‘Īsā messenger/Messiah; rejects Trinitarian divine sonship (**Religious tradition**, **Ch.4**). |
+| **Holdings** | Mainstream post-Nicaean churches; normative rabbinic Judaism; mainstream Sunni/Shi‘i Islam (Qur’an-centered). **Internal diversity** (early christologies; Jewish Jesus-believers in **Ch.3**) not erased. |
 | **Type** | Theological (+ historical disagreement over how early high christology developed). |
 | **History** | Can document **Widely accepted interpretation:** devotion to Jesus in 1st c.; cannot verify incarnation or refute it. |
 | **Compatibility** | **Directly incompatible** if “Son of God” = Trinitarian metaphysics required of all three. **Partly compatible** only under redefinitions not accepted as normative by all. |
 
 ### 2. Crucifixion and resurrection of Jesus
 
-| | |
-|--|--|
-| **Claims** | Christianity: crucifixion under Pilate (**Well established** historically); bodily resurrection **Religious tradition**. Islam: Q. 4:157 denies killing/crucifixion by opponents (**Religious tradition**). Judaism: execution historically plausible; no resurrection faith in Jesus. |
-| **Holdings** | Christians; Muslims (Qur’an); Jews (historical + theological rejection of messiahship). |
-| **Type** | Theological + historical (event of crucifixion). |
-| **History** | Crucifixion **Well established** (`jesus-crucifixion-pilate`); resurrection not adjudicated; Qur’anic verse is **Religious tradition** witness, not independent disproof. |
-| **Compatibility** | **Directly incompatible** between Christian resurrection soteriology and Qur’anic denial of crucifixion narrative; historical crucifixion vs. Qur’anic text = **Unresolved** for believers prioritizing different source types. |
+**Layer A — Historical reconstruction (independent of theology)**  
+| Question | Finding | Evidence status | Sources |
+|----------|---------|-----------------|---------|
+| Was Jesus executed under Roman authority? | Yes (crucifixion under Pilate) | **Well established** | `jesus-crucifixion-pilate`; [Ch.3 § C](../history/03-the-emergence-of-christianity.md#c-crucifixion-under-rome) |
+| Did earliest Jesus-followers proclaim resurrection/appearances? | Proclamation attested early | **Widely accepted interpretation** | `corinthians-15-pre-pauline-creed`; [Ch.3 § D](../history/03-the-emergence-of-christianity.md#d-resurrection-belief-and-the-birth-of-the-movement) |
+| Can historians verify supernatural resurrection? | No — method documents belief, not divine causation | **Well established** (method boundary) | [Ch.3 § D](../history/03-the-emergence-of-christianity.md#d-resurrection-belief-and-the-birth-of-the-movement) |
+
+Historical crucifixion is **not** downgraded because later texts deny it theologically. The Qur’an is **not** treated as an independent disproof of Roman execution.
+
+**Layer B — Text and interpretation (Q. 4:157)**  
+| Element | Content | Evidence status |
+|---------|---------|-----------------|
+| Qur’anic wording (summary) | States that Jews did not kill/crucify ‘Īsā; “but it was made to appear so” to them (standard Muslim translations; Arabic detail **Contested** in academic debate) | **Religious tradition** (scriptural text); exegesis **Contested** |
+| Common Muslim readings | Denial that enemies successfully killed/crucified Jesus; often paired with belief that God raised him | **Religious tradition** (majority Sunni/Shi‘i **norm**; not every historical Muslim writer identical) |
+| Christian/Jewish historical reading of Q. 4:157 | Often read as contradicting **Well established** crucifixion | Comparative inference, not neutral exegesis |
+| Academic range | From literal-theological to symbolic/alternate-crucifixion theories (**Contested**; chronicle does not settle) | **Contested** |
+
+See `quran-4-157-crucifixion`.
+
+**Layer C — Theological claims (traditions’ own)**  
+| Tradition (normative stream, period noted) | Claim |
+|--------------------------------------------|-------|
+| Mainstream Christianity | Crucifixion and resurrection central to faith (**Religious tradition**); soteriology built on Easter |
+| Islam (Qur’an-centered) | Opponents did not kill/crucify ‘Īsā as described in Q. 4:157 (**Religious tradition**) |
+| Normative rabbinic Judaism (post-1st c., **gap in chronicle**) | Jesus not Messiah; **no** Easter faith; generally **does not** deny Roman execution as historical fact in modern academic Jewish discourse |
+
+**Layer D — Compatibility**  
+| Pair | Result |
+|------|--------|
+| Christian **Religious tradition** (crucified-and-raised Messiah) vs. Qur’anic **Religious tradition** (4:157) | **Directly incompatible** if both read as same-sense historical narrative about the same event |
+| **Well established** historical crucifixion vs. Qur’anic **Religious tradition** | **Not** “historically unresolved”; historians may hold crucifixion **Well established** while reporting Qur’anic denial as **Religious tradition** |
+| Easter resurrection (theological) vs. historians | Supernatural event **Religious tradition**; not verified or refuted by historians |
+
+**Layer E — Epistemic priority (not historical evidence)**  
+Communities that treat Qur’an or NT as supreme revelation may **prioritize** scriptural testimony over extrinsic history. That is a **faith hermeneutic**, not a finding that Roman-era evidence is **Unknown / speculative**. Record without conflating layers.
 
 ### 3. Authority and finality of revelation
 
 | | |
 |--|--|
-| **Claims** | Judaism: Torah (+ oral tradition) as covenant charter. Christianity: OT + NT; Christ as interpretive center. Islam: Qur’an as final, complete revelation; Muhammad seal of prophets (**Ch.4**). |
-| **Holdings** | Each tradition’s normative authorities. |
+| **Claims** | **Judaism:** Written Torah central Second Temple (**Ch.2**); oral Torah **later** rabbinic **Religious tradition**. **Christianity:** Hebrew scriptures + emerging NT (**Ch.3**); Christ as interpretive center. **Islam:** Qur’an as divine speech; Muhammad “seal of prophets” (Q. 33:40, **Ch.4**). |
+| **Holdings** | Normative rabbinic Judaism; mainstream Christianity; mainstream Islam. Exclusive finality claims **Contested** between traditions, not between every individual adherent. |
 | **Type** | Theological/textual. |
 | **History** | Can map **Widely accepted interpretation:** canon and editing processes; cannot rank revelations without theological commitment. |
 | **Compatibility** | **Directly incompatible** if each exclusive claim is taken literally at once. |
@@ -160,8 +190,8 @@ Each entry: (1) claims, (2) who holds them, (3) disagreement type, (4) what hist
 
 | | |
 |--|--|
-| **Claims** | Islam: Muhammad final messenger (**Religious tradition**). Christianity/Judaism: do not accept (**Religious tradition** / historical non-adherence). |
-| **Holdings** | Muslims vs. Jews/Christians. |
+| **Claims** | **Islam:** Muhammad final prophet (**Religious tradition**, Q. 33:40). **Christianity:** Jesus central; Muhammad not accepted as prophet (**Religious tradition**). **Judaism:** prophets end before Muhammad; Muhammad not in biblical canon (**Religious tradition** / non-adherence). |
+| **Holdings** | Mainstream Islam; mainstream Christianity; normative Judaism. Some individuals syncretize — **not** normative institutional claims. |
 | **Type** | Theological. |
 | **History** | **Widely accepted interpretation:** 7th c. Arabian leader and Qur’an linked to movement; cannot verify prophethood. |
 | **Compatibility** | **Directly incompatible** for exclusive claims. |
@@ -170,11 +200,11 @@ Each entry: (1) claims, (2) who holds them, (3) disagreement type, (4) what hist
 
 | | |
 |--|--|
-| **Claims** | Israel/Jewish peoplehood (brit, mitzvot); Church as body of Christ; umma under Qur’an and Muhammad. |
-| **Holdings** | Respective traditions. |
+| **Claims** | **Judaism:** brit, peoplehood, mitzvot (**Ch.2**). **Christianity:** *ekklesia*, body of Christ, gentile inclusion debate (**Ch.3**). **Islam:** *umma* under Qur’an and prophetic leadership (**Ch.4**). |
+| **Holdings** | Each tradition’s **normative** self-understanding; **Ch.3** shows overlap before exclusive “Christian”/“Jew” labels (**Contested** timing). |
 | **Type** | Theological + legal + historical identity. |
-| **History** | **Well established:** distinct communities by 7th c.; **Different interpretation** of “true” covenant (**Ch.2–4** ledgers). |
-| **Compatibility** | **Directly incompatible** if only one community is covenantally valid; **Partly compatible** only as social coexistence, not theology. |
+| **History** | **Well established:** distinct communities by 7th c. **Widely accepted interpretation:** each narrates its own covenant story (**Ch.2–4** ledgers). |
+| **Compatibility** | **Directly incompatible** only if **exclusive** theological claims (“only this community is in valid covenant”) are asserted simultaneously. Coexistence in empire **Well established**; mutual theological recognition **not** required historically. |
 
 ### 6. Scripture integrity (mutual allegations)
 
@@ -202,12 +232,13 @@ Each entry: (1) claims, (2) who holds them, (3) disagreement type, (4) what hist
 | Historical Abraham/Moses | Ch.1–2 **Contested** historicity vs. **Religious tradition** in all three | Keep separate rows; do not merge |
 | Conversion and minority experience | Patchwork evidence only (**Ch.4** H) | Regional monographs; registry entries |
 | Samaritans | Real fork (**Ch.2** Git metaphor) | Third Abrahamic-adjacent row or appendix |
-| Registry coverage | Many matrix rows lack dedicated `registry:` ids | Add entries incrementally (`comparison-phase-5` note) |
+| Registry coverage | Many matrix rows lack dedicated `registry:` ids | Add incrementally; priority ids: `quran-4-157-crucifixion`, `jesus-crucifixion-pilate` |
+| Q. 4:157 exegesis in academia | Matrix cites **Contested** range without cataloguing schools | Dedicated note or bibliography row; avoid unsourced “standard Muslim view” |
 
 ---
 
 ## Matrix maintenance
 
-- **Version:** Phase 5 pass 1 (2026).  
-- **Chronicle dependency:** Edits to Ch.1–4 may require row updates; disagreement register should be reviewed if crucifixion or Qur’an sections change.  
+- **Version:** Phase 5.1 audit (2026).  
+- **Chronicle dependency:** Edits to Ch.1–4 may require row updates; disagreement register **§2** (crucifixion layers) should stay synchronized with [Ch.3 § C–D](../history/03-the-emergence-of-christianity.md) and [Ch.4 § D](../history/04-the-emergence-of-islam.md).  
 - **Synthesis:** [THE_UNIFIED_COVENANT.md](../THE_UNIFIED_COVENANT.md) presupposes a future merge; this document is intentionally **merge-resistant** where incompatibilities are real.

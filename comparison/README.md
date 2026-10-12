@@ -34,6 +34,14 @@ Each matrix row should be read with these distinctions in mind:
 3. **Scholarly interpretation** — Academic reconstruction (may be **Contested**).  
 4. **Comparative observation** — Carefully stated similarity, difference, or relationship between traditions.
 
+In the **disagreement register**, multi-layer disputes (especially crucifixion/resurrection) are split where needed:
+
+- **Historical reconstruction** — What convergent evidence supports (e.g. crucifixion under Pilate: **Well established** in the chronicle).  
+- **Text and interpretation** — What a source says and how communities read it (e.g. Q. 4:157: **Contested** between Muslim, Christian, and academic readers).  
+- **Theological claims** — What traditions affirm (**Religious tradition**).  
+- **Incompatibility** — Whether claims conflict if taken in the same sense.  
+- **Epistemic priority** — Which sources a community treats as decisive (does **not** downgrade a separate historical conclusion).
+
 **Relationship types** (see matrix “Relationship” column):
 
 - **Shared inheritance** — Identifiable historical connection (texts, practices, ideas).  
@@ -62,3 +70,7 @@ Each matrix row should be read with these distinctions in mind:
 - No new chronological “Chapter 5” narrative.  
 - No unified-covenant synthesis essay.  
 - No edits to Chapters 1–4 or THE_UNIFIED_COVENANT.md as part of Phase 5 scope.
+
+## Qualifying “the tradition”
+
+Matrix cells often name **dominant or normative** positions for a period covered by the chronicle. They do **not** imply every adherent held the same view, or that minority interpretations have equal institutional standing. Internal diversity (Pharisees/Sadducees; early Jewish Jesus-followers vs. other Jews; Sunni/Shi‘i memories in **Ch.4**) is noted where the chronicle supports it.
