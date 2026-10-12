@@ -56,8 +56,11 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 | Document | Description |
 |----------|-------------|
 | [evidence-matrix.md](./evidence-matrix.md) | Thematic comparison tables, disagreement register, evidence-gap register |
+| [convergence-assessment.md](./convergence-assessment.md) | Phase 5.2: candidate convergence themes, compatibility outcomes, test of the synthesis essay (essay not edited) |
 | [../history/README.md](../history/README.md) | Chronicle index (Chapters 1–4) |
 | [../sources/registry.md](../sources/registry.md) | Sample claim registry (expand as comparison matures) |
+
+**Phase notes:** The matrix was audited in **Phase 5.1** (crucifixion / Q. 4:157 layers; see registry `comparison-phase-5-matrix`). **Phase 5.2** convergence testing is in [`convergence-assessment.md`](./convergence-assessment.md) (registry `comparison-phase-5-2-convergence`).
 
 ## How to use the matrix
 
