@@ -7,7 +7,7 @@ The name comes from [THE_UNIFIED_COVENANT.md](./THE_UNIFIED_COVENANT.md)—a **f
 ## Three-part method
 
 1. **Historical reconstruction** — chronicle chapters grounded in scholarship, with explicit evidence labels and bibliographies.  
-2. **Comparative agreement and disagreement** — structured ledgers of shared inheritance, conflicts, and open questions (future phases).  
+2. **Comparative agreement and disagreement** — structured ledgers of shared inheritance, conflicts, and open questions ([comparison phase](./comparison/README.md)).  
 3. **Experimental ideological synthesis** — LLM-assisted merge attempts **only after** sufficient history and comparison (see the essay for an early sketch).
 
 ## Contents
@@ -21,11 +21,13 @@ The name comes from [THE_UNIFIED_COVENANT.md](./THE_UNIFIED_COVENANT.md)—a **f
 | [history/04-the-emergence-of-islam.md](./history/04-the-emergence-of-islam.md) | **Chapter 4:** Muhammad, Qur’an, early caliphate to ca. 700 CE |
 | [history/README.md](./history/README.md) | Chronicle index |
 | [sources/registry.md](./sources/registry.md) | Minimal claim registry (sample entries) |
+| [comparison/README.md](./comparison/README.md) | **Phase 5:** Comparative method and index |
+| [comparison/evidence-matrix.md](./comparison/evidence-matrix.md) | Thematic matrix, disagreement register, evidence gaps |
 
 ## Next stages
 
-- **Comparative stage (planned):** Agreement/disagreement ledgers across Abrahamic traditions (not started).  
-- Future: controlled synthesis experiments after history and comparison phases.
+- **Comparative stage (Phase 5):** [Evidence matrix](./comparison/evidence-matrix.md) — comparison, not synthesis.  
+- Future: controlled synthesis experiments only after comparison is reviewed.
 
 ## Note
 
