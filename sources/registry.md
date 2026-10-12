@@ -312,6 +312,107 @@ notes: >
 related_ledger: Convergence assessment summary table; Test of THE_UNIFIED_COVENANT.md
 ```
 
+### `comparison-phase-5-3-source-audit`
+
+```yaml
+id: comparison-phase-5-3-source-audit
+claim: Phase 5.3 audits convergence-assessment claims against chronicle, matrix, registry, and chapter bibliographies; narrows overbroad wording without changing outcome categories.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - comparison/convergence-source-audit.md
+  - comparison/convergence-assessment.md
+notes: >
+  Priority areas: post-70 Judaism (attributed), early Christ-devotion vs. Nicene gap, Islamic authority layers,
+  ethics vs. Unified Covenant philosophical proposals. Does not edit chronicle or synthesis essay.
+related_ledger: convergence-source-audit compatibility table
+```
+
+### `rabbinic-judaism-post-70-preview`
+
+```yaml
+id: rabbinic-judaism-post-70-preview
+claim: Rabbinic Judaism emerges after the 70 CE temple destruction; the four-chapter chronicle establishes Second Temple diversity and previews Pharisaic-rabbinic continuity but does not narrate full post-70 halakhic theology.
+status: widely-accepted interpretation
+period: post-70 CE (preview only in project chronicle)
+sources:
+  - Shaye J. D. Cohen, From the Maccabees to the Mishnah, 3rd ed. (2018) — history/02–03 bibliography
+  - Lester L. Grabbe, A History of the Jews and Judaism in the Second Temple Period, vols. 1–2 (2004–2008)
+  - history/02-from-israel-to-judaism.md (Second Temple endpoint; Pharisees)
+  - history/03-the-emergence-of-christianity.md § H (70 CE; rabbinic stream preview)
+notes: >
+  Use for convergence objections (prophecy cessation, Torah authority) only with explicit attribution to
+  rabbinic-era sources via secondary scholarship—not as if fully covered in Ch.1–4 narrative.
+related_ledger: Convergence themes 1, 3, 8, 9
+```
+
+### `early-christ-devotion-hurtado`
+
+```yaml
+id: early-christ-devotion-hurtado
+claim: First-century Jesus-followers practiced unprecedented devotional honor toward Jesus (prayer, baptism, hymns) within Jewish monotheistic discourse; this is not identical to later Nicene Trinitarian doctrine.
+status: contested
+period: ca. 30–70 CE (focus of chapter 3)
+sources:
+  - Larry W. Hurtado, Lord Jesus Christ (2003) — history/03 bibliography
+  - history/03-the-emergence-of-christianity.md § E (Christological language without Nicene precision)
+notes: >
+  Debate continues (Hurtado, Dunn, Ehrman, others) over whether devotion implies "divinity" in creedal sense.
+  Chronicle explicitly warns against reading Nicene Trinity into the 30s CE.
+related_ledger: Convergence theme 1, 9; Matrix theme A/E
+```
+
+### `quran-33-40-seal-prophets`
+
+```yaml
+id: quran-33-40-seal-prophets
+claim: Qur'an 33:40 describes Muhammad as seal of the prophets (khātama al-nabiyyīn); final prophethood is central Islamic religious doctrine distinct from political caliphal succession.
+status: religious-tradition
+period: Qur'an text tradition; exegesis and sectarian politics later
+sources:
+  - Qur'an 33:40
+  - history/04-the-emergence-of-islam.md § I (prophet, Qur'an, sunna)
+notes: >
+  Political succession after Muhammad's death is a separate historical problem (Ch.4 § F). Sunni/Shi'i
+  authority theories crystallized gradually; do not treat as uniform 632 CE theology.
+related_ledger: Convergence theme 3; Matrix disagreement on final revelation
+```
+
+### `jewish-rejection-jesus-messiah-normative`
+
+```yaml
+id: jewish-rejection-jesus-messiah-normative
+claim: Normative Jewish religious streams after the gradual parting of ways do not accept Jesus as Messiah or share Christian Easter faith; first-century Jewish responses were diverse.
+status: widely-accepted interpretation
+period: 2nd century CE and later for "normative" framing; 1st century contested diversity
+sources:
+  - Daniel Boyarin, Border Lines (2004) — history/03 bibliography
+  - Judith M. Lieu, Neither Jew nor Christian? (2002)
+  - Shaye J. D. Cohen, From the Maccabees to the Mishnah (2018)
+  - history/03-the-emergence-of-christianity.md § H (parting of ways)
+notes: >
+  Does not claim every Jew in the 30s CE rejected Jesus; describes border-making and later normative streams.
+  Not a substitute for full rabbinic polemic sources outside chronicle scope.
+related_ledger: Convergence theme 9d; Direct disagreements on Christology
+```
+
+### `unified-covenant-ethics-os-proposal`
+
+```yaml
+id: unified-covenant-ethics-os-proposal
+claim: THE_UNIFIED_COVENANT.md § III "Ethical OS" and related triads (§ IV law/grace/submission) are Unified Covenant philosophical design proposals, not historical descriptions of a single shared ethical system across Judaism, Christianity, and Islam.
+status: widely-accepted interpretation
+period: project essay (2026)
+sources:
+  - THE_UNIFIED_COVENANT.md § III–IV
+  - comparison/convergence-assessment.md (theme 4, 6; essay test table)
+  - history/01-before-the-branches.md (potential merge candidates — partial motif overlap only)
+notes: >
+  Partial overlap with prophetic/legal motifs in chronicle supports Qualified convergence at high level only;
+  similar vocabulary must not be read as equivalent theology (Phase 5.3 safeguard).
+related_ledger: Convergence theme 4, 6; Essay test III–IV
+```
+
 ### `quran-4-157-crucifixion`
 
 ```yaml

@@ -4,6 +4,8 @@
 
 **Evidence base:** [history/01](../history/01-before-the-branches.md)–[04](../history/04-the-emergence-of-islam.md); [evidence-matrix.md](./evidence-matrix.md) (including disagreement register §2 on crucifixion layers).
 
+**Phase 5.3:** Source traceability and outcome wording were audited in [convergence-source-audit.md](./convergence-source-audit.md) (registry `comparison-phase-5-3-source-audit`). **No compatibility outcome category was changed**; several propositions were **narrowed** where the chronicle does not support post-70 rabbinic or Nicene claims directly.
+
 **Outcomes (provisional project categories):**
 
 | Outcome | Meaning |
@@ -20,13 +22,13 @@
 
 ### A. Proposition
 
-Humanity’s Abrahamic traditions can affirm **one ultimate, uncreated God** who is the ground of moral responsibility and not a member of a polytheistic pantheon—without requiring identical metaphysics of divine nature.
+Humanity’s Abrahamic traditions can affirm **one ultimate God** (not a polytheistic pantheon) in their respective scriptural and early-historical layers—**without** requiring identical metaphysics of divine nature. Phrases such as “uncreated ground of moral responsibility” are **philosophical gloss** (essay-style), not a single formula all three texts use in the same sense.
 
 ### B. Evidence by tradition
 
 | Tradition | Evidence type | Content (period / stream) |
 |-----------|---------------|---------------------------|
-| **Judaism** | Scripture + **Religious tradition**; historical **Widely accepted interpretation** | YHWH as God of Israel; stress on exclusive devotion in many post-exilic texts; monolatry → monotheism **Contested** pace ([Ch.1](../history/01-before-the-branches.md), [Ch.2](../history/02-from-israel-to-judaism.md)). Normative rabbinic Judaism: one God (**post-70**, underdeveloped in chronicle). |
+| **Judaism** | Scripture + **Religious tradition**; historical **Widely accepted interpretation** | YHWH as God of Israel; stress on exclusive devotion in many post-exilic texts; monolatry → monotheism **Contested** pace ([Ch.1](../history/01-before-the-branches.md), [Ch.2](../history/02-from-israel-to-judaism.md)). **Post-70 rabbinic** monotheism: **attributed** via Cohen/Grabbe (Ch.2 bib.), **not** narrated in chronicle (`rabbinic-judaism-post-70-preview`). |
 | **Christianity** | **Religious tradition**; **Ch.3** historical | One God of Israel; early **exalted Christ-devotion** without Nicene Trinity in 1st c. ([Ch.3](../history/03-the-emergence-of-christianity.md)). Mainstream later: Trinity/incarnation (**outside Ch.3**). |
 | **Islam** | **Religious tradition**; **Ch.4** | *Tawḥīd*; rejection of *shirk* ([Ch.4](../history/04-the-emergence-of-islam.md)). |
 
@@ -46,11 +48,11 @@ Humanity’s Abrahamic traditions can affirm **one ultimate, uncreated God** who
 
 ### F. What remains distinct
 
-Trinity and incarnation; Qur’anic polemic on sonship; Jewish halakhic life under **brit** with one God of Israel—not a philosophical “source of existence” abstraction alone.
+Trinity and incarnation; Qur’anic polemic on sonship; Jewish halakhic life under **brit** with one God of Israel—not a philosophical “source of existence” abstraction alone. “Jewish divine simplicity” as a **technical** contrast to Trinity is **post-chronicle** vocabulary—use only as matrix-style contrast, not as verified Second Temple self-description.
 
 ### G. Sources
 
-[Ch.1–2](../history/02-from-israel-to-judaism.md#provisional-comparative-significance-for-later-phases); [Ch.3 provisional table](../history/03-the-emergence-of-christianity.md#provisional-significance-for-later-comparison); [Ch.4 signposts](../history/04-the-emergence-of-islam.md#signposts-for-later-comparison-not-synthesis); `yahwism-monotheism-gradual`; matrix disagreement §1.
+[Ch.1–2](../history/02-from-israel-to-judaism.md#provisional-comparative-significance-for-later-phases); [Ch.3 provisional table](../history/03-the-emergence-of-christianity.md#provisional-significance-for-later-comparison); [Ch.4 signposts](../history/04-the-emergence-of-islam.md#signposts-for-later-comparison-not-synthesis); `yahwism-monotheism-gradual`; `early-christ-devotion-hurtado`; `rabbinic-judaism-post-70-preview`; matrix disagreement §1; [source audit § A–B](./convergence-source-audit.md#a-jewish-theology-after-the-second-temple-convergence-claims).
 
 ---
 
@@ -102,9 +104,9 @@ God communicates through **prophets** across history, and later communities **in
 
 | Tradition | Content |
 |-----------|---------|
-| **Judaism** | Hebrew Bible prophets; cessation in much rabbinic **Religious tradition** (**post-70 gap**). |
+| **Judaism** | Hebrew Bible prophets (Second Temple memory, **Ch.2**). **Cessation of prophecy** in **rabbinic self-understanding**: **Widely accepted interpretation** (Cohen, *Maccabees to Mishnah* — Ch.2–3 bib.), **not** a chronicle narrative (`rabbinic-judaism-post-70-preview`). |
 | **Christianity** | Jesus as prophet/Messiah; apostles; Spirit ([Ch.3](../history/03-the-emergence-of-christianity.md)). |
-| **Islam** | Muhammad seal of prophets (Q. 33:40, **Ch.4**); Qur’anic retelling of earlier figures. |
+| **Islam** | Muhammad seal of prophets (Q. 33:40, **Ch.4** § I; `quran-33-40-seal-prophets`); Qur’anic retelling of earlier figures. Exegesis and sectarian memory **not uniform** (Ch.4 § I). |
 
 ### C. Historical relationship
 
@@ -126,7 +128,7 @@ Final prophet claims; canon boundaries; Jesus’ resurrection faith vs. Qur’an
 
 ### G. Sources
 
-Matrix § F; disagreement §§3–4; [Ch.4 § I](../history/04-the-emergence-of-islam.md#i-the-formation-of-islamic-identity-and-authority).
+Matrix § F; disagreement §§3–4; [Ch.4 § I](../history/04-the-emergence-of-islam.md#i-the-formation-of-islamic-identity-and-authority); `quran-33-40-seal-prophets`; `rabbinic-judaism-post-70-preview`; [source audit § A, C](./convergence-source-audit.md).
 
 ---
 
@@ -150,7 +152,7 @@ Traditions affirm **moral accountability**, **care for the vulnerable** (poor, s
 
 ### D. Compatibility test
 
-**Qualified convergence** at **high level** (“accountability + mercy motifs + concern for weak”). **Not genuine convergence** if framed as **identical ethical system** or same grounds of obligation (covenant law vs. grace vs. submission).
+**Qualified convergence** at **high level** (“accountability + mercy motifs + concern for weak”). **Documented motifs** (e.g. widow/orphan/stranger in Torah/prophetic rhetoric — [Ch.1 merge candidates](../history/01-before-the-branches.md#potential-merge-candidates-provisional-only); Meccan accountability — **Ch.4**) have **direct** textual/chronicle support; treating them as one **identical ethical system** is **broad comparative interpretation** only. **Not genuine convergence** if framed as same grounds of obligation (covenant law vs. grace vs. submission).
 
 ### E. Strongest objections
 
@@ -164,7 +166,7 @@ Binding law details; role of Jesus’ death; Islamic ritual obligations.
 
 ### G. Sources
 
-[Ch.1 ledger](../history/01-before-the-branches.md#potential-merge-candidates-provisional-only); matrix § C (ethics row), § H; essay III parallels tested below.
+[Ch.1 ledger](../history/01-before-the-branches.md#potential-merge-candidates-provisional-only); matrix § C (ethics row), § H; `unified-covenant-ethics-os-proposal`; [source audit § D](./convergence-source-audit.md#d-shared-ethics-and-philosophical-convergence); essay III parallels tested below.
 
 ---
 
@@ -329,7 +331,7 @@ Conversion rules; Christ vs. Torah centrality; caliphal identity.
 | 9a | Historically: Jewish figure, crucified under Pilate (**Well established**, **Ch.3**). |
 | 9b | Theologically (Christian **Religious tradition**): risen Lord/Messiah, centre of salvation. |
 | 9c | Theologically (Qur’anic **Religious tradition**): honoured messenger/Messiah; Q. 4:157 denies crucifixion by foes. |
-| 9d | Theologically (normative Judaism **post-1st c.**): not Messiah; no Easter faith. |
+| 9d | Theologically (**normative Jewish streams after parting of ways**, not every 1st-c. Jew): Jesus not accepted as Messiah; no Easter faith (`jewish-rejection-jesus-messiah-normative`; Cohen, Boyarin, Lieu — Ch.3 bib.). |
 
 ### B–G (summary)
 
@@ -337,7 +339,7 @@ Conversion rules; Christ vs. Torah centrality; caliphal identity.
 - **Compatibility:** 9a = **Genuine convergence** among historians using chronicle. 9b–9d together = **Irreducible disagreement** for same-sense theological narrative.
 - **Objections:** Christian—denying resurrection empties faith; Muslim—affirming crucifixion contradicts Qur’an; Jewish—messianic claims rejected.
 - **Distinct:** Incarnation, Trinity, 4:157, halakhic life without Christ.
-- **Sources:** `jesus-crucifixion-pilate`; `quran-4-157-crucifixion`; matrix § E; disagreement §2.
+- **Sources:** `jesus-crucifixion-pilate`; `quran-4-157-crucifixion`; `early-christ-devotion-hurtado`; `jewish-rejection-jesus-messiah-normative`; matrix § E; disagreement §2; [source audit § B, C](./convergence-source-audit.md).
 
 **Essay “archetype of mercy” (II table):** **Translation-dependent** / **philosophical proposal**—not **Religious tradition** of all three.
 
@@ -387,7 +389,7 @@ Conversion rules; Christ vs. Torah centrality; caliphal identity.
 | I §1, L17–36 | One ultimate God; Trinity not identical; bracket incarnation dispute | **Defensible after qualification** — matches matrix **Qualified** on theme 1; honest about merge conflict |
 | I §2, L38–53 | Cumulative revelation; fallible interpretation; avoid auto-accepting final Qur’an/Christ/Torah claims | **Philosophical proposal**; **In tension** with normative **Religious tradition** in each faith that claims decisive revelation |
 | II, L57–75 | Prophetic lineage table (Abraham…Muhammad archetypes) | **Philosophical proposal**; **Translation-dependent**; **In tension** with non-interchangeable prophetic finality |
-| III, L79–107 | Ethical OS (justice, mercy, dignity, power, inquiry) | **Qualified convergence** with theme 4 if not claimed as distinctively Abrahamic only; **Supported** at high level from chronicle prophetic/legal strands |
+| III, L79–107 | Ethical OS (justice, mercy, dignity, power, inquiry) | **Philosophical proposal** (`unified-covenant-ethics-os-proposal`); **partial overlap** with theme 4 **Qualified** only for documented prophetic/legal **motifs**, not as a unified traditional “OS” |
 | IV, L111–127 | Law / grace / submission as three dimensions | **Philosophical proposal**; **Translation-dependent** (theme 6); **Not** historical equivalence |
 | V, L131–151 | Layered canon / sacred library | **Qualified** as **method** (matrix § D); **In tension** with inspired/final scripture claims |
 | VI, L155–173 | Eschatological humility; no single salvation doctrine | **Qualified convergence** (theme 7); **Supported** by matrix disagreement on soteriology |
@@ -409,13 +411,14 @@ Conversion rules; Christ vs. Torah centrality; caliphal identity.
 
 ---
 
-## Evidence gaps (this pass)
+## Evidence gaps (Phase 5.2; confirmed Phase 5.3)
 
-- Rabbinic/post-70 Judaism detail for objections in themes 1, 3, 9.  
-- Nicene/post-apostolic Christology for theme 1, 9.  
+- Rabbinic/post-70 primary theology (Mishnah/Talmud lines on prophecy, Torah authority) — **attributed** via Cohen, not chronicle-narrated.  
+- Nicene/post-apostolic Christology for theme 1, 9 — explicitly **outside** Ch.3.  
 - Academic Q. 4:157 exegesis beyond chronicle (matrix gap register).  
-- No new chronicle chapter requested—gaps remain **Unresolved**.
+- Jewish philosophical divine attributes — **do not import** without new work.  
+- See [convergence-source-audit.md § Remaining gaps](./convergence-source-audit.md#remaining-gaps-specialist-research).
 
 ---
 
-*Phase 5.2 — convergence tested, not merged. Matrix: [evidence-matrix.md](./evidence-matrix.md). Chronicle unchanged.*
+*Phase 5.2 — convergence tested, not merged. Phase 5.3 — [source audit](./convergence-source-audit.md). Matrix: [evidence-matrix.md](./evidence-matrix.md). Chronicle unchanged.*
