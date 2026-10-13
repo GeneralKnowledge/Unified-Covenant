@@ -594,6 +594,49 @@ notes: >
 related_ledger: research/phase-6-5-tahrif-and-scriptural-preservation.md
 ```
 
+### `quran-com-api-translation-20-2026`
+
+```yaml
+id: quran-com-api-translation-20-2026
+claim: Phase 6.6 verified English glosses for selected Qur'an verses via Quran.com API v4 (translation resource id 20) for CCRP Case A/B/D stress test.
+status: widely-accepted interpretation
+period: API access 2026; Qur'an text 7th century CE
+sources:
+  - https://api.quran.com/api/v4/verses/by_key/{verse_key}?translations=20
+notes: >
+  Study gloss only—not an UC R authority. Arabic text_uthmani field intermittently empty in API responses; English strings verified for 2:75, 3:78, 4:46, 4:157, 5:13, 5:43, 33:40.
+related_ledger: research/phase-6-6-source-verification.md; comparison/ccrp-stress-test-6-6.md
+```
+
+### `mofidu-tahrif-semantic-2024`
+
+```yaml
+id: mofidu-tahrif-semantic-2024
+claim: Mohammad Ali Tabatabaie (Mehrdad), "A Linguistic-Historical Analysis of the Meaning of Taḥrīf in the Qurʾān…," Religion (Mofidu), argues Qur'anic yoḥarrifuna implies misinterpretation not textual falsification; cites Reynolds 2010, Di Matteo 1922, Nickel 2011.
+status: contested
+period: 2024
+sources:
+  - https://religion.mofidu.ac.ir/article_244790_en.html
+notes: >
+  Phase 6.6: full abstract read on publisher page; article body not read in full. Use for semantic-shift thesis alongside Reynolds, not as Islamic R ruling.
+related_ledger: research/phase-6-6-source-verification.md
+```
+
+### `comparison-phase-6-6-ccrp-stress-test`
+
+```yaml
+id: comparison-phase-6-6-ccrp-stress-test
+claim: Phase 6.6 adversarially tests CCRP (v0.3 §5.3) on five canon conflicts; proposes procedural amendments only; does not change MD-01–MD-06 or v0.3 text.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - comparison/ccrp-stress-test-6-6.md
+  - research/phase-6-6-source-verification.md
+notes: >
+  Links Phase 6.5 taḥrīf research without duplicating it. No new B doctrine.
+related_ledger: Phase 6.6 final report
+```
+
 ### `comparison-phase-6-5-tahrif-research`
 
 ```yaml
