@@ -129,10 +129,10 @@
 | **Evidence reviewed** | Matrix disagreement §6; Ch.4 |
 | **Alternatives** | **A:** Keep neutral (v0.2). **B:** Affirm Islamic *taḥrīf* **B**. **C:** Affirm Jewish/Christian preservation **B**. |
 | **Recommendation** | **A** until specialist text-critical module — **confidence: medium**; identify **sub-questions** (partial corruption vs total vs legal vs narrative) in Phase 6.4 |
-| **Maintainer decision** | **APPROVED (Phase 6.4)** |
-| **Approved formulation** | **C** open; separate *taḥrīf* meanings; research agenda §11 v0.3; no convenience **B** ruling |
-| **Implemented in** | v0.3 §11; DR-10; UQ-01 |
-| **Reopen when** | Maintainer chooses DR-10 **B** option after [Phase 6.5 research](../research/phase-6-5-tahrif-options.md) (module complete; **MD-06** still **C**) |
+| **Maintainer decision** | **APPROVED (Phase 6.4)** — **AMENDED APPROVED (Phase 8.3)** |
+| **Approved formulation (Phase 8.3)** | **Sufficient Witness **B**** — adequate continuity and trustworthiness of Tanakh, NT, and Qur’an as UC receives them; variation ≠ wholesale corruption; UC does not teach perfect textual uniformity (**DR-10** **B**). Full text: [v0.4.2 §11](./unified-covenant-v0.4.2.md), [phase-8-2-scriptural-preservation-proposal.md](./phase-8-2-scriptural-preservation-proposal.md) §4 |
+| **Implemented in** | v0.4.2 §11 (Phase 8.3); [v0.7](./unified-covenant-v0.7.md) §4; **DR-10** register |
+| **Reopen if** | Maintainer **§12** revision with traceability; not by silent edit |
 
 ---
 
@@ -235,24 +235,39 @@
 | **Status** | **APPROVED** — **post-merge §12 regularisation pending** (pre-merge 14-day period **not completed** before PR #29 merge; see [phase-7-8-post-merge-governance-audit.md](./phase-7-8-post-merge-governance-audit.md)) |
 | **Binding level** | Defined shared liturgy as **B** (Option A) |
 | **Worship model** | **Option 1** — [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md) |
-| **Annual calendar** | In scope; individual observances **not** approved — [phase-7-7-annual-observances-proposal.md](./phase-7-7-annual-observances-proposal.md) |
-| **MD-14** | **OPEN** — [phase-7-7-md-14-weekly-day-brief.md](./phase-7-7-md-14-weekly-day-brief.md) |
+| **Annual calendar** | **MD-15** (Phase 8.3) — see docket **MD-15** |
+| **MD-14** | **APPROVED** (Phase 8.3) — see docket **MD-14** |
 | **DR-14** | **Outstanding** — [phase-7-7-dr-14-register-proposal.md](./phase-7-7-dr-14-register-proposal.md) |
 | **Evidence** | [phase-7-3 sketch](../research/phase-7-3-liturgy-and-calendar-sketch.md) · [phase-7-6 brief](./phase-7-6-md-13-decision-brief.md) |
 | **Docket** | [maintainer-docket-7-3-liturgy.md](./maintainer-docket-7-3-liturgy.md) |
 
 ---
 
-## MD-14 — Weekly gathering day (Phase 7.7 — **OPEN**)
+## MD-14 — Weekly gathering day (Phase 7.7 / 8.3 — **APPROVED**)
 
 | Field | Content |
 |-------|---------|
 | **Decision ID** | MD-14 |
-| **Status** | **OPEN** |
-| **Question** | Universal weekly **B** day vs **G** local scheduling |
-| **Brief** | [phase-7-7-md-14-weekly-day-brief.md](./phase-7-7-md-14-weekly-day-brief.md) |
-| **Maintainer decision** | **_(pending)_** |
+| **Status** | **APPROVED (Phase 8.3)** |
+| **Approved formulation** | **Covenant Day:** **Sunday** is UC’s **normal **B**** weekly day for communal assembly, shared liturgy, teaching, and rest where practicable; **G** local weekday adjustment when Sunday impracticable. **MD-05** disclaimers required in teaching — not replacement for Shabbat, Christian observances, or Jumuʿah |
+| **Implemented in** | v0.4.2 §8 (Phase 8.3); [v0.7](./unified-covenant-v0.7.md) §9; **DR-15** |
+| **Brief (historical)** | [phase-7-7-md-14-weekly-day-brief.md](./phase-7-7-md-14-weekly-day-brief.md) |
 
 ---
 
-*Phase 6.3 recommendations remain in table history. **APPROVED** rulings **MD-01–MD-11** in [v0.4](./unified-covenant-v0.4.md); **MD-12** in [v0.4.1](./unified-covenant-v0.4.1.md); **MD-13** in [v0.4.2](./unified-covenant-v0.4.2.md) — §12 regularisation outstanding (Phase 7.8)—not scholarly consensus.*
+## MD-15 — Founding calendar and teaching guidance (Phase 8.3 — **APPROVED**)
+
+| Field | Content |
+|-------|---------|
+| **Decision ID** | MD-15 |
+| **Status** | **APPROVED (Phase 8.3)** |
+| **Annual **B**** | **Covenant Renewal Day** — second **Sunday of October** |
+| **Annual **G**** | **Day of Turning** — Sunday before Renewal; **Day of Witness to the Afflicted** — second **Sunday of March** |
+| **Annual **O**** | **Neighbor-study days** — educational only, not UC holy days |
+| **Teaching **G**** | [uc-pastoral-salvation-guide.md](./uc-pastoral-salvation-guide.md); [uc-ethics-practice-guide.md](./uc-ethics-practice-guide.md); [uc-foundational-practices.md](./uc-foundational-practices.md) |
+| **Implemented in** | v0.4.2 §8.3; [v0.7](./unified-covenant-v0.7.md); **DR-16** |
+| **Does not** | Add **DR-14** liturgy register row; change **MD-13** liturgy text; close **UQ-03** mechanics (**C**) |
+
+---
+
+*Phase 6.3 recommendations remain in table history. **APPROVED** rulings **MD-01–MD-11** in [v0.4](./unified-covenant-v0.4.md); **MD-12** in [v0.4.1](./unified-covenant-v0.4.1.md); **MD-13–MD-15** in [v0.4.2](./unified-covenant-v0.4.2.md) / [v0.7](./unified-covenant-v0.7.md). **MD-13** post-merge §12 regularisation note (Phase 7.8) unchanged in substance.*

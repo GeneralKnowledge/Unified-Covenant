@@ -1,8 +1,8 @@
-# UC ethics — practice guide (Phase 8.2)
+# UC ethics — practice guide
 
-**Status:** **PROPOSAL **G**** handbook for members and teachers. **Foundations **ADOPTED B**** via **DR-12**; method and cases are **not** binding law code.
+**Status:** **ADOPTED G** (**MD-15**, Phase 8.3). **Foundations **ADOPTED B**** via **DR-12**; method and cases are **not** a comprehensive legal code.
 
-**Integrated in:** [unified-covenant-v0.6.md](./unified-covenant-v0.6.md) Part VII
+**Integrated in:** [unified-covenant-v0.7.md](./unified-covenant-v0.7.md) · Practices: [uc-foundational-practices.md](./uc-foundational-practices.md)
 
 ---
 
@@ -97,4 +97,4 @@
 
 ---
 
-*Ethics practice guide — Phase 8.2 proposal.*
+*Ethics practice guide — **ADOPTED G** (**MD-15**).*

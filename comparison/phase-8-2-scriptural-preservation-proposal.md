@@ -1,6 +1,6 @@
 # Phase 8.2 — Scriptural preservation proposal (MD-06 / DR-10)
 
-**Status:** **PROPOSAL** for maintainer adoption — **does not** change [MD-06](./unified-covenant-v0.2-decision-docket.md) or **DR-10** until recorded under **§12**.
+**Status:** **ADOPTED** as **Sufficient Witness **B**** (Phase 8.3 — **MD-06**, **DR-10**). Historical reasoning preserved.
 
 **Evidence:** [phase-6-5-tahrif-and-scriptural-preservation.md](../research/phase-6-5-tahrif-and-scriptural-preservation.md) · [phase-6-5-tahrif-options.md](../research/phase-6-5-tahrif-options.md)
 

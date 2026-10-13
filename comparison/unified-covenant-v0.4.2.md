@@ -1,12 +1,12 @@
 # Unified Covenant v0.4.2 — Theological and Constitutional Proposal
 
-**Status:** Constructive successor to v0.4.1 — **MD-01–MD-11**, **MD-12 Option A**, and **MD-13** (Phase 7.7): **binding B** shared gathering liturgy (Option 1 script). **Governance (Phase 7.8):** [PR #29](https://github.com/GeneralKnowledge/Unified-Covenant/pull/29) merged **2026-10-13** UTC **before** the §12 **14-day** pre-merge comment minimum elapsed (~2 minutes between open and merge). Pre-merge §12 **not completed**. **Post-merge regularisation** required — [audit](./phase-7-8-post-merge-governance-audit.md) · [procedure](./phase-7-8-post-merge-review-procedure.md). A Git merge **does not** by itself prove §12 review completion. **Not** a validated creed; not consensus among Judaism, Christianity, and Islam.
+**Status:** Constitutional successor to v0.4.1 — **MD-01–MD-15** (Phase 8.3 founding rulings: **MD-06** Sufficient Witness **B**, **MD-14** Covenant Day, **MD-15** calendar + **G** guides). **MD-13** binding shared liturgy (Option 1 script). **Governance (Phase 7.8):** [PR #29](https://github.com/GeneralKnowledge/Unified-Covenant/pull/29) merged **2026-10-13** UTC **before** the §12 **14-day** pre-merge comment minimum elapsed; pre-merge §12 **not completed** for **MD-13**; **post-merge regularisation** still noted — [audit](./phase-7-8-post-merge-governance-audit.md). Phase **8.3** maintainer rulings recorded per **§12** step 3 (decision). **Readable founding synthesis:** [unified-covenant-v0.7.md](./unified-covenant-v0.7.md). **Not** a validated creed; not consensus among Judaism, Christianity, and Islam.
 
 **Supersedes for constructive purposes:** [unified-covenant-v0.4.1.md](./unified-covenant-v0.4.1.md) (preserved unchanged) · [unified-covenant-v0.4.md](./unified-covenant-v0.4.md) · [unified-covenant-v0.3.md](./unified-covenant-v0.3.md).
 
-**Traceability:** [unified-covenant-v0.4.2-traceability.md](./unified-covenant-v0.4.2-traceability.md) · **Rulings:** [unified-covenant-v0.2-decision-docket.md](./unified-covenant-v0.2-decision-docket.md) (**MD-13** **APPROVED** — binding liturgy; **MD-14** **OPEN**) · **Liturgy (B):** [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md) · **CCRP:** [ccrp-adopted.md](./ccrp-adopted.md)
+**Traceability:** [unified-covenant-v0.4.2-traceability.md](./unified-covenant-v0.4.2-traceability.md) · [unified-covenant-v0.7-traceability.md](./unified-covenant-v0.7-traceability.md) · **Rulings:** [unified-covenant-v0.2-decision-docket.md](./unified-covenant-v0.2-decision-docket.md) (**MD-13–MD-15**) · **Liturgy (B):** [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md) · **Practices (G):** [uc-foundational-practices.md](./uc-foundational-practices.md) · **CCRP:** [ccrp-adopted.md](./ccrp-adopted.md)
 
-**Annual calendar:** [phase-7-7-annual-observances-proposal.md](./phase-7-7-annual-observances-proposal.md) — candidates **not** individually approved. **Weekly day:** [phase-7-7-md-14-weekly-day-brief.md](./phase-7-7-md-14-weekly-day-brief.md) — **MD-14 OPEN**.
+**Sacred time:** **MD-14** Covenant Day (Sunday); **MD-15** annual calendar — [uc-sacred-calendar-proposed.md](./uc-sacred-calendar-proposed.md) (historical proposal text; **B/G** status in §8.3).
 
 **Research foundation:** [research/README.md](../research/README.md) · **Procedure history:** [ccrp-revision-proposal-6-7.md](./ccrp-revision-proposal-6-7.md) (proposal, not in force) · [ccrp-proposal-qa-6-8.md](./ccrp-proposal-qa-6-8.md) (QA record)
 
@@ -20,7 +20,7 @@ Unified Covenant (UC) is a **new religious community** attempting a **genuinely 
 
 **Why it exists:** Shared historical contact and scriptural family (matrix **Shared inheritance**) make **honest reconciliation** possible in places—and **irreconciliable conflict** in others. UC **chooses** where it must, **preserves inherited revelation wherever this can be defended** through careful textual, historical, linguistic, theological, and interpretive analysis (**MD-07**), and records costs.
 
-**MD-07 clarifications:** “**Defensible**” follows the **preservation-first method** (§2.1)—it **does not** promise that every **R** claim can be reconciled; it **does not** settle scriptural preservation or *taḥrīf* (**MD-06**, **DR-10** **C**). Preserving a tradition’s **strongest defensible** reading **≠** accepting **every** interpretation associated with that tradition.
+**MD-07 clarifications:** “**Defensible**” follows the **preservation-first method** (§2.1)—it **does not** promise that every **R** claim can be reconciled. **MD-06** / **DR-10** **Sufficient Witness **B**** (Phase 8.3) settles UC **preservation theology** at membership level; preserving a tradition’s **strongest defensible** reading **≠** accepting **every** interpretation associated with that tradition.
 
 **What it unites:** Not three identical theologies, but **one community** under **One Sovereign**, the **Unified Canon** (§5), **Jesus the Anointed** (§4), **Muhammad as seal of the Abrahamic canonical series** (§6), shared **ethical covenant** (§8), and **CCRP** interpretive procedure (§5.3) (**MD-03**).
 
@@ -346,8 +346,9 @@ UC is the **Unified Covenant assembly**—a **voluntary** religious body with it
 | Care for vulnerable | **A** motif + **B** | Active duty |
 | Halakha / sharīʿa / canon law | **R** in source communities | **Not** auto-binding in UC |
 | Shared gathering liturgy | **B** (**MD-13**) | §8.2 — [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md) |
-| UC annual observances | **C** → candidate **B** | §8.3 — **sub-decisions open** |
-| Weekly gathering day | **C** | **MD-14 OPEN** — not fixed in this draft |
+| UC annual observances | **B** / **G** / **O** | §8.3 — **MD-15** |
+| Weekly gathering day | **B** (**MD-14**) | **Covenant Day** — Sunday norm; **G** local shift |
+| Pastoral salvation / ethics handbooks | **G** (**MD-15**) | Linked guides — not legal code; **UQ-03** mechanics **C** |
 
 **Modern constitutional non-coercion:** **B** (disclosed assumption from v0.2).
 
@@ -367,7 +368,7 @@ UC is the **Unified Covenant assembly**—a **voluntary** religious body with it
 
 | Class | Examples |
 |-------|----------|
-| **G** | Lectionary and CCRP records ([ccrp-case-record-md-13-liturgy.md](./ccrp-case-record-md-13-liturgy.md)); leader guide; silence duration; translation choices; when assemblies meet (**MD-14** unset) |
+| **G** | Lectionary and CCRP records ([ccrp-case-record-md-13-liturgy.md](./ccrp-case-record-md-13-liturgy.md)); leader guide; silence duration; translation choices; **Covenant Day** local shift when Sunday impracticable (**MD-14**) |
 | **O** | Local welcome, named service projects, optional quiet phrase in silence if no new **B** |
 | **P** / **R** | Personal inherited prayer and observance outside UC gathering |
 
@@ -375,15 +376,22 @@ UC is the **Unified Covenant assembly**—a **voluntary** religious body with it
 
 **Proposed DR register row:** [phase-7-7-dr-14-register-proposal.md](./phase-7-7-dr-14-register-proposal.md) — **not** added to §14 until maintainer confirms after post-merge §12 regularisation.
 
-### 8.3 Annual observances (**MD-13** scope — partial)
+### 8.3 Sacred calendar (**MD-14**, **MD-15**)
 
-**In scope:** **MD-13** includes **consideration** of **binding annual UC observances**.
+**Weekly (**B**, **MD-14):** **Covenant Day** — **Sunday** is the **normal** day for communal assembly, shared liturgy (§8.2), teaching, and rest from non-essential labour **where practicable**. Communities **may** hold primary assembly on another weekday when Sunday is impracticable (**G**). UC **does not** claim to replace **Shabbat**, Christian observances, or **Jumuʿah** (**MD-05**).
 
-**Not yet binding:** Specific observance **names**, **dates**, and **rules** are **not** maintainer-approved in this draft. See [phase-7-7-annual-observances-proposal.md](./phase-7-7-annual-observances-proposal.md) for **candidates only** (e.g. Covenant Renewal Day as **B** candidate; study days as **O**).
+**Annual (**MD-15**):**
 
-**Explicit:** UC does **not** adopt Passover, Easter, Ramaḍān, or other inherited **R** festivals as UC **B** holy days in this draft.
+| Observance | Class | Date |
+|------------|-------|------|
+| **Covenant Renewal Day** | **B** | Second **Sunday of October** |
+| **Day of Turning** | **G** (strongly commended) | Sunday **immediately before** Covenant Renewal |
+| **Day of Witness to the Afflicted** | **G** | Second **Sunday of March** |
+| **Neighbor-study days** | **O** | Local educational activity near inherited **R** seasons — **not** UC holy days |
 
-**Weekly rhythm:** **MD-14** — see [phase-7-7-md-14-weekly-day-brief.md](./phase-7-7-md-14-weekly-day-brief.md). **No** Friday, Sunday, or other weekly day is **B** here.
+**Explicit:** UC does **not** adopt Passover, Easter, Ramaḍān, or Jewish High Holy Days as UC **B** obligations.
+
+**Practices:** [uc-foundational-practices.md](./uc-foundational-practices.md) (**G**). Historical candidate memo: [phase-7-7-annual-observances-proposal.md](./phase-7-7-annual-observances-proposal.md).
 
 ---
 
@@ -418,29 +426,24 @@ UC is the **Unified Covenant assembly**—a **voluntary** religious body with it
 
 ---
 
-## §11 — Scriptural preservation and *taḥrīf* (**MD-06**, **MD-09**)
+## §11 — Scriptural preservation and *taḥrīf* (**MD-06**, **MD-09**, **DR-10**)
 
-**UC position:** **C** — provisional **open** (**DR-10**)
+**UC position (**B**, Phase 8.3):** **Sufficient Witness**
 
-UC **does not** adopt wholesale **taḥrīf** polemic or its denial as **B**. **MD-09:** UC **teaches** competing **R** positions and **H** manuscript facts **comparatively**, with **SD-*** discipline and explicit uncertainty—**not** a hidden **B** on preservation.
+One Sovereign has preserved **adequate continuity** in the Tanakh and New Testament as **Unified Canon receives them**, and in the Qur’an as **Unified Canon receives it**, so that together they remain **fit witnesses** for covenant faith, moral instruction, and worship under **CCRP**. Textual variation, translation, and interpretive disagreement **do not** make any canonical layer **morally useless** or **wholly unreliable** as witness. Qur’anic language about distortion and concealment testifies to **misuse and covenant failure** in history (**R** witness UC respects); UC **does not** teach that those passages require belief in **wholesale fabrication** of the earlier layers. UC **does not** teach **perfect letter-for-letter uniformity** of every manuscript tradition as **B**.
 
-UC **does** distinguish:
+**MD-09 (pedagogy):** UC **teaches** competing **R** positions and **H** manuscript facts **comparatively**, with **SD-*** discipline — consistent with **Sufficient Witness**, not as hidden reversal of **B**.
 
-| Level | UC can say |
-|-------|------------|
-| **Manuscript variation (H)** | Attested in all large textual traditions |
-| **Translation / interpretation** | Divergent |
-| **Theological preservation claims (R)** | Jewish, Christian, Islamic — **heard**, not adjudicated **B** yet |
-| ***Taḥrīf* as concealment/distortion (R polemic)** | **Multiple meanings** in Islamic discourse — **not** reduced to one universal claim |
+| Level | UC teaching |
+|-------|-------------|
+| **Manuscript variation (H)** | Attested; informs study |
+| **Translation / interpretation** | Divergent; **CCRP** governs **B** use |
+| **Theological preservation claims (R)** | Heard fairly; **B** floor = Sufficient Witness |
+| ***Taḥrīf* discourse** | Multiple **R** meanings; UC **B** ≠ wholesale polemic |
 
-**Research agenda (Phase 6.5+):**
+**Rule (unchanged):** Textual variation **alone** **does not** prove or disprove **R** theology; UC **B** rests on **covenant reception**.
 
-1. Qur’anic passages (e.g. 2:75–79) in **R** context  
-2. Jewish/Christian **R** preservation claims vs **H** criticism  
-3. Typology of *taḥrīf* (textual vs meaning)  
-4. Whether UC needs **any** **B** ruling for membership  
-
-**Rule:** Textual variation **alone** **does not** prove or disprove **R** theology.
+**Research:** [phase-6-5-tahrif-and-scriptural-preservation.md](../research/phase-6-5-tahrif-and-scriptural-preservation.md) — **H** input, not override of **B** without **§12**.
 
 ---
 
@@ -460,8 +463,8 @@ UC **does** distinguish:
 
 | ID | Question | Importance | Evidence needed |
 |----|----------|------------|-----------------|
-| UQ-01 | *Taḥrīf* **B** stance | Canon trust | Phase 6.5 research |
-| UQ-02 | UC liturgy & sacraments | Practice | **Liturgy form:** **MD-13** **B** script (§8.2). **Annual observances** and **MD-14** weekly day **open** — [annual proposal](./phase-7-7-annual-observances-proposal.md), [MD-14 brief](./phase-7-7-md-14-weekly-day-brief.md). Sacraments **not** adopted |
+| UQ-01 | *Taḥrīf* / preservation **B** | Canon trust | **Closed at **B**** — **Sufficient Witness** (**MD-06**, Phase 8.3) |
+| UQ-02 | UC liturgy & sacraments | Practice | **Liturgy:** **MD-13** **B**. **Calendar:** **MD-14**/**MD-15**. Sacraments **not** adopted |
 | UQ-03 | Detailed atonement mechanics remain open (**C**); UC’s binding teaching is limited to **DR-04** vindication and the clarifications in §§4.5 and 9 | Christology | Further research and an explicit future maintainer decision if additional doctrine is proposed |
 | UQ-04 | Full 4:157 academic catalog | MD-02 communication | Specialist bibliography |
 | UQ-05 | Council governance transition | Polity | Community size threshold |
@@ -481,11 +484,13 @@ UC **does** distinguish:
 | DR-07 | CCRP binding process | **B** | Yes |
 | DR-08 | Muhammad — seal of **UC canonical series** | **B** | Yes |
 | DR-09 | Not supersession of J/C/I | **B** | Yes |
-| DR-10 | *Taḥrīf* / preservation theology | **C** | No ruling |
+| DR-10 | Sufficient Witness (preservation) | **B** | Yes |
 | DR-11 | Nicene Trinity | **R** (not UC) | Must not require as **B** |
 | DR-12 | Accountability, justice-mercy, vulnerable | **A**+**B** | Yes (**B** limbs) |
+| DR-15 | Covenant Day (Sunday norm) | **B** | Yes |
+| DR-16 | Covenant Renewal Day (2nd Sun Oct) | **B** | Yes |
 
-Full audit: [unified-covenant-v0.4.2-traceability.md](./unified-covenant-v0.4.2-traceability.md). **DR-14:** proposed only — see [phase-7-7-dr-14-register-proposal.md](./phase-7-7-dr-14-register-proposal.md).
+Full audit: [unified-covenant-v0.4.2-traceability.md](./unified-covenant-v0.4.2-traceability.md) · Phase 8.3: [unified-covenant-v0.7-traceability.md](./unified-covenant-v0.7-traceability.md). **DR-14:** **not** added — liturgy **B** via **MD-13** + §8.2 ([proposal record](./phase-7-7-dr-14-register-proposal.md)).
 
 ---
 
@@ -495,7 +500,7 @@ We affirm **One Sovereign God**, Merciful and Just, without partner or rival.
 
 We follow **Jesus the Anointed**, uniquely focal in our covenant story—crucified in history, **vindicated by God**, **not** the Nicene Second Person **as UC dogma**.
 
-We receive **Tanakh, New Testament, and Qur’an** as **Unified Canon**—as **canonical witnesses** interpreted under **CCRP** (**MD-10**). This **does not** adopt every source tradition’s claims about inspiration, inerrancy, or scriptural preservation (**DR-10** remains **open**). Our recognition of these texts **does not** imply that Judaism, Christianity, or Islam recognises the Covenant’s interpretation of them.
+We receive **Tanakh, New Testament, and Qur’an** as **Unified Canon**—as **canonical witnesses** interpreted under **CCRP** (**MD-10**), trustworthy under **Sufficient Witness** (**DR-10**). This **does not** adopt every source tradition’s claims about inspiration, inerrancy, or perfect textual uniformity. Our recognition of these texts **does not** imply that Judaism, Christianity, or Islam recognises the Covenant’s interpretation of them.
 
 We honour **Muhammad** as prophet and **seal of the Abrahamic canonical series in UC** — **our** doctrine, **not** a claim that Muslims adopt this formula.
 
@@ -509,8 +514,9 @@ We live in **accountability, justice, and mercy**, as **Unified Covenant** — a
 |-------|------|------|--------|--------|
 | MD rulings | MD-01–06 | **+ MD-07–11** | **+ MD-12 Option A** | **+ MD-13** shared liturgy **B** |
 | Worship | — | §1 aspiration | Unchanged | §8.2 **B** script |
-| Calendar | — | **C** | **C** | Annual candidates proposed; **MD-14** **OPEN** |
+| Calendar | — | **C** | **C** | **MD-14**/**MD-15** **B/G** (Phase 8.3) |
 | CCRP | Six-step summary | Adopted | Unchanged | Unchanged |
-| *Taḥrīf* / **DR-10** | — | **C** | **C** | **C** |
+| *Taḥrīf* / **DR-10** | — | **C** | **C** | **B** Sufficient Witness (Phase 8.3) |
+| Founding synthesis | — | — | — | [v0.7](./unified-covenant-v0.7.md) (Phase 8.3) |
 
-*v0.4.2 — Phase 7.7 (**MD-13**), governance note Phase 7.8. [v0.4.1](./unified-covenant-v0.4.1.md) preserved. Pre-merge §12 incomplete; post-merge review **not started** until public issue per procedure doc.*
+*v0.4.2 — **MD-13–MD-15**; [v0.7](./unified-covenant-v0.7.md) readable founding text. [v0.4.1](./unified-covenant-v0.4.1.md) preserved. **MD-13** pre-merge §12 note (Phase 7.8) retained.*

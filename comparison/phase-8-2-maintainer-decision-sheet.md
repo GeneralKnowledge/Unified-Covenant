@@ -1,8 +1,8 @@
 # Phase 8.2 — Maintainer decision sheet (Founding Commitments)
 
-**Branch deliverable:** [unified-covenant-v0.6.md](./unified-covenant-v0.6.md) · Supporting: preservation · calendar · pastoral · ethics
+**Status:** **Decisions implemented Phase 8.3** — [unified-covenant-v0.7.md](./unified-covenant-v0.7.md) · [decision docket](./unified-covenant-v0.2-decision-docket.md) (**MD-06**, **MD-14**, **MD-15**).
 
-**Unchanged unless you rule otherwise:** **MD-05**, **MD-08**, **MD-12**, **MD-13** liturgy text, **MD-06/DR-10** status until you adopt below, **MD-14 OPEN** until you rule, **DR-14** not in §14 register.
+**Historical record** of Phase 8.2 (checkboxes superseded by founding rulings). **MD-05**, **MD-08**, **MD-12**, **MD-13** liturgy unchanged; **DR-14** not in §14 register.
 
 ---
 
