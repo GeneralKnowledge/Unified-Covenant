@@ -182,4 +182,16 @@
 
 ---
 
+## 15. Phase 6.12 — RS-1 outcome kinds (procedural only)
+
+| Item | Change |
+|------|--------|
+| **RS-1** | Renamed “settled outcome”; mandatory kind **B** / **H** / **G** |
+| **G** | Governance/procedure/pedagogy/language—does not settle substantive **C** questions |
+| **Theology** | **MD-01–MD-11** docket formulations **unchanged** |
+
+**Deliverable:** [ccrp-validation-6-12.md](./ccrp-validation-6-12.md); [ccrp-adopted.md](./ccrp-adopted.md) §1.4–§1.5.
+
+---
+
 *Phase 6.2 decision log — v0.4 is current constructive draft; v0.3 preserved.*

@@ -73,3 +73,11 @@ QA-revises [6.7 proposal](../comparison/ccrp-revision-proposal-6-7.md) and [cano
 | Regression audit | [../comparison/ccrp-validation-6-11.md](../comparison/ccrp-validation-6-11.md) |
 
 Procedural clarification only — [ccrp-adopted.md](../comparison/ccrp-adopted.md) §1, §3.
+
+## Phase 6.12 (RS outcome kinds)
+
+| Module | File |
+|--------|------|
+| Taxonomy audit | [../comparison/ccrp-validation-6-12.md](../comparison/ccrp-validation-6-12.md) |
+
+**RS-1** outcome kinds **B** / **H** / **G** in [ccrp-adopted.md](../comparison/ccrp-adopted.md) §1.4.

@@ -38,10 +38,18 @@ Per **sub-question** at CCRP opening. **Not** determined by listing **MD-01–MD
 
 | Code | Meaning |
 |------|---------|
-| **RS-1** | **Applicable** decision/register entry establishes **B** or **H** **for this sub-question’s scope** |
-| **RS-2** | Decision **explicitly leaves** sub-question **open (C)** (e.g. **MD-06**, **DR-10**) |
-| **RS-3** | Reopening active—freeze new **B** on that sub-question |
-| **RS-4** | No applicable settled outcome or open reservation |
+| **RS-1** | **Settled outcome** for sub-question scope (requires **outcome kind**) |
+| **RS-2** | Sub-question **explicitly open (C)** (e.g. **MD-06**, **DR-10**) |
+| **RS-3** | Reopening active—freeze new **substantive B** / **H baseline** on that sub-question |
+| **RS-4** | Unaddressed |
+
+## RS-1 outcome kind (Phase 6.12)
+
+| Kind | Meaning |
+|------|---------|
+| **B** | Substantive UC **doctrine** settled for this sub-question |
+| **H** | UC **historical baseline** settled for this sub-question |
+| **G** | **Governance / procedure / pedagogy / language** rule settled—**does not** settle substantive theology or history under review |
 
 ## Decision authority vs evidence (**3A / 3B / 3C**)
 
