@@ -127,4 +127,23 @@
 
 ---
 
-*Phase 6.2 decision log — Phase 6.3 append for maintainer audit alongside v0.2.*
+---
+
+## 11. Phase 6.4 — Maintainer rulings → v0.3
+
+| Decision | Approved formulation (summary) | Why adopted | Research basis | Strongest objections | Tradition cost | v0.3 locus | Uncertainty | Reopen condition |
+|----------|-------------------------------|-------------|----------------|----------------------|----------------|------------|-------------|------------------|
+| **MD-01** | Non-Nicene One Sovereign; **Jesus the Anointed** defined | Coherent new religion without false Trinity equivalence | Christology module; Nicene registry | Nicene Christians | Cannot preserve homoousios **B** | §§3–4 | Post-Nicene diversity | Council + memo |
+| **MD-02** | **H** crucifixion + **B** vindication; not **R** reconciliation | Honesty after 6.3 mislabel | 4:157 module (source limits noted) | Muslims (dominant 4:157); Easter-centred Christians | Not mainstream **R** on either side | §4 | 4:157 full catalog | New **B** on 4:157 literalism |
+| **MD-03** | Layered canon + **CCRP** | Anti-circularity | Canon + rabbinic modules | Oral Torah / inspiration claims | Canon not equal **R** | §5.3 | Council transition | CCRP failure |
+| **MD-04** | Seal of **UC canonical series** (**B**) | Preserve 33:40 language without Islamic **R** claim | Canon module; Q 33:40 | Muslim finality holders | Not Islamic orthodoxy | §6 | Friedmann thesis contested | Collapse into Islamic finality |
+| **MD-05** | New community; non-supersession | Positive UC identity | Rabbinic module; MD-05 spec | Supersessionists | No inherited replacement | §7 | Dual identity friction | Supersession wording |
+| **MD-06** | *Taḥrīf* **C** open + agenda | No convenience ruling | Matrix §6 | Polemic sides want **B** | Delayed canon certainty | §11 | Phase 6.5 research | Post-research **B** choice |
+
+**Deliverables:** [unified-covenant-v0.3.md](./unified-covenant-v0.3.md), [unified-covenant-v0.3-traceability.md](./unified-covenant-v0.3-traceability.md).
+
+**Not implemented:** Liturgy; full *taḥrīf* **B**; seventh undeclared ruling.
+
+---
+
+*Phase 6.2 decision log — Phase 6.3–6.4 append for maintainer audit. v0.2 text preserved; v0.3 is current constructive draft.*

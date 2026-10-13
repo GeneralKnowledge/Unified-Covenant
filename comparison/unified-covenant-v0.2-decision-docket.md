@@ -1,11 +1,12 @@
 # Unified Covenant v0.2 — Maintainer Decision Docket
 
-**Status:** Open decisions requiring **repository maintainer** approval.  
+**Status:** **MD-01–MD-06 APPROVED** as Phase 6.4 starting rulings (implemented in [unified-covenant-v0.3.md](./unified-covenant-v0.3.md)). Historical Phase 6.3 recommendations preserved below.
+
 **Research basis:** Phase 6.3 modules in [research/README.md](../research/README.md); [unified-covenant-v0.2-review-6-3.md](./unified-covenant-v0.2-review-6-3.md).
 
 **Note:** v0.2 previously referenced “§12” for maintainer flags; **no §12 existed** in the document. This docket **is** the authoritative list (Phase 6.3 correction).
 
-**Legend:** **Maintainer decision: OPEN** unless a future commit records **APPROVED** / **REJECTED** / **DEFERRED** with commit hash.
+**Legend:** **APPROVED (Phase 6.4)** = binding for v0.3+ unless §12 revision with documented reopen.
 
 ---
 
@@ -25,7 +26,10 @@
 | **Consequences** | MD-02 linkage; declaration §5; essential membership §9 |
 | **Uncertainties** | Post-Chalcedonian diversity; non-Nicene Christian histories |
 | **Recommendation** | **A** with **sharpened glossary** for “Anointed” — **confidence: medium** |
-| **Maintainer decision** | **OPEN** |
+| **Maintainer decision** | **APPROVED (Phase 6.4)** |
+| **Approved formulation** | Non-Nicene **One Sovereign**; **Jesus the Anointed** defined §4.1 v0.3; no homoousios **B**; no economic-Trinity ontological shortcut |
+| **Implemented in** | v0.3 §§3–4; DR-01, DR-02; [traceability](./unified-covenant-v0.3-traceability.md) |
+| **Reopen if** | Internal contradiction between §3 and §4 or council supermajority + evidence memo |
 
 ---
 
@@ -45,7 +49,10 @@
 | **Consequences** | Declaration §5; UC-07 eschatology; associate vs member rules |
 | **Uncertainties** | Full academic catalog; 7th-c. audience |
 | **Recommendation** | **B** — drop “provisionally reconciled” label; adopt **explicit B synthesis** OR split membership registers — **confidence: medium-high** on **mislabeling** risk |
-| **Maintainer decision** | **OPEN** |
+| **Maintainer decision** | **APPROVED (Phase 6.4)** |
+| **Approved formulation** | Retain **H** crucifixion; **B** “Vindication of the Anointed” (§4.5 v0.3); **not** cross-tradition reconciliation; dominant 4:157 **R** documented fairly |
+| **Implemented in** | v0.3 §4; DR-03, DR-04, DR-05 |
+| **Reopen if** | Maintainer accepts full literal 4:157 **B** or Nicene passion-only **B** |
 
 ---
 
@@ -65,7 +72,10 @@
 | **Consequences** | UC-11; MD-04; revision §10 |
 | **Uncertainties** | Liturgical practice unset |
 | **Recommendation** | **A** + written **conflict algorithm** (when layers clash, §2 then **recorded B** — Constitution cannot override **verbatim text** without memo) — **confidence: medium** |
-| **Maintainer decision** | **OPEN** |
+| **Maintainer decision** | **APPROVED (Phase 6.4)** |
+| **Approved formulation** | Layered Unified Canon + **CCRP** (§5.3 v0.3) with deadlock rules; Constitution = covenant/governance, not dictation |
+| **Implemented in** | v0.3 §5; DR-06, DR-07 |
+| **Reopen if** | CCRP fails operational test on live dispute |
 
 ---
 
@@ -85,7 +95,10 @@
 | **Consequences** | MD-03; declaration; UC-C03 |
 | **Uncertainties** | Early vs developed **R** finality |
 | **Recommendation** | **A** only if **explicitly labeled B reinterpretation**; else **B** or **D** — **confidence: low-medium** |
-| **Maintainer decision** | **OPEN** |
+| **Maintainer decision** | **APPROVED (Phase 6.4)** |
+| **Approved formulation** | **Seal of Abrahamic canonical series** — explicit **B**, not Islamic **R** finality (§6.2 v0.3) |
+| **Implemented in** | v0.3 §6; DR-08 |
+| **Reopen if** | Wording collapses into mainstream Islamic finality claim |
 
 ---
 
@@ -99,7 +112,10 @@
 | **Evidence reviewed** | Rabbinic module; conv. §8; matrix § G |
 | **Alternatives** | **A:** New community (v0.2). **B:** Non-exclusive fellowship only. **C:** Supersessionist (reject — not recommended). |
 | **Recommendation** | **A** with **clear non-supersessionist** wording — **confidence: medium** |
-| **Maintainer decision** | **OPEN** |
+| **Maintainer decision** | **APPROVED (Phase 6.4)** |
+| **Approved formulation** | UC = **new religious community**; no supersession/fulfilment of J/C/I (§7 v0.3) |
+| **Implemented in** | v0.3 §7; DR-09 |
+| **Reopen if** | Membership text implies replacement theology |
 
 ---
 
@@ -113,7 +129,10 @@
 | **Evidence reviewed** | Matrix disagreement §6; Ch.4 |
 | **Alternatives** | **A:** Keep neutral (v0.2). **B:** Affirm Islamic *taḥrīf* **B**. **C:** Affirm Jewish/Christian preservation **B**. |
 | **Recommendation** | **A** until specialist text-critical module — **confidence: medium**; identify **sub-questions** (partial corruption vs total vs legal vs narrative) in Phase 6.4 |
-| **Maintainer decision** | **OPEN** |
+| **Maintainer decision** | **APPROVED (Phase 6.4)** |
+| **Approved formulation** | **C** open; separate *taḥrīf* meanings; research agenda §11 v0.3; no convenience **B** ruling |
+| **Implemented in** | v0.3 §11; DR-10; UQ-01 |
+| **Reopen when** | Phase 6.5 *taḥrīf* module completes |
 
 ---
 
@@ -128,4 +147,4 @@
 
 ---
 
-*All recommendations are **not** adopted doctrine until maintainer records decision.*
+*Phase 6.3 recommendations remain in table history. **APPROVED** rulings are implemented in [unified-covenant-v0.3.md](./unified-covenant-v0.3.md)—not scholarly consensus.*

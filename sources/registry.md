@@ -549,3 +549,19 @@ notes: >
   Does not edit chronicle, matrix, or v0.1; minimal v0.2 edit for §12/docket pointer correction only.
 related_ledger: Phase 6.3 final report
 ```
+
+### `comparison-phase-6-4-v0-3`
+
+```yaml
+id: comparison-phase-6-4-v0-3
+claim: Phase 6.4 implements maintainer-approved MD-01 through MD-06 in unified-covenant-v0.3.md with CCRP canon procedure and traceability matrix; v0.2 preserved.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - comparison/unified-covenant-v0.3.md
+  - comparison/unified-covenant-v0.3-traceability.md
+  - comparison/unified-covenant-v0.2-decision-docket.md
+notes: >
+  Does not edit chronicle, matrix, or THE_UNIFIED_COVENANT.md. Taḥrīf remains C open per MD-06.
+related_ledger: Phase 6.4 final report
+```
