@@ -20,9 +20,9 @@ Research documents support Unified Covenant constructive drafts and maintainer d
 | Investigation (full) | [phase-6-5-tahrif-and-scriptural-preservation.md](./phase-6-5-tahrif-and-scriptural-preservation.md) |
 | Doctrinal options memo | [phase-6-5-tahrif-options.md](./phase-6-5-tahrif-options.md) |
 
-**Feeds:** v0.3 §11 (**MD-06** **C** open); DR-10; [unified-covenant-v0.3-traceability.md](../comparison/unified-covenant-v0.3-traceability.md). **Does not** edit v0.3 theology.
+**Feeds:** v0.4 §11 (**MD-06** **C** open; **MD-09** pedagogy); DR-10; [unified-covenant-v0.4-traceability.md](../comparison/unified-covenant-v0.4-traceability.md).
 
-**Current constructive proposal:** [unified-covenant-v0.3.md](../comparison/unified-covenant-v0.3.md)
+**Current constructive proposal:** [unified-covenant-v0.4.md](../comparison/unified-covenant-v0.4.md)
 
 ## Phase 6.6 (CCRP adversarial stress test)
 
@@ -49,10 +49,19 @@ Research documents support Unified Covenant constructive drafts and maintainer d
 
 QA-revises [6.7 proposal](../comparison/ccrp-revision-proposal-6-7.md) and [canon audit](../comparison/canon-language-audit-6-7.md); **does not** adopt procedure or doctrine.
 
-## Phase 6.9 (maintainer decision docket)
+## Phase 6.9 (maintainer decision docket — archive)
 
 | Module | File |
 |--------|------|
-| MD-07–MD-11 open decisions | [../comparison/ccrp-maintainer-decisions-6-9.md](../comparison/ccrp-maintainer-decisions-6-9.md) |
+| MD-07–MD-11 options (historical) | [../comparison/ccrp-maintainer-decisions-6-9.md](../comparison/ccrp-maintainer-decisions-6-9.md) |
 
-Awaiting maintainer choices before any v0.4 / CCRP implementation.
+## Phase 6.10 (CCRP adoption & v0.4)
+
+| Module | File |
+|--------|------|
+| Constructive draft v0.4 | [../comparison/unified-covenant-v0.4.md](../comparison/unified-covenant-v0.4.md) |
+| Adopted CCRP | [../comparison/ccrp-adopted.md](../comparison/ccrp-adopted.md) |
+| Validation (7 tests) | [../comparison/ccrp-validation-6-10.md](../comparison/ccrp-validation-6-10.md) |
+| Glossary | [../comparison/glossary-unified-covenant.md](../comparison/glossary-unified-covenant.md) |
+
+**Approved:** **MD-07–MD-11** in [decision docket](../comparison/unified-covenant-v0.2-decision-docket.md). **MD-06** / **DR-10** remain **C**.
