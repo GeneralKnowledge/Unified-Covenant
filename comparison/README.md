@@ -59,6 +59,7 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 | [convergence-assessment.md](./convergence-assessment.md) | Phase 5.2: candidate convergence themes, compatibility outcomes, test of the synthesis essay (essay not edited) |
 | [convergence-source-audit.md](./convergence-source-audit.md) | Phase 5.3: source audit of convergence claims before any essay revision |
 | [unified-covenant-v0.1.md](./unified-covenant-v0.1.md) | **Phase 6:** Unified Covenant v0.1 — first constructive proposal (draft constitution, not final creed) |
+| [unified-covenant-review-6-1.md](./unified-covenant-review-6-1.md) | **Phase 6.1:** Adversarial review of v0.1 (classification, coherence, roadmap—no v0.2) |
 | [../history/README.md](../history/README.md) | Chronicle index (Chapters 1–4) |
 | [../sources/registry.md](../sources/registry.md) | Sample claim registry (expand as comparison matures) |
 
