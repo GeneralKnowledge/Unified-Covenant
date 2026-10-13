@@ -40,3 +40,11 @@ Research documents support Unified Covenant constructive drafts and maintainer d
 | Canon language audit (v0.3) | [../comparison/canon-language-audit-6-7.md](../comparison/canon-language-audit-6-7.md) |
 
 **Status:** Proposals for maintainer review only. **Does not** amend v0.3 or **MD-01–MD-06**.
+
+## Phase 6.8 (CCRP proposal QA)
+
+| Module | File |
+|--------|------|
+| Proposal QA & readiness | [../comparison/ccrp-proposal-qa-6-8.md](../comparison/ccrp-proposal-qa-6-8.md) |
+
+QA-revises [6.7 proposal](../comparison/ccrp-revision-proposal-6-7.md) and [canon audit](../comparison/canon-language-audit-6-7.md); **does not** adopt procedure or doctrine.
