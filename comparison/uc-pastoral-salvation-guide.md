@@ -1,8 +1,8 @@
-# UC pastoral guide — salvation, repentance, and mercy (Phase 8.2 / UQ-03)
+# UC pastoral guide — salvation, repentance, and mercy
 
-**Status:** **PROPOSAL** — pastoral **G** teaching UC recommends for adoption; **UQ-03** **atonement mechanics** remain **C** unless maintainer narrows further. **Does not** breach **MD-12** (no penal substitution, satisfaction, or blood sacrifice as **B**).
+**Status:** **ADOPTED G** (**MD-15**, Phase 8.3). **UQ-03** **atonement mechanics** remain **C**. **Does not** breach **MD-12** (no penal substitution, satisfaction, or blood sacrifice as **B**).
 
-**Integrated in:** [unified-covenant-v0.6.md](./unified-covenant-v0.6.md) Part VI
+**Integrated in:** [unified-covenant-v0.7.md](./unified-covenant-v0.7.md) · Practices: [uc-foundational-practices.md](./uc-foundational-practices.md)
 
 ---
 
@@ -105,14 +105,10 @@ God (mercy + justice, one character)
 
 ---
 
-## 6. Recommendation for **UQ-03**
+## 6. **UQ-03** boundary (maintainer ruling, Phase 8.3)
 
-| Field | Content |
-|-------|---------|
-| **Preferred** | **Keep mechanics **C****; adopt this document as **G** **authoritative pastoral teaching**; clarify in register that **UQ-03** = “no **B** mechanism” not “no UC teaching on repentance” |
-| **Trade-off** | Philosophically precise members may want **B** formula; UC avoids **MD-12** breach |
-| **Decision** | ☐ Adopt pastoral **G** ☐ Also add narrow **B** sentence on forgiveness-through-repentance ☐ Leave only **C** without **G** |
+**Mechanics **C**;** this guide is **G** authoritative pastoral teaching. **UQ-03** means UC does **not** bind a **B** remission mechanism — not that UC is silent on repentance, mercy, or hope.
 
 ---
 
-*Pastoral salvation guide — Phase 8.2 proposal.*
+*Pastoral salvation guide — **ADOPTED G** (**MD-15**).*

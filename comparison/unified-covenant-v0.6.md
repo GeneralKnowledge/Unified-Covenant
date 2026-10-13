@@ -1,6 +1,6 @@
 # Unified Covenant v0.6 — Founding commitments synthesis
 
-**Status:** Phase **8.2** integrated construct — **substantive development draft**. Builds on [unified-covenant-v0.5.md](./unified-covenant-v0.5.md) and constitutional [unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md). **Not** automatic adoption: **PROPOSAL** items require maintainer **§12** process to become **B**.
+**Status:** Phase **8.2** integrated construct — **historical proposal snapshot** (maintainer decisions implemented in Phase **8.3** → [unified-covenant-v0.7.md](./unified-covenant-v0.7.md)). Preserved unchanged except this status line.
 
 **Purpose:** Move UC from mapped proposals toward a **livable religion** — scripture trust, sacred time, repentance, and ethical practice **integrated** with adopted doctrine.
 

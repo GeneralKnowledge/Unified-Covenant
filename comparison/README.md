@@ -63,7 +63,10 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 | [unified-covenant-v0.3.md](./unified-covenant-v0.3.md) | **Phase 6.4 (prior draft):** v0.3 — MD-01–MD-06 implemented (preserved) |
 | [unified-covenant-v0.3-traceability.md](./unified-covenant-v0.3-traceability.md) | Phase 6.4 doctrine-to-evidence traceability (v0.3) |
 | [unified-covenant-v0.5.md](./unified-covenant-v0.5.md) | **Phase 8.1 (integrated theological construct):** whole-religion synthesis — **PROPOSAL** layers marked; v0.4.2 baseline preserved |
-| [unified-covenant-v0.6.md](./unified-covenant-v0.6.md) | **Phase 8.2 (Founding Commitments):** preservation, calendar, pastoral, ethics integrated — **PROPOSAL**; [decision sheet](./phase-8-2-maintainer-decision-sheet.md) |
+| [unified-covenant-v0.7.md](./unified-covenant-v0.7.md) | **Phase 8.3 (Founding faith):** adopted founding rulings — readable integrated theology |
+| [unified-covenant-v0.7-traceability.md](./unified-covenant-v0.7-traceability.md) | Phase 8.3 traceability |
+| [uc-foundational-practices.md](./uc-foundational-practices.md) | **G** worship, calendar services, life rites (**MD-15**) |
+| [unified-covenant-v0.6.md](./unified-covenant-v0.6.md) | **Phase 8.2 (historical):** pre-adoption proposal snapshot |
 | [unified-covenant-v0.6-traceability.md](./unified-covenant-v0.6-traceability.md) | Phase 8.2 traceability |
 | [phase-8-2-scriptural-preservation-proposal.md](./phase-8-2-scriptural-preservation-proposal.md) | **MD-06 / DR-10** — Sufficient Witness **PROPOSAL** |
 | [uc-sacred-calendar-proposed.md](./uc-sacred-calendar-proposed.md) | **MD-14** + annual calendar **PROPOSAL** |

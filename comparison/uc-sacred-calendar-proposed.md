@@ -1,6 +1,6 @@
 # UC sacred calendar — integrated proposal (Phase 8.2)
 
-**Status:** **PROPOSAL** — **not** binding until maintainer adopts under **§12**. **MD-14** remains **OPEN** in authoritative records until ruled.
+**Status:** **Historical proposal text** (Phase 8.2). **Binding status:** **MD-14** / **MD-15** (**APPROVED** Phase 8.3) — see [v0.4.2 §8.3](./unified-covenant-v0.4.2.md) and [uc-foundational-practices.md](./uc-foundational-practices.md).
 
 **Liturgy:** [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md) (**ADOPTED B**) — used on **Covenant Day** and annual observances.
 
