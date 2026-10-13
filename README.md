@@ -25,7 +25,9 @@ The name comes from [THE_UNIFIED_COVENANT.md](./THE_UNIFIED_COVENANT.md)—a **f
 | [comparison/evidence-matrix.md](./comparison/evidence-matrix.md) | Thematic matrix, disagreement register, evidence gaps |
 | [comparison/convergence-assessment.md](./comparison/convergence-assessment.md) | Phase 5.2: convergence themes tested against chronicle and matrix |
 | [comparison/unified-covenant-v0.1.md](./comparison/unified-covenant-v0.1.md) | **Phase 6 (prior):** Unified Covenant v0.1 — first constructive constitution (draft) |
-| [comparison/unified-covenant-v0.2.md](./comparison/unified-covenant-v0.2.md) | **Phase 6.2 (current proposal):** Unified Covenant v0.2 — unified religion draft (not validated) |
+| [comparison/unified-covenant-v0.2.md](./comparison/unified-covenant-v0.2.md) | **Phase 6.2 (prior):** Unified Covenant v0.2 |
+| [comparison/unified-covenant-v0.3.md](./comparison/unified-covenant-v0.3.md) | **Phase 6.4 (current proposal):** Unified Covenant v0.3 (MD-01–MD-06) |
+| [comparison/unified-covenant-v0.3-traceability.md](./comparison/unified-covenant-v0.3-traceability.md) | Phase 6.4 traceability matrix |
 | [comparison/unified-covenant-v0.2-decision-log.md](./comparison/unified-covenant-v0.2-decision-log.md) | Phase 6.2 audit trail (v0.1 → v0.2) |
 | [comparison/unified-covenant-v0.2-decision-docket.md](./comparison/unified-covenant-v0.2-decision-docket.md) | Phase 6.3 open maintainer decisions |
 | [comparison/unified-covenant-v0.2-review-6-3.md](./comparison/unified-covenant-v0.2-review-6-3.md) | Phase 6.3 doctrinal stress-test |
@@ -36,7 +38,7 @@ The name comes from [THE_UNIFIED_COVENANT.md](./THE_UNIFIED_COVENANT.md)—a **f
 - **Phase 5** (comparison): [Evidence matrix](./comparison/evidence-matrix.md) and [convergence assessment](./comparison/convergence-assessment.md).  
 - **Phase 6** (first synthesis): [Unified Covenant v0.1](./comparison/unified-covenant-v0.1.md) — exploratory draft (preserved).  
 - **Phase 6.2:** [Unified Covenant v0.2](./comparison/unified-covenant-v0.2.md) — current constructive religion proposal; [decision log](./comparison/unified-covenant-v0.2-decision-log.md); [Phase 6.1 review](./comparison/unified-covenant-review-6-1.md). [THE_UNIFIED_COVENANT.md](./THE_UNIFIED_COVENANT.md) remains the earlier speculative essay.  
-- **Phase 6.3:** Specialist research ([research/README.md](./research/README.md)), [stress-test review](./comparison/unified-covenant-v0.2-review-6-3.md), [decision docket](./comparison/unified-covenant-v0.2-decision-docket.md). **Phase 6.4:** Maintainer rulings → v0.3 draft.
+- **Phase 6.3:** Specialist research ([research/README.md](./research/README.md)), [stress-test review](./comparison/unified-covenant-v0.2-review-6-3.md), [decision docket](./comparison/unified-covenant-v0.2-decision-docket.md). **Phase 6.4:** [v0.3](./comparison/unified-covenant-v0.3.md) + [traceability](./comparison/unified-covenant-v0.3-traceability.md). **Phase 6.5:** *Taḥrīf* research (UQ-01).
 
 ## Note
 
