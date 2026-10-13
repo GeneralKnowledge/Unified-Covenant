@@ -75,7 +75,7 @@ Use **morning** after waking and **evening** before sleep (or another fixed pair
 1. **Gathering hymn or silence** (3 min) — **G**; no prescribed text  
 2. **Opening word** (leader): purpose of Renewal — **G**  
 3. **Shared gathering liturgy** — **B** (full)  
-4. **Creed** — leader invites assembly to speak [uc-creed.md](./uc-creed.md) (or listen in silence — **MD-08**); optional full [Declaration](./unified-covenant-v0.4.2.md) for teaching — **G**  
+4. **Creed** — leader invites assembly to speak [uc-creed.md](./uc-creed.md) (or listen in silence — **MD-08**); optional full [Declaration](./unified-covenant-v0.4.2.md) for teaching; assembly **may** respond **“We affirm this covenant”** — **G** (not a new **B** formula)
 5. **Covenant entry / reaffirmation**  
    - *New members:* public assent to essential **B**; sign or verbal witness per local **G** record  
    - *Existing members:* **“I renew my commitment to One Sovereign, this canon, and this community.”** — **G**  
