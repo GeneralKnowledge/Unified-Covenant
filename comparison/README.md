@@ -66,19 +66,23 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 | [unified-covenant-v0.7.md](./unified-covenant-v0.7.md) | **Phase 8.3 (Founding faith):** adopted founding rulings — readable integrated theology |
 | [unified-covenant-v0.7-traceability.md](./unified-covenant-v0.7-traceability.md) | Phase 8.3 traceability |
 | [uc-foundational-practices.md](./uc-foundational-practices.md) | **G** worship, calendar services, life rites (**MD-15**) |
+| [uc-creed.md](./uc-creed.md) | **G** founding creed (memorisation / covenant entry) |
+| [uc-catechism-intro.md](./uc-catechism-intro.md) | **G** introductory catechism for newcomers |
+| [uc-membership-and-obligations.md](./uc-membership-and-obligations.md) | **G** membership, worship expectations, mutual duties |
+| [uc-founding-stress-test.md](./uc-founding-stress-test.md) | **G** hard scripture, ethics, and life cases (reasoning memo) |
 | [unified-covenant-v0.6.md](./unified-covenant-v0.6.md) | **Phase 8.2 (historical):** pre-adoption proposal snapshot |
 | [unified-covenant-v0.6-traceability.md](./unified-covenant-v0.6-traceability.md) | Phase 8.2 traceability |
-| [phase-8-2-scriptural-preservation-proposal.md](./phase-8-2-scriptural-preservation-proposal.md) | **MD-06 / DR-10** — Sufficient Witness **PROPOSAL** |
-| [uc-sacred-calendar-proposed.md](./uc-sacred-calendar-proposed.md) | **MD-14** + annual calendar **PROPOSAL** |
-| [uc-pastoral-salvation-guide.md](./uc-pastoral-salvation-guide.md) | **UQ-03** pastoral **PROPOSAL** (within **MD-12**) |
-| [uc-ethics-practice-guide.md](./uc-ethics-practice-guide.md) | Ethics practice **PROPOSAL **G**** |
-| [whole-religion-synthesis-map.md](./whole-religion-synthesis-map.md) | Whole-religion system map (updated Phase 8.2) |
-| [whole-religion-development-roadmap.md](./whole-religion-development-roadmap.md) | Remaining gaps after Phase 8.2 |
-| [unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md) | **Phase 7.7/7.8 (constitutional predecessor):** **MD-13** binding liturgy; post-merge §12 regularisation pending |
+| [phase-8-2-scriptural-preservation-proposal.md](./phase-8-2-scriptural-preservation-proposal.md) | **MD-06 / DR-10** — Sufficient Witness (adopted Phase 8.3; reasoning archive) |
+| [uc-sacred-calendar-proposed.md](./uc-sacred-calendar-proposed.md) | Calendar proposal text (status in **MD-14** / **MD-15**) |
+| [uc-pastoral-salvation-guide.md](./uc-pastoral-salvation-guide.md) | **ADOPTED G** pastoral teaching (**MD-15**; **UQ-03** mechanics **C**) |
+| [uc-ethics-practice-guide.md](./uc-ethics-practice-guide.md) | **ADOPTED G** ethics handbook (**MD-15**) |
+| [whole-religion-synthesis-map.md](./whole-religion-synthesis-map.md) | Whole-religion system map (Phase 8.3) |
+| [whole-religion-development-roadmap.md](./whole-religion-development-roadmap.md) | Remaining gaps after founding rulings |
+| [unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md) | **Constitution:** **MD-13–MD-15**; §14 register; **MD-13** §12 regularisation note (Phase 7.8) |
 | [unified-covenant-v0.4.2-traceability.md](./unified-covenant-v0.4.2-traceability.md) | Phase 7.7 traceability (v0.4.2) |
 | [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md) | **B** shared prayer script (**MD-13** Option 1) |
-| [phase-7-7-annual-observances-proposal.md](./phase-7-7-annual-observances-proposal.md) | Annual observance **candidates** (not individually approved) |
-| [phase-7-7-md-14-weekly-day-brief.md](./phase-7-7-md-14-weekly-day-brief.md) | **MD-14 OPEN** — weekly day decision brief |
+| [phase-7-7-annual-observances-proposal.md](./phase-7-7-annual-observances-proposal.md) | Phase 7.7 annual memo (historical; **MD-15** supersedes) |
+| [phase-7-7-md-14-weekly-day-brief.md](./phase-7-7-md-14-weekly-day-brief.md) | Phase 7.7 weekly-day brief (historical; **MD-14** **APPROVED** Phase 8.3) |
 | [unified-covenant-v0.4.1.md](./unified-covenant-v0.4.1.md) | **Phase 7.5 (prior draft):** MD-12 Option A (preserved) |
 | [unified-covenant-v0.4.1-traceability.md](./unified-covenant-v0.4.1-traceability.md) | Phase 7.5 traceability (v0.4.1, preserved) |
 | [unified-covenant-v0.4.md](./unified-covenant-v0.4.md) | **Phase 6.10 (prior draft):** v0.4 — MD-01–MD-11; adopted CCRP (preserved) |
@@ -93,7 +97,7 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 | [forward-progress-policy.md](./forward-progress-policy.md) | Phase 7+ policy — CCRP meta-audit freeze; substance track |
 | [maintainer-docket-7-1-atonement.md](./maintainer-docket-7-1-atonement.md) | **MD-12 APPROVED — Option A** (UQ-03 editorial clarification) |
 | [phase-7-2-contingent-amendments.md](./phase-7-2-contingent-amendments.md) | Option A **implemented** in v0.4.1; Options B/C **unapproved** drafts |
-| [maintainer-docket-7-3-liturgy.md](./maintainer-docket-7-3-liturgy.md) | **MD-13 APPROVED** (§12 pending); **MD-14 OPEN** |
+| [maintainer-docket-7-3-liturgy.md](./maintainer-docket-7-3-liturgy.md) | **MD-13** liturgy record; **MD-14**/**MD-15** see [decision docket](./unified-covenant-v0.2-decision-docket.md) |
 | [phase-7-6-md-13-decision-brief.md](./phase-7-6-md-13-decision-brief.md) | Phase 7.6 **MD-13** maintainer decision brief (**not** adopted worship) |
 | [phase-7-8-post-merge-governance-audit.md](./phase-7-8-post-merge-governance-audit.md) | Phase 7.8 §12 post-merge audit (PR #29 timing) |
 | [phase-7-8-post-merge-review-procedure.md](./phase-7-8-post-merge-review-procedure.md) | Post-merge §12 review procedure (issue template) |
@@ -128,10 +132,10 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 ## Phase 6 (constructive proposal)
 
 - **[unified-covenant-v0.1.md](./unified-covenant-v0.1.md)** — first constitution-style synthesis (exploratory pact); classification labels **A / B / C** as in v0.1.
-- **[unified-covenant-v0.5.md](./unified-covenant-v0.5.md)** — **Phase 8.1** integrated theological construct (working synthesis; proposals ≠ adopted **B**).
-- **[unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md)** — constitutional predecessor: **MD-13** liturgy, governance, DR register. Earlier drafts preserved.
+- **[unified-covenant-v0.7.md](./unified-covenant-v0.7.md)** — **Phase 8.3** founding faith (read with [creed](./uc-creed.md), [catechism](./uc-catechism-intro.md), [membership](./uc-membership-and-obligations.md)).
+- **[unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md)** — constitution: **MD-13–MD-15**, §14 register. Earlier drafts preserved.
 
-See [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) §13 for Phase 6.10; **§17** for Phase 7 forward progress. **Phase 6.5–6.6** [taḥrīf research](../research/phase-6-5-tahrif-and-scriptural-preservation.md) and [CCRP stress test](./ccrp-stress-test-6-6.md) inform procedure; **MD-06** / **DR-10** remain **C — open**. **Phase 6.7–6.8** [proposal](./ccrp-revision-proposal-6-7.md) and [QA](./ccrp-proposal-qa-6-8.md) are **historical** inputs to adoption, not standalone authority. **Phase 6.9** [docket archive](./ccrp-maintainer-decisions-6-9.md) records options; **MD-07–MD-11** approved in [decision docket](./unified-covenant-v0.2-decision-docket.md). **Phase 6.10–6.13** CCRP validation chain: [6-10](./ccrp-validation-6-10.md) · [6-11](./ccrp-validation-6-11.md) · [6-12](./ccrp-validation-6-12.md) · [6-13](./ccrp-validation-6-13.md). **Phase 6.14** [coherence audit](./coherence-audit-6-14.md) (v0.4 theology/constitution — no adoption). **Phase 7+** [forward-progress-policy.md](./forward-progress-policy.md) — **MD-12** closed; **MD-13** in **v0.4.2** (post-merge §12 audit Phase 7.8); **MD-14** open.
+See [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) **§17** for Phase 7–8. **Founding **B**:** **MD-06** Sufficient Witness (**DR-10**), **MD-14** Covenant Day, **MD-15** calendar + **G** corpus. **Open:** **UQ-03** atonement mechanics **C**; **MD-13** post-merge §12 regularisation (Phase 7.8). **Phase 6.5** [taḥrīf research](../research/phase-6-5-tahrif-and-scriptural-preservation.md) informs **B** but is not doctrine. **Phase 7+** [forward-progress-policy.md](./forward-progress-policy.md).
 
 ## What comparison phases do not do
 

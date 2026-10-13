@@ -1,6 +1,6 @@
 # Maintainer docket — Phase 7.3 liturgy & calendar (UQ-02)
 
-**Status:** **MD-13 APPROVED** (maintainer direction; Option 1 **B** script). **§12 regularisation:** pre-merge period **incomplete** at PR #29 merge — post-merge review **required**, **not yet started** (Phase 7.8). **MD-14 OPEN.**
+**Status:** **MD-13 APPROVED** (Option 1 **B** script). **§12 regularisation:** Phase 7.8 note unchanged for **MD-13** merge timing. **MD-14** / **MD-15:** **APPROVED** Phase 8.3 — see [decision docket](./unified-covenant-v0.2-decision-docket.md).
 
 **Governance audit:** [phase-7-8-post-merge-governance-audit.md](./phase-7-8-post-merge-governance-audit.md) · **Procedure:** [phase-7-8-post-merge-review-procedure.md](./phase-7-8-post-merge-review-procedure.md)
 
@@ -16,7 +16,7 @@
 
 **CCRP:** [ccrp-case-record-md-13-liturgy.md](./ccrp-case-record-md-13-liturgy.md) · exemplar [ccrp-case-record-exemplar-worship-canon.md](./ccrp-case-record-exemplar-worship-canon.md)
 
-**Constraints preserved:** **MD-05**, **MD-08**, **MD-03**, **MD-10**, **MD-06** / **DR-10** **C**, **MD-12** Option A
+**Constraints preserved:** **MD-05**, **MD-08**, **MD-03**, **MD-10**, **MD-06** / **DR-10** **B** (Phase 8.3), **MD-12** Option A
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Status:** **G** — official teaching and worship guidance (**MD-15**). **Binding liturgy text** remains [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md) (**B**, **MD-13**). This document **does not** replace or rewrite that script.
 
-**Theology:** [unified-covenant-v0.7.md](./unified-covenant-v0.7.md) · Pastoral: [uc-pastoral-salvation-guide.md](./uc-pastoral-salvation-guide.md) · Ethics: [uc-ethics-practice-guide.md](./uc-ethics-practice-guide.md)
+**Theology:** [unified-covenant-v0.7.md](./unified-covenant-v0.7.md) · **Newcomers:** [uc-creed.md](./uc-creed.md) · [uc-catechism-intro.md](./uc-catechism-intro.md) · [uc-membership-and-obligations.md](./uc-membership-and-obligations.md) · Pastoral: [uc-pastoral-salvation-guide.md](./uc-pastoral-salvation-guide.md) · Ethics: [uc-ethics-practice-guide.md](./uc-ethics-practice-guide.md)
 
 **Legend:** **B** = use binding liturgy as written · **G** = UC guidance · **O** = optional local custom
 
@@ -75,7 +75,7 @@ Use **morning** after waking and **evening** before sleep (or another fixed pair
 1. **Gathering hymn or silence** (3 min) — **G**; no prescribed text  
 2. **Opening word** (leader): purpose of Renewal — **G**  
 3. **Shared gathering liturgy** — **B** (full)  
-4. **Declaration of faith** — leader reads [v0.4.2 Declaration](./unified-covenant-v0.4.2.md) or [v0.7 summary](./unified-covenant-v0.7.md); assembly **may** respond **“We affirm this covenant”** — **G** (not a new **B** formula)  
+4. **Creed** — leader invites assembly to speak [uc-creed.md](./uc-creed.md) (or listen in silence — **MD-08**); optional full [Declaration](./unified-covenant-v0.4.2.md) for teaching; assembly **may** respond **“We affirm this covenant”** — **G** (not a new **B** formula)
 5. **Covenant entry / reaffirmation**  
    - *New members:* public assent to essential **B**; sign or verbal witness per local **G** record  
    - *Existing members:* **“I renew my commitment to One Sovereign, this canon, and this community.”** — **G**  

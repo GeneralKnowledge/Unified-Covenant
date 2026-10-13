@@ -4,7 +4,7 @@
 
 **Purpose:** Move UC from mapped proposals toward a **livable religion** — scripture trust, sacred time, repentance, and ethical practice **integrated** with adopted doctrine.
 
-**Adopted baseline (unchanged unless explicitly amended):** **MD-01–MD-13** as in [decision-docket](./unified-covenant-v0.2-decision-docket.md); binding liturgy [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md); **MD-06** / **DR-10** **C** until resolved; **MD-14** **OPEN** until resolved; annual observances **not** individually approved until resolved; **DR-14** **not** in §14 register; **UQ-03** mechanics **C** unless bounded by maintainer.
+**Historical snapshot (Phase 8.2):** Baseline text below reflects **pre–Phase 8.3** status. **Current **B**:** [unified-covenant-v0.7.md](./unified-covenant-v0.7.md) and [decision docket](./unified-covenant-v0.2-decision-docket.md) (**MD-06**, **MD-14**, **MD-15** adopted).
 
 **Phase 8.2 companions:** [preservation proposal](./phase-8-2-scriptural-preservation-proposal.md) · [sacred calendar](./uc-sacred-calendar-proposed.md) · [pastoral guide](./uc-pastoral-salvation-guide.md) · [ethics guide](./uc-ethics-practice-guide.md) · [decision sheet](./phase-8-2-maintainer-decision-sheet.md)
 

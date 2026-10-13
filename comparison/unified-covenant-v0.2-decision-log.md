@@ -226,6 +226,7 @@
 | **8.1** | [unified-covenant-v0.5.md](./unified-covenant-v0.5.md) integrated construct; synthesis map + roadmap — **PROPOSAL** layers; **MD-06**, **MD-14**, **UQ-03** unchanged in docket |
 | **8.2** | [unified-covenant-v0.6.md](./unified-covenant-v0.6.md) Founding Commitments — **PROPOSAL**; [decision sheet](./phase-8-2-maintainer-decision-sheet.md) |
 | **8.3** | Maintainer founding rulings **implemented:** **MD-06** Sufficient Witness **B** (**DR-10**); **MD-14** Covenant Day; **MD-15** calendar + **G** guides; [v0.7](./unified-covenant-v0.7.md), [uc-foundational-practices.md](./uc-foundational-practices.md); v0.4.2 §§8, 11, 14; **UQ-03** mechanics **C**; **DR-14** not added; **MD-13** liturgy text unchanged |
+| **8.3b** | **G** newcomer corpus: [uc-creed.md](./uc-creed.md), [uc-catechism-intro.md](./uc-catechism-intro.md), [uc-membership-and-obligations.md](./uc-membership-and-obligations.md), [uc-founding-stress-test.md](./uc-founding-stress-test.md); navigation and v0.4.2 §5.3 stale-text fixes; link validation script |
 
 ---
 

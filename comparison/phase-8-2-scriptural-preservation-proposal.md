@@ -4,7 +4,7 @@
 
 **Evidence:** [phase-6-5-tahrif-and-scriptural-preservation.md](../research/phase-6-5-tahrif-and-scriptural-preservation.md) · [phase-6-5-tahrif-options.md](../research/phase-6-5-tahrif-options.md)
 
-**Integrated in:** [unified-covenant-v0.6.md](./unified-covenant-v0.6.md) Part IV
+**Integrated in:** [unified-covenant-v0.7.md](./unified-covenant-v0.7.md) §4 · [v0.4.2 §11](./unified-covenant-v0.4.2.md)
 
 ---
 

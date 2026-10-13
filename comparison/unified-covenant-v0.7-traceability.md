@@ -18,6 +18,7 @@
 | Pastoral salvation guide | **MD-15** | **G** |
 | Ethics practice guide | **MD-15** | **G** |
 | Foundational practices | **MD-15** | **G** |
+| Creed, catechism, membership, stress test | **MD-15** | **G** |
 | Atonement mechanism | **UQ-03** | **C** (unchanged) |
 | Shared liturgy text | **MD-13**; §8.2 | **B** (unchanged) |
 | **DR-14** row | — | **Not adopted** |
