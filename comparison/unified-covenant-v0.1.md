@@ -98,7 +98,7 @@ Each principle below is substantive. Levels follow the convergence assessment: L
 
 ### UC-05 — Prophetic moral critique in shared memory
 
-**Level A — Common-ground commitment (qualified)
+**Level A — Common-ground commitment (qualified)**
 
 **Commitment:** God is understood to address communities through **prophets** who confront injustice, idolatry, and abuse of power; later traditions **inherit and reinterpret** that prophetic memory.
 
@@ -134,7 +134,7 @@ Each principle below is substantive. Levels follow the convergence assessment: L
 
 ### UC-07 — Eschatological humility
 
-**Level A — Common-ground commitment (qualified)
+**Level A — Common-ground commitment (qualified)**
 
 **Commitment:** Affirm the **seriousness** of moral accountability and judgment themes while **not** adopting any single tradition’s detailed soteriology or afterlife map as constitutional truth.
 
