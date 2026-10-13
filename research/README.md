@@ -48,3 +48,11 @@ Research documents support Unified Covenant constructive drafts and maintainer d
 | Proposal QA & readiness | [../comparison/ccrp-proposal-qa-6-8.md](../comparison/ccrp-proposal-qa-6-8.md) |
 
 QA-revises [6.7 proposal](../comparison/ccrp-revision-proposal-6-7.md) and [canon audit](../comparison/canon-language-audit-6-7.md); **does not** adopt procedure or doctrine.
+
+## Phase 6.9 (maintainer decision docket)
+
+| Module | File |
+|--------|------|
+| MD-07–MD-11 open decisions | [../comparison/ccrp-maintainer-decisions-6-9.md](../comparison/ccrp-maintainer-decisions-6-9.md) |
+
+Awaiting maintainer choices before any v0.4 / CCRP implementation.

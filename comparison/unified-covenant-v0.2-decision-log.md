@@ -146,4 +146,18 @@
 
 ---
 
+## 12. Phase 6.9 — CCRP / canon-language decisions (navigation only)
+
+**Status:** **MD-07–MD-11 OPEN** — no maintainer selections recorded in this phase.
+
+| Item | Location |
+|------|----------|
+| Decision docket (full options, matrix, implementation plan) | [ccrp-maintainer-decisions-6-9.md](./ccrp-maintainer-decisions-6-9.md) |
+| CCRP proposal (unadopted) | [ccrp-revision-proposal-6-7.md](./ccrp-revision-proposal-6-7.md) |
+| QA report | [ccrp-proposal-qa-6-8.md](./ccrp-proposal-qa-6-8.md) |
+
+**Unchanged:** **MD-01–MD-06**; **v0.3** current constructive draft; **DR-10** **C**.
+
+---
+
 *Phase 6.2 decision log — Phase 6.3–6.4 append for maintainer audit. v0.2 text preserved; v0.3 is current constructive draft.*

@@ -136,6 +136,22 @@
 
 ---
 
+## Phase 6.9 — OPEN decisions (CCRP adoption & canon language)
+
+**Status:** **MD-07–MD-11** are **not approved**. Full options, matrix, and implementation plan: [ccrp-maintainer-decisions-6-9.md](./ccrp-maintainer-decisions-6-9.md).
+
+| ID | Topic | Status |
+|----|-------|--------|
+| **MD-07** | Preservation-first language (§1 / L-2) | **OPEN** |
+| **MD-08** | Public teaching & worship vs private **R** (L-13) | **OPEN** |
+| **MD-09** | Teaching *taḥrīf* claims while **MD-06** open (L-14) | **OPEN** |
+| **MD-10** | Placement of canon-reception explanation (L-16) | **OPEN** |
+| **MD-11** | CCRP implementation scope & sequencing | **OPEN** |
+
+**MD-01–MD-06** remain **APPROVED** and unchanged.
+
+---
+
 ## Cross-reference: v0.2 provisional flags (corrected pointers)
 
 | Old reference | Maps to |

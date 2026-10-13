@@ -622,6 +622,20 @@ notes: >
 related_ledger: research/phase-6-6-source-verification.md
 ```
 
+### `comparison-phase-6-9-maintainer-docket`
+
+```yaml
+id: comparison-phase-6-9-maintainer-docket
+claim: Phase 6.9 creates open maintainer decisions MD-07 through MD-11 for CCRP adoption and canon language; includes conditional implementation plan; does not adopt CCRP or amend v0.3.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - comparison/ccrp-maintainer-decisions-6-9.md
+notes: >
+  MD-01–MD-06 unchanged; DR-10 remains C. No maintainer selections recorded in this phase.
+related_ledger: Phase 6.9 final report
+```
+
 ### `comparison-phase-6-8-ccrp-proposal-qa`
 
 ```yaml
