@@ -223,7 +223,9 @@
 | **7.6** | **MD-13** decision brief — no adoption |
 | **7.7** | **MD-13 APPROVED** — binding **Option 1** script in [v0.4.2](./unified-covenant-v0.4.2.md) §8.2; merged PR #29 **2026-10-13**; annual **candidates** only; **MD-14 OPEN**; **DR-14** proposal outstanding |
 | **7.8** | Post-merge governance audit — pre-merge §12 **incomplete** at merge; [audit](./phase-7-8-post-merge-governance-audit.md) + [procedure](./phase-7-8-post-merge-review-procedure.md); liturgy script editorial clarifications (**MD-08** participation); post-merge review **not started** until public issue |
+| **8.1** | [unified-covenant-v0.5.md](./unified-covenant-v0.5.md) integrated construct; synthesis map + roadmap — **PROPOSAL** layers; **MD-06**, **MD-14**, **UQ-03** unchanged in docket |
+| **8.2** | [unified-covenant-v0.6.md](./unified-covenant-v0.6.md) Founding Commitments — **Sufficient Witness**, calendar, pastoral, ethics **PROPOSAL** only; [decision sheet](./phase-8-2-maintainer-decision-sheet.md); **no** docket adoption until maintainer **§12** |
 
 ---
 
-*Phase 6.2 decision log — v0.4.2 current constructive proposal (MD-13); §12 regularisation outstanding.*
+*Phase 6.2 decision log — v0.4.2 constitutional baseline (MD-13); v0.6 constructive **PROPOSAL**; §12 regularisation outstanding.*

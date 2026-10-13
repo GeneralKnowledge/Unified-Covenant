@@ -28,6 +28,7 @@ The name comes from [THE_UNIFIED_COVENANT.md](./THE_UNIFIED_COVENANT.md)—a **f
 | [comparison/unified-covenant-v0.2.md](./comparison/unified-covenant-v0.2.md) | **Phase 6.2 (prior):** Unified Covenant v0.2 |
 | [comparison/unified-covenant-v0.3.md](./comparison/unified-covenant-v0.3.md) | **Phase 6.4 (prior):** Unified Covenant v0.3 (MD-01–MD-06) |
 | [comparison/unified-covenant-v0.5.md](./comparison/unified-covenant-v0.5.md) | **Phase 8.1:** Integrated theological construct (working synthesis) |
+| [comparison/unified-covenant-v0.6.md](./comparison/unified-covenant-v0.6.md) | **Phase 8.2:** Founding Commitments — integrated **PROPOSAL** draft + [decision sheet](./comparison/phase-8-2-maintainer-decision-sheet.md) |
 | [comparison/unified-covenant-v0.4.2.md](./comparison/unified-covenant-v0.4.2.md) | Phase 7.7/7.8 constitutional draft (MD-13 liturgy) |
 | [comparison/unified-covenant-v0.4.md](./comparison/unified-covenant-v0.4.md) | Phase 6.10 v0.4 + adopted [CCRP](./comparison/ccrp-adopted.md) |
 | [comparison/unified-covenant-v0.4-traceability.md](./comparison/unified-covenant-v0.4-traceability.md) | Phase 6.10 traceability matrix |

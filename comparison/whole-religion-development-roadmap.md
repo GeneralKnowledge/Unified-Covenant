@@ -1,41 +1,43 @@
-# Whole-religion development roadmap (Phase 8.1)
+# Whole-religion development roadmap (Phase 8.2)
 
-**Purpose:** Prioritise **substantive** religious completion over governance meta-work.
+**Purpose:** Remaining **substantive** gaps after Phase 8.2 Founding Commitments sprint.
 
-**Baseline preserved:** MD-01–MD-13 direction; v0.4.2 constitutional text; CCRP adopted.
-
----
-
-## Priority ranking
-
-| Rank | Phase theme | Religious question | Why it matters | Deliverable | Preserve | Progress = |
-|------|-------------|-------------------|----------------|-------------|----------|------------|
-| **1** | **Scriptural preservation (MD-06)** | Can UC adopt a **modest B** on preservation without *taḥrīf* polemic? | Canon trust affects every reading & liturgy intro | **B** ruling + v0.5.1 § + traceability | DR-06, MD-09 pedagogy | Closed **DR-10** or justified **C** boundary |
-| **2** | **Sacred time (MD-14 + annual)** | Weekly rhythm & one annual **B** observance? | Lived religion needs time, not only text | Calendar **B** + updated §8 | MD-13 liturgy **B** | MD-14 decided; ≥1 annual **B** or explicit defer |
-| **3** | **Salvation clarity (UQ-03)** | What may UC **teach** about remission without MD-12 breach? | Pastoral coherence at cross & repentance | Pastoral **G** memo or narrow **B** | MD-12 Option A | **UQ-03** narrowed or bounded **C** |
-| **4** | **Ethics codification** | Case rules for conflict, restitution, punishment | Community integrity | **G** handbook + sample CCRP cases | DR-12, MD-08 | Usable leader ethics guide |
-| **5** | **DR-14 register** | Traceability row for liturgy **B**? | Register clarity | §14 row or explicit “no row” ruling | MD-13 | Maintainer decision recorded |
-| **6** | **Life passages** | Marriage, death, child covenant ceremonies | Complete ritual life | **G** ceremony texts | MD-13 form | Published ceremonies |
-| **7** | **§12 regularisation** | Post-merge review disposition | Governance honesty | Issue closed + log entry | MD-13 substance | Recorded outcome — **not** theology |
+**Baseline:** MD-01–MD-13 direction; v0.4.2 constitutional text; CCRP adopted; [unified-covenant-v0.6.md](./unified-covenant-v0.6.md) = integrated **PROPOSAL** draft.
 
 ---
 
-## Deprioritised (for now)
+## Completed in Phase 8.2 (awaiting maintainer adoption)
+
+| Theme | Deliverable | Decision |
+|-------|-------------|----------|
+| Preservation | [phase-8-2-scriptural-preservation-proposal.md](./phase-8-2-scriptural-preservation-proposal.md) | MD-06 / DR-10 |
+| Sacred time | [uc-sacred-calendar-proposed.md](./uc-sacred-calendar-proposed.md) | MD-14 + annual **B/G** |
+| Salvation / repentance | [uc-pastoral-salvation-guide.md](./uc-pastoral-salvation-guide.md) | UQ-03 bounding |
+| Ethics practice | [uc-ethics-practice-guide.md](./uc-ethics-practice-guide.md) | Optional **G** adoption |
+| Integration | v0.6 + [decision sheet](./phase-8-2-maintainer-decision-sheet.md) | Batch or itemized **§12** |
+
+---
+
+## Priority ranking — what remains after 8.2
+
+| Rank | Theme | Question | Deliverable when ready |
+|------|-------|----------|------------------------|
+| **1** | **Maintainer rulings** | Adopt/reject/edit 8.2 proposals | Docket updates; v0.6.1 or v0.7 **B** patches; traceability |
+| **2** | **DR-14 register** | Liturgy row in §14? | Explicit ruling — [phase-7-7-dr-14-register-proposal.md](./phase-7-7-dr-14-register-proposal.md) |
+| **3** | **Life passages** | Marriage, death, naming ceremonies | **G** texts building on MD-13 form |
+| **4** | **Institution** | Council, panels, dispute escalation | v0.4.2 §10 implementation |
+| **5** | **§12 regularisation** | Post-merge review disposition | Governance — [phase-7-8-post-merge-review-procedure.md](./phase-7-8-post-merge-review-procedure.md) |
+| **6** | **Eschatology detail** | Resurrection/judgment teaching depth | Optional **G** memo if pastoral demand |
+
+---
+
+## Deprioritised
 
 - New CCRP meta-audits (policy freeze)  
-- Nicene reconciliation attempts (rejected **B** axis)  
-- Supersessionist “one true church” rhetoric  
+- Nicene reconciliation as **B**  
+- Supersessionist rhetoric  
+- Further roadmap-only phases without constructive text  
 
 ---
 
-## Phase 8.2 suggestion (next concrete step)
-
-**Theme:** Adopt or reject **modest preservation B** (MD-06) using v0.5 Part IV proposal as starting memo.
-
-**Work:** Specialist pass on Phase 6.5 research + one CCRP case record + v0.5.1 patch.
-
-**Must preserve:** MD-12, MD-13 liturgy text unless separately amended.
-
----
-
-*Development roadmap — Phase 8.1.*
+*Development roadmap — trimmed after Phase 8.2.*
