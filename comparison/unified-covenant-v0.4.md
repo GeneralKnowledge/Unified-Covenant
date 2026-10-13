@@ -192,12 +192,12 @@ Decompose each dispute into sub-questions **q1…qn**. Assign **one RS code per 
 
 | Code | Meaning |
 |------|---------|
-| **RS-1** | **Applicable** approved decision/register entry **establishes B/H outcome** for **this sub-question’s exact scope** |
-| **RS-2** | Decision **explicitly leaves** the sub-question **open (C)** — e.g. **MD-06** / **DR-10** on preservation theology |
-| **RS-3** | Reopening active (**§12** or accepted **Reasoned challenge**) — freeze new **B** on that sub-question |
-| **RS-4** | No applicable settled outcome or open reservation |
+| **RS-1** | **Settled outcome** for sub-question scope — tag **outcome kind**: **B** (doctrine), **H** (historical baseline), or **G** (governance/procedure/pedagogy/language) |
+| **RS-2** | Sub-question **explicitly open (C)** — e.g. **MD-06** / **DR-10** preservation theology |
+| **RS-3** | Reopening active — freeze new **substantive B** / new **H baseline** on that sub-question |
+| **RS-4** | Unaddressed |
 
-**Not RS-1:** An **MD** id alone does **not** settle every sub-question (**MD-06** → **RS-2** for *taḥrīf* theology; **MD-07** method ≠ reconciled **R**; **MD-09** pedagogy ≠ **DR-10** **B**; **MD-11** procedure ≠ doctrinal truth). **RS-1** still requires steps 2–4 (evidence, costs, objections, scope limits).
+**Kinds:** **MD-07**/**MD-08**/**MD-09**/**MD-10**/**MD-11** bind as **RS-1 G** on governance sub-questions only—not substantive **B** on theology under review. Full rules: [ccrp-adopted.md §1.4](./ccrp-adopted.md#14-outcome-kind-required-when-rs-1).
 
 #### 5.3.2 Canon authority modes (**MD-10**)
 

@@ -4,7 +4,7 @@
 
 **History (not in force):** [ccrp-revision-proposal-6-7.md](./ccrp-revision-proposal-6-7.md) · [ccrp-proposal-qa-6-8.md](./ccrp-proposal-qa-6-8.md) · [ccrp-stress-test-6-6.md](./ccrp-stress-test-6-6.md)
 
-**Validation:** [ccrp-validation-6-10.md](./ccrp-validation-6-10.md) · [ccrp-validation-6-11.md](./ccrp-validation-6-11.md) (RS / evidence semantics — Phase 6.11)
+**Validation:** [ccrp-validation-6-10.md](./ccrp-validation-6-10.md) · [ccrp-validation-6-11.md](./ccrp-validation-6-11.md) · [ccrp-validation-6-12.md](./ccrp-validation-6-12.md) (RS outcome kinds — Phase 6.12)
 
 **Authoritative procedure:** This file is the **authoritative** CCRP text. [unified-covenant-v0.4.md](./unified-covenant-v0.4.md) §5.3 is a **summary** kept in sync with this document.
 
@@ -18,18 +18,18 @@ The Constitution **cannot** settle a scriptural dispute by citing **only** its o
 
 ## 1. Ruling status (mandatory at opening)
 
-Decompose each dispute into sub-questions **q1…qn**. Assign **one RS code per sub-question**. A single case may mix **RS-1**, **RS-2**, etc.
+Decompose each dispute into sub-questions **q1…qn**. Assign **one RS code per sub-question**. When **RS-1**, tag **outcome kind** (**§1.4**). A single case may mix **RS-1** (different kinds), **RS-2**, etc.
 
 ### 1.1 Definitions
 
 | Code | Meaning | CCRP behaviour |
 |------|---------|----------------|
-| **RS-1** Settled **B/H** | An **applicable** approved decision or binding register entry **establishes the outcome** for **this sub-question’s exact scope** (class **B** or **H**) | **Do not** re-adjudicate **outcome**; **still** complete steps 2–4 (evidence, **R**, costs, objections, scope limits); step 5 **records** existing **B**/**H** with **decision authority** citation |
-| **RS-2** Settled open (**C**) | An approved decision **explicitly preserves** this sub-question as **unresolved** | Full steps 1–4; step 5 **may not** adopt **B** on that sub-question without **§12** + maintainer reopen |
-| **RS-3** Reopen candidate | Prescribed reopening (**§12** memo pending, or maintainer accepted **Reasoned challenge** on scope/application) | **Freeze** new **B** on that sub-question until reopen completes |
-| **RS-4** Unaddressed | **No** applicable decision establishes outcome **or** reserves the question as open | Full CCRP; step 5 may propose **B** per §10 where permitted |
+| **RS-1** Settled outcome | An **applicable** approved decision or binding register entry **establishes the outcome** for **this sub-question’s exact scope** | **Do not** re-adjudicate **that scoped outcome**; **still** complete steps 2–4; step 5 **records** outcome with **3A** + **outcome kind** |
+| **RS-2** Settled open (**C**) | Decision **explicitly preserves** this sub-question as **unresolved** (substantive **C**) | Full steps 1–4; step 5 **may not** adopt new **substantive B** without **§12** + reopen |
+| **RS-3** Reopen candidate | **§12** reopening pending or maintainer accepted **Reasoned challenge** | **Freeze** new **substantive B** or new **H baseline** on **that sub-question** until reopen completes |
+| **RS-4** Unaddressed | No applicable settled outcome or open reservation | Full CCRP; step 5 may propose **B** per §10 where permitted |
 
-**Not RS-1:** Merely **citing** an **MD** identifier does **not** make a sub-question **RS-1**. Status follows **what the decision actually settles** for **that** sub-question.
+**Not RS-1:** Merely **citing** an **MD** identifier does **not** make a sub-question **RS-1**. **RS-1** includes substantive **B**/**H** **and** binding governance **G** (**§1.4**)—each on its **own** sub-question only.
 
 ### 1.2 How to assign RS (scope test)
 
@@ -37,30 +37,44 @@ For each sub-question:
 
 1. State the sub-question in one sentence (outcome sought, class **H/R/B/C**).  
 2. Locate the **narrowest** governing **MD**, **DR-***, constitutional **§**, or prior **§12** ruling whose **approved scope** matches.  
-3. If that entry’s class for this question is **C**, or the entry **defers** theology (e.g. **MD-06**, **DR-10**) → **RS-2**.  
-4. If the entry establishes **B** or **H** for **this exact question** → **RS-1** (outcome only within that scope).  
+3. If that entry’s class for this question is **C**, or the entry **defers** substantive theology (e.g. **MD-06**, **DR-10** on preservation) → **RS-2**.  
+4. If the entry establishes a **substantive B**, **substantive H**, or **binding governance G** for **this exact question** → **RS-1** + outcome kind (**§1.4**).  
 5. If reopening is active on this sub-question → **RS-3**.  
 6. Else → **RS-4**.
 
 **Precedence when sources conflict:** Approved **MD** → Constitution **B/H** text → traceability (audit map only). **Stop** step 5 and publish maintainer reconciliation memo if they disagree.
 
-### 1.3 Maintainer decisions — scope hints (not a blanket RS-1 list)
+### 1.4 Outcome kind (required when **RS-1**)
 
-| ID | **RS-1** applies when the sub-question is… | **RS-2** or **not RS-1** when… |
-|----|---------------------------------------------|--------------------------------|
-| **MD-01** | UC **B** on God / Jesus (**DR-01**, **DR-02** scope) | Nicene or Muslim **R** as UC **B** |
-| **MD-02** | **H** crucifixion (**DR-03**); **B** vindication (**DR-04**) | **R** “reconciliation” of 4:157 with passion |
-| **MD-03** | Layered canon + **use CCRP** (**DR-06**, **DR-07** process) | Auto-resolving every canon dispute without CCRP |
-| **MD-04** | UC **B** “seal of canonical series” (**DR-08**) | Dominant Islamic **R** finality as UC **B** |
-| **MD-05** | New community; non-supersession (**DR-09**) | UC replacing J/C/I covenantal identity |
-| **MD-06** | — | **Scriptural preservation / *taḥrīf* theology** → **RS-2** with **DR-10** |
-| **MD-07** | **Method:** preservation-first analysis required | **Conclusion:** all **R** claims reconciled or preserved |
-| **MD-08** | **Official** teaching accuracy; membership governance in §7.3 | Universal worship affirmation or comprehensive belief test |
-| **MD-09** | **Pedagogy:** comparative teaching + **SD-*** assessment | **DR-10** theological **B** answer |
-| **MD-10** | Canon-reception / witness **language** rules | Source traditions accepting UC interpretation |
-| **MD-11** | **Procedure** in this document is binding | Truth of **H**/**R** claims the procedure examines |
+Tag each **RS-1** sub-question with exactly one **outcome kind**:
 
-**Reasoned challenge:** Logged in step 6; **does not** suspend **RS-1** **B**/**H** unless maintainer moves sub-question to **RS-3**. **RS-1** **does not** block evidence review—it blocks **silent overturn** of the **scoped** outcome.
+| Kind | Settles | Does **not** settle |
+|------|---------|---------------------|
+| **B** | UC **substantive doctrine** for this sub-question | **H**, **R**, or **C** on other sub-questions |
+| **H** | UC **historical baseline** for this sub-question | **B** vindication theology, **R** readings, or **C** topics |
+| **G** | **Governance / procedure / pedagogy / language** within approved **MD** scope | Substantive truth of **H**/**R**/**C** claims under review |
+
+**Examples:** **MD-07** preservation-first **method** → **RS-1**, kind **G**; **DR-10** preservation theology → **RS-2**. **MD-11** CCRP binding → **RS-1**, kind **G** on “must this dispute follow CCRP?” — **not** kind **B** on the dispute’s theology.
+
+**Reopen / freeze:** **RS-3** freezes new **substantive B** and new **H baseline** on the challenged sub-question. Changing binding **G** rules (e.g. CCRP text) requires **§12** / maintainer path for procedure amendments—not an ordinary CCRP step-5 override.
+
+### 1.5 Maintainer decisions — scope and outcome kind (not a blanket RS-1 list)
+
+| ID | Typical **RS-1** sub-questions (kind) | **RS-2** or out of scope |
+|----|----------------------------------------|---------------------------|
+| **MD-01** | God / Jesus UC doctrine (**B** — **DR-01**, **DR-02**) | Nicene or Muslim **R** as UC **B** |
+| **MD-02** | Crucifixion (**H** — **DR-03**); vindication (**B** — **DR-04**) | **R** “reconciliation” of 4:157 with passion |
+| **MD-03** | Canon layers (**B** — **DR-06**); conflicts use CCRP (**G** — **DR-07**) | Auto-settling every clash without CCRP |
+| **MD-04** | UC seal of canonical series (**B** — **DR-08**) | Dominant Islamic **R** finality as UC **B** |
+| **MD-05** | Non-supersession community (**B** — **DR-09**) | UC replacing J/C/I covenantal identity |
+| **MD-06** | — | Preservation / *taḥrīf* theology → **RS-2** (**DR-10**) |
+| **MD-07** | Preservation-first **method** (**G**) | All **R** claims reconciled or preserved |
+| **MD-08** | Official teaching accuracy; §7.3 boundaries (**G**) | Universal worship affirmation; comprehensive belief test |
+| **MD-09** | Comparative *taḥrīf* pedagogy + **SD-*** (**G**) | **DR-10** theological **B** |
+| **MD-10** | Canon-reception / witness **language** (**G**) | Source traditions accepting UC interpretation |
+| **MD-11** | This CCRP as binding procedure (**G**) | Truth of claims examined under CCRP |
+
+**Reasoned challenge:** Logged in step 6; **does not** suspend **RS-1** unless maintainer moves sub-question to **RS-3**. **RS-1** **does not** block evidence review—it blocks **silent overturn** of the **scoped** outcome (including **G** within scope).
 
 ---
 
@@ -86,10 +100,10 @@ Every step-4 option and step-5 record must separate **three** layers. **Never** 
 
 ### 3A — Decision authority (what UC has decided)
 
-Record for each **RS-1** or governing sub-question:
+Record for each **RS-1**, **RS-2**, or governing sub-question:
 
 - **Identifier:** **MD-***, **DR-***, **§**, or prior **§12** ruling  
-- **Class:** **B**, **H**, **C**, or procedural  
+- **RS code** and **outcome kind** (**B** / **H** / **G** when **RS-1**)  
 - **Scope:** Exact sub-question governed  
 - **Status / reopen:** Per docket and §12  
 
@@ -127,7 +141,7 @@ This is **project authority**, not **SD-*** verification of scripture or history
 | **H** (manuscript) | **SD-ART** or **SD-EXC** handbook, or labelled **SD-SEC** matrix row |
 | **R** (dominant) | **SD-EXC** normative text or **SD-SEC** survey naming stream |
 | **R** (minority) | **SD-EXC** or **SD-SEC** **if attested** — omit if not established |
-| **Existing UC B/H (RS-1)** | **Decision authority** citation in **3A** — **separate** **SD-*** table for **H**/**R** evidence |
+| **Existing UC outcome (RS-1)** | **3A** citation + outcome kind — **separate** **SD-*** table for subject-matter **H**/**R** evidence |
 
 **Mixed bundles:** Decisive evidential weight = weakest **decisive** leg; **SD-EXI** / **SD-INA** **cannot** support **new B** or high-confidence **H**/**R** conclusions. Label **unequal verification**—no false parity.
 
@@ -135,13 +149,13 @@ This is **project authority**, not **SD-*** verification of scripture or history
 
 ### 3C — Argument and inference
 
-For each option: state how **3B** sources support the claim, assumptions, interpretive steps, counterevidence, and remaining uncertainty. **3A** may **constrain** what **B**/**H** UC may teach (**RS-1**) but **cannot** replace **3B** for tradition or history claims.
+For each option: state how **3B** sources support the claim, assumptions, interpretive steps, counterevidence, and remaining uncertainty. **3A** (**RS-1**, any kind) **constrains** UC conduct or teaching **within scope** but **cannot** replace **3B** for tradition or history claims—and **G** **never** substitutes for substantive **B**/**H** evidence on the merits.
 
 ---
 
 ## 4. Steps 1–6
 
-1. **Register** — Passages, translation, genres, claim types, **RS** per sub-question (scope test §1.2).  
+1. **Register** — Passages, translation, genres, claim types, **RS** + **outcome kind** per sub-question (§1.2–§1.4).  
 2. **Context** — Language, setting, intertexts, chronicle/registry **H** limits.  
 3. **Tradition survey** — Dominant **R**, attested minority, period/school, **strongest objection**, **ranking uncertainty** (**SD-*** cited).  
 4. **Publish alternatives** — ≥2 serious options; **3A** authority + **3B** **SD-*** table + **3C** inference; conflicting scholarship **both** listed.  
@@ -168,4 +182,4 @@ For each option: state how **3B** sources support the claim, assumptions, interp
 
 ---
 
-*Adopted Phase 6.10; RS and evidence semantics corrected Phase 6.11. Maintained in sync with v0.4 §5.3 summary.*
+*Adopted Phase 6.10; RS/evidence Phase 6.11; RS-1 outcome kinds (B/H/G) Phase 6.12. Maintained in sync with v0.4 §5.3 summary.*

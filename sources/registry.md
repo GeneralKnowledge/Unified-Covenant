@@ -730,3 +730,18 @@ notes: >
   THE_UNIFIED_COVENANT.md unchanged. Phase 6.7/6.8 remain historical proposals.
 related_ledger: Phase 6.11 final report
 ```
+
+### `comparison-phase-6-12-rs-outcome-kinds`
+
+```yaml
+id: comparison-phase-6-12-rs-outcome-kinds
+claim: Phase 6.12 resolves RS-1 B/H-only definition vs governance binding by adding outcome kinds B/H/G under RS-1; no change to MD-01–MD-11 substantive theology or DR-10 open status.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - comparison/ccrp-adopted.md
+  - comparison/ccrp-validation-6-12.md
+notes: >
+  Option A (expand RS-1) chosen over parallel procedure-status taxonomy. THE_UNIFIED_COVENANT.md unchanged.
+related_ledger: Phase 6.12 final report
+```
