@@ -25,14 +25,16 @@
 
 ## Governance decisions (MD-07–MD-11) — traceability extension
 
-| MD ID | Operational meaning | Class | Implemented | Does **not** settle |
-|-------|---------------------|-------|-------------|---------------------|
-| **MD-07** | Preservation-first **method** in §1; **defensible** ≠ all **R** reconciled | B (method) + editorial | v0.4 §1, §2.1 cross-ref | **DR-10** |
-| **MD-08** | Accurate **official** teaching; no universal worship affirmation test | B (governance) | v0.4 §7.3 | Future liturgy MD |
-| **MD-09** | Comparative *taḥrīf*/preservation pedagogy + **SD-*** | Procedural + teaching | v0.4 §11; CCRP §5.3.5 | **MD-06** substance |
-| **MD-10** | Declaration concise “receive”; §5.3.2 + glossary detail | B + editorial | Declaration; §5.3.2; [glossary](./glossary-unified-covenant.md) | Source traditions’ acceptance of UC |
-| **MD-11** | Minimal complete CCRP adopted | Procedural | [ccrp-adopted.md](./ccrp-adopted.md); v0.4 §5.3 | **MD-06** via procedure alone |
+**Two legitimate dimensions (Phase 6.13):** **Constitutional register class** = how the decision appears in v0.4 / docket wording. **CCRP outcome kind** = how a matching **sub-question** is tagged when **RS-1** (**B** / **H** / **G**). **G** is **not** a substantive **claim class** on **H/R** merits.
+
+| MD ID | Operational meaning | Register class (v0.4 / docket) | Typical **RS-1** kind (CCRP sub-question) | Does **not** settle |
+|-------|---------------------|--------------------------------|-------------------------------------------|---------------------|
+| **MD-07** | Preservation-first **method**; **defensible** ≠ all **R** reconciled | Constitutional **B** (method principle in §1) | **G** on “must UC apply preservation-first analysis?” | **DR-10** theology; universal **R** reconciliation |
+| **MD-08** | Accurate **official** teaching; §7.3 boundaries | **B** (governance charter) | **G** on teaching/representation duties | Worship affirmation test; comprehensive belief test |
+| **MD-09** | Comparative *taḥrīf*/preservation pedagogy + **SD-*** | Procedural + teaching | **G** on pedagogy requirements | **DR-10** **B**; closing **MD-06** |
+| **MD-10** | “Receive” / witness **language** | **B** + editorial (canon modes) | **G** on UC public language rules | Source traditions accepting UC interpretation |
+| **MD-11** | Adopted CCRP | Procedural (**DR-07**) | **G** on “follow this CCRP?” | Truth of **H**/**R** examined in a run |
 
 ---
 
-*Traceability for v0.4 — Phase 6.10.*
+*Traceability for v0.4 — Phase 6.10; MD-07–11 dimensions clarified Phase 6.13.*

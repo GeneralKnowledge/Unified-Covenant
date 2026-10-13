@@ -188,7 +188,7 @@ UC **teaches as history:** Jesus of Nazareth, a Jewish figure, was **executed by
 
 #### 5.3.1 Ruling status (mandatory at opening)
 
-Decompose each dispute into sub-questions **q1…qn**. Assign **one RS code per sub-question** by **scope** (full rules: [ccrp-adopted.md §1](./ccrp-adopted.md#1-ruling-status-mandatory-at-opening)).
+Decompose each dispute into sub-questions **q1…qn**. For each, record **claim class** (or governance question), **RS** status, **outcome kind** if **RS-1**, and **3A–3C** separately ([ccrp-adopted.md §0](./ccrp-adopted.md#0-four-dimensions-do-not-conflate), [§1](./ccrp-adopted.md#1-ruling-status-mandatory-at-opening)).
 
 | Code | Meaning |
 |------|---------|

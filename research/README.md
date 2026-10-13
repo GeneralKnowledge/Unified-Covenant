@@ -81,3 +81,11 @@ Procedural clarification only — [ccrp-adopted.md](../comparison/ccrp-adopted.m
 | Taxonomy audit | [../comparison/ccrp-validation-6-12.md](../comparison/ccrp-validation-6-12.md) |
 
 **RS-1** outcome kinds **B** / **H** / **G** in [ccrp-adopted.md](../comparison/ccrp-adopted.md) §1.4.
+
+## Phase 6.13 (four dimensions)
+
+| Module | File |
+|--------|------|
+| Operational completeness audit | [../comparison/ccrp-validation-6-13.md](../comparison/ccrp-validation-6-13.md) |
+
+[ccrp-adopted.md](../comparison/ccrp-adopted.md) §0 — claim class vs RS vs outcome kind vs evidence.

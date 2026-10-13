@@ -745,3 +745,19 @@ notes: >
   Option A (expand RS-1) chosen over parallel procedure-status taxonomy. THE_UNIFIED_COVENANT.md unchanged.
 related_ledger: Phase 6.12 final report
 ```
+
+### `comparison-phase-6-13-claim-classes`
+
+```yaml
+id: comparison-phase-6-13-claim-classes
+claim: Phase 6.13 clarifies four CCRP dimensions (claim class, RS, outcome kind, evidence), fixes RS assignment order (RS-3 before RS-1/2), and documents MD-07–11 register class vs G outcome kind without changing theology.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - comparison/ccrp-adopted.md
+  - comparison/ccrp-validation-6-13.md
+  - comparison/unified-covenant-v0.4-traceability.md
+notes: >
+  Manual validation only. MD-06/DR-10 remain open.
+related_ledger: Phase 6.13 final report
+```
