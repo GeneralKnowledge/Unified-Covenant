@@ -62,8 +62,13 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 | [unified-covenant-v0.2.md](./unified-covenant-v0.2.md) | **Phase 6.2 (prior draft):** Unified Covenant v0.2 — preserved after MD rulings |
 | [unified-covenant-v0.3.md](./unified-covenant-v0.3.md) | **Phase 6.4 (prior draft):** v0.3 — MD-01–MD-06 implemented (preserved) |
 | [unified-covenant-v0.3-traceability.md](./unified-covenant-v0.3-traceability.md) | Phase 6.4 doctrine-to-evidence traceability (v0.3) |
-| [unified-covenant-v0.4.1.md](./unified-covenant-v0.4.1.md) | **Phase 7.5 (current constructive proposal):** v0.4.1 — MD-01–MD-11 + **MD-12 Option A** editorial clarification (**not** validated by religious authorities) |
-| [unified-covenant-v0.4.1-traceability.md](./unified-covenant-v0.4.1-traceability.md) | Phase 7.5 traceability (v0.4.1) |
+| [unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md) | **Phase 7.7 (current constructive proposal):** v0.4.2 — **MD-13** binding shared liturgy; **§12 comment period** pending |
+| [unified-covenant-v0.4.2-traceability.md](./unified-covenant-v0.4.2-traceability.md) | Phase 7.7 traceability (v0.4.2) |
+| [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md) | **B** shared prayer script (**MD-13** Option 1) |
+| [phase-7-7-annual-observances-proposal.md](./phase-7-7-annual-observances-proposal.md) | Annual observance **candidates** (not individually approved) |
+| [phase-7-7-md-14-weekly-day-brief.md](./phase-7-7-md-14-weekly-day-brief.md) | **MD-14 OPEN** — weekly day decision brief |
+| [unified-covenant-v0.4.1.md](./unified-covenant-v0.4.1.md) | **Phase 7.5 (prior draft):** MD-12 Option A (preserved) |
+| [unified-covenant-v0.4.1-traceability.md](./unified-covenant-v0.4.1-traceability.md) | Phase 7.5 traceability (v0.4.1, preserved) |
 | [unified-covenant-v0.4.md](./unified-covenant-v0.4.md) | **Phase 6.10 (prior draft):** v0.4 — MD-01–MD-11; adopted CCRP (preserved) |
 | [unified-covenant-v0.4-traceability.md](./unified-covenant-v0.4-traceability.md) | Phase 6.10 traceability (v0.4, preserved) |
 | [ccrp-adopted.md](./ccrp-adopted.md) | **Adopted** Canon Conflict Resolution Procedure (Phase 6.10) |
@@ -76,7 +81,7 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 | [forward-progress-policy.md](./forward-progress-policy.md) | Phase 7+ policy — CCRP meta-audit freeze; substance track |
 | [maintainer-docket-7-1-atonement.md](./maintainer-docket-7-1-atonement.md) | **MD-12 APPROVED — Option A** (UQ-03 editorial clarification) |
 | [phase-7-2-contingent-amendments.md](./phase-7-2-contingent-amendments.md) | Option A **implemented** in v0.4.1; Options B/C **unapproved** drafts |
-| [maintainer-docket-7-3-liturgy.md](./maintainer-docket-7-3-liturgy.md) | **MD-13 OPEN** — UQ-02 liturgy options |
+| [maintainer-docket-7-3-liturgy.md](./maintainer-docket-7-3-liturgy.md) | **MD-13 APPROVED** (§12 pending); **MD-14 OPEN** |
 | [phase-7-6-md-13-decision-brief.md](./phase-7-6-md-13-decision-brief.md) | Phase 7.6 **MD-13** maintainer decision brief (**not** adopted worship) |
 | [ccrp-case-record-exemplar-worship-canon.md](./ccrp-case-record-exemplar-worship-canon.md) | Phase 7.4 CCRP operational exemplar (**G** only) |
 | [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) | **Phase 6.2:** Audit trail from v0.1 to v0.2 (review dispositions, new commitments, open conflicts) |
@@ -109,9 +114,9 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 ## Phase 6 (constructive proposal)
 
 - **[unified-covenant-v0.1.md](./unified-covenant-v0.1.md)** — first constitution-style synthesis (exploratory pact); classification labels **A / B / C** as in v0.1.
-- **[unified-covenant-v0.4.1.md](./unified-covenant-v0.4.1.md)** — **current** constructive draft (Phase 7.5): **MD-01–MD-11**, **MD-12 Option A** (vindication-only clarification; **no new DR**), [adopted CCRP](./ccrp-adopted.md), canon-reception language (**MD-10**), teaching minimums (**MD-08**), *taḥrīf* pedagogy (**MD-09**). **[v0.4](./unified-covenant-v0.4.md)**, **[v0.3](./unified-covenant-v0.3.md)**, and **[v0.2](./unified-covenant-v0.2.md)** preserved.
+- **[unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md)** — **current** constructive draft (Phase 7.7): **MD-13** binding shared liturgy ([script](./uc-shared-gathering-liturgy.md)); annual observances and **MD-14** weekly day **sub-decisions open**; **§12 comment period** before merge authority. **[v0.4.1](./unified-covenant-v0.4.1.md)**, **[v0.4](./unified-covenant-v0.4.md)**, **[v0.3](./unified-covenant-v0.3.md)**, **[v0.2](./unified-covenant-v0.2.md)** preserved.
 
-See [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) §13 for Phase 6.10; **§17** for Phase 7 forward progress. **Phase 6.5–6.6** [taḥrīf research](../research/phase-6-5-tahrif-and-scriptural-preservation.md) and [CCRP stress test](./ccrp-stress-test-6-6.md) inform procedure; **MD-06** / **DR-10** remain **C — open**. **Phase 6.7–6.8** [proposal](./ccrp-revision-proposal-6-7.md) and [QA](./ccrp-proposal-qa-6-8.md) are **historical** inputs to adoption, not standalone authority. **Phase 6.9** [docket archive](./ccrp-maintainer-decisions-6-9.md) records options; **MD-07–MD-11** approved in [decision docket](./unified-covenant-v0.2-decision-docket.md). **Phase 6.10–6.13** CCRP validation chain: [6-10](./ccrp-validation-6-10.md) · [6-11](./ccrp-validation-6-11.md) · [6-12](./ccrp-validation-6-12.md) · [6-13](./ccrp-validation-6-13.md). **Phase 6.14** [coherence audit](./coherence-audit-6-14.md) (v0.4 theology/constitution — no adoption). **Phase 7+** [forward-progress-policy.md](./forward-progress-policy.md) — substance-first; **MD-12** closed (Option A → **v0.4.1**); **MD-13** open.
+See [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) §13 for Phase 6.10; **§17** for Phase 7 forward progress. **Phase 6.5–6.6** [taḥrīf research](../research/phase-6-5-tahrif-and-scriptural-preservation.md) and [CCRP stress test](./ccrp-stress-test-6-6.md) inform procedure; **MD-06** / **DR-10** remain **C — open**. **Phase 6.7–6.8** [proposal](./ccrp-revision-proposal-6-7.md) and [QA](./ccrp-proposal-qa-6-8.md) are **historical** inputs to adoption, not standalone authority. **Phase 6.9** [docket archive](./ccrp-maintainer-decisions-6-9.md) records options; **MD-07–MD-11** approved in [decision docket](./unified-covenant-v0.2-decision-docket.md). **Phase 6.10–6.13** CCRP validation chain: [6-10](./ccrp-validation-6-10.md) · [6-11](./ccrp-validation-6-11.md) · [6-12](./ccrp-validation-6-12.md) · [6-13](./ccrp-validation-6-13.md). **Phase 6.14** [coherence audit](./coherence-audit-6-14.md) (v0.4 theology/constitution — no adoption). **Phase 7+** [forward-progress-policy.md](./forward-progress-policy.md) — **MD-12** closed; **MD-13** approved in **v0.4.2** (§12 pending); **MD-14** open.
 
 ## What comparison phases do not do
 

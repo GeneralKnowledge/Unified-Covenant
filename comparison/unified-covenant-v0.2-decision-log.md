@@ -220,7 +220,9 @@
 | **Theology** | **MD-01–MD-11** unchanged; **DR-10** still **C** |
 | **7.5** | **MD-12 Option A APPROVED** — editorial clarification in [unified-covenant-v0.4.1.md](./unified-covenant-v0.4.1.md) (§§4.5, 9, §13 **UQ-03**); **DR-04** substance unchanged; **no new DR**; **MD-02** not reopened; **UQ-03** mechanics remain **C** / open |
 | **Current draft** | **v0.4.1** supersedes v0.4 for constructive work; [v0.4](./unified-covenant-v0.4.md) preserved |
+| **7.6** | **MD-13** decision brief — no adoption |
+| **7.7** | **MD-13 APPROVED** — binding **Option 1** script in [v0.4.2](./unified-covenant-v0.4.2.md) §8.2; annual observance **candidates** only; **MD-14 OPEN**; **DR-14** proposal outstanding; **§12 comment period** required before merge authority |
 
 ---
 
-*Phase 6.2 decision log — v0.4.1 is current constructive draft; v0.4 and v0.3 preserved.*
+*Phase 6.2 decision log — v0.4.2 is current constructive proposal (MD-13); v0.4.1 preserved; §12 review pending.*
