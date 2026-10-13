@@ -405,7 +405,7 @@ UC is the **Unified Covenant assembly**—a **voluntary** religious body with it
 
 **Not claimed as A:** One path, one soteriology, identical eschatology across Judaism, Christianity, Islam.
 
-**Forgiveness and the cross (MD-12 Option A):** Personal **forgiveness** is **not** asserted to occur **by mechanism X** disclosed in UC **B**; the **Anointed’s** passion and **vindication** **model** trust under affliction and **ground hope** that God **vindicates** the faithful, without requiring Nicene or substitutionary **R** formulas.
+**Forgiveness and the cross (MD-12 Option A):** Personal **forgiveness** is **not** asserted to occur **by mechanism X** disclosed in UC **B**; the **Anointed’s** passion and **vindication** **model** trust under affliction and **ground hope** that God **vindicates** the faithful, without requiring Nicene or substitutionary **R** formulas. **Official pastoral teaching (**G**, **MD-15**):** [uc-pastoral-salvation-guide.md](./uc-pastoral-salvation-guide.md). **UQ-03** mechanics remain **C**.
 
 **Nicene salvation mechanics:** **R** Christian; **not** UC **B** requirement in full.
 
