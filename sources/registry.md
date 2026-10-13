@@ -776,3 +776,36 @@ notes: >
   Does not edit v0.4 theology, MD-01–MD-11, ccrp-adopted.md, or THE_UNIFIED_COVENANT.md. MD-06/DR-10 remain open.
 related_ledger: Phase 6.14 final report
 ```
+
+### `research-phase-7-1-atonement-uq03`
+
+```yaml
+id: research-phase-7-1-atonement-uq03
+claim: Phase 7.1 research and options memo address UQ-03 (atonement/cross meaning for members) with MD-12 OPEN; no new B adopted without maintainer §12.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - research/phase-7-1-atonement-and-cross-meaning.md
+  - research/phase-7-1-atonement-options.md
+  - comparison/maintainer-docket-7-1-atonement.md
+  - comparison/phase-7-2-contingent-amendments.md
+notes: >
+  Phase 7.2 contingent drafts blocked pending MD-12. MD-01–MD-11 unchanged.
+related_ledger: Phase 7 forward progress
+```
+
+### `research-phase-7-3-liturgy-uq02`
+
+```yaml
+id: research-phase-7-3-liturgy-uq02
+claim: Phase 7.3 liturgy/calendar sketches and MD-13 OPEN docket address UQ-02 within MD-08; not adopted practice.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - research/phase-7-3-liturgy-and-calendar-sketch.md
+  - comparison/maintainer-docket-7-3-liturgy.md
+  - comparison/ccrp-case-record-exemplar-worship-canon.md
+notes: >
+  CCRP exemplar 7.4 is G practice template only.
+related_ledger: Phase 7 forward progress
+```

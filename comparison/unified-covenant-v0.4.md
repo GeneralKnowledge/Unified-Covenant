@@ -417,8 +417,8 @@ UC **does** distinguish:
 | ID | Question | Importance | Evidence needed |
 |----|----------|------------|-----------------|
 | UQ-01 | *Taḥrīf* **B** stance | Canon trust | Phase 6.5 research |
-| UQ-02 | UC liturgy & sacraments | Practice | Post–MD-01/02 stable creed |
-| UQ-03 | Detailed atonement **B** | Christology | Theological commission |
+| UQ-02 | UC liturgy & sacraments | Practice | [Phase 7.3 sketch](../research/phase-7-3-liturgy-and-calendar-sketch.md); **MD-13** open |
+| UQ-03 | Detailed atonement **B** | Christology | [Phase 7.1 research](../research/phase-7-1-atonement-and-cross-meaning.md) + [options memo](../research/phase-7-1-atonement-options.md) |
 | UQ-04 | Full 4:157 academic catalog | MD-02 communication | Specialist bibliography |
 | UQ-05 | Council governance transition | Polity | Community size threshold |
 
@@ -441,7 +441,7 @@ UC **does** distinguish:
 | DR-11 | Nicene Trinity | **R** (not UC) | Must not require as **B** |
 | DR-12 | Accountability, justice-mercy, vulnerable | **A**+**B** | Yes (**B** limbs) |
 
-Full audit: [unified-covenant-v0.3-traceability.md](./unified-covenant-v0.3-traceability.md).
+Full audit: [unified-covenant-v0.4-traceability.md](./unified-covenant-v0.4-traceability.md).
 
 ---
 
