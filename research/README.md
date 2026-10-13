@@ -109,4 +109,4 @@ Analytical only — no new **B** doctrine.
 | **7.3** Liturgy / calendar sketch (UQ-02) | [phase-7-3-liturgy-and-calendar-sketch.md](./phase-7-3-liturgy-and-calendar-sketch.md) |
 | **7.4** CCRP exemplar (worship / canon) | [../comparison/ccrp-case-record-exemplar-worship-canon.md](../comparison/ccrp-case-record-exemplar-worship-canon.md) |
 
-**Open maintainer dockets:** [7-1 atonement](../comparison/maintainer-docket-7-1-atonement.md) · [7-3 liturgy](../comparison/maintainer-docket-7-3-liturgy.md) (**MD-12**, **MD-13** **OPEN**).
+**Maintainer dockets:** [7-1 atonement](../comparison/maintainer-docket-7-1-atonement.md) (**MD-12** **closed — Option A**) · [7-3 liturgy](../comparison/maintainer-docket-7-3-liturgy.md) (**MD-13** **OPEN**).

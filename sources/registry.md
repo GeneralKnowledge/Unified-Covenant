@@ -781,7 +781,7 @@ related_ledger: Phase 6.14 final report
 
 ```yaml
 id: research-phase-7-1-atonement-uq03
-claim: Phase 7.1 research and options memo address UQ-03 (atonement/cross meaning for members) with MD-12 OPEN; no new B adopted without maintainer §12.
+claim: Phase 7.1 research and options memo address UQ-03; MD-12 APPROVED Option A (Phase 7.5) implements editorial clarification in v0.4.1 without new DR; detailed mechanics remain open.
 status: widely-accepted interpretation
 period: methodological (2026 project phase)
 sources:
@@ -790,7 +790,7 @@ sources:
   - comparison/maintainer-docket-7-1-atonement.md
   - comparison/phase-7-2-contingent-amendments.md
 notes: >
-  Phase 7.2 contingent drafts blocked pending MD-12. MD-01–MD-11 unchanged.
+  Phase 7.5 v0.4.1; Options B/C unapproved. MD-01–MD-11 unchanged; MD-06/DR-10 open.
 related_ledger: Phase 7 forward progress
 ```
 

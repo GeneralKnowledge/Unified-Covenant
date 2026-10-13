@@ -23,8 +23,9 @@ Routine re-validation of taxonomy labels is **deferred** in favor of **substance
 
 | Phase | Focus | Adoption? |
 |-------|-------|-----------|
-| **7.1** | UQ-03 atonement / cross meaning — research + options | **No** — maintainer **MD-12** open |
-| **7.2** | v0.4.x clarifications or v0.5 | **Only after MD-12** — see [phase-7-2-contingent-amendments.md](./phase-7-2-contingent-amendments.md) |
+| **7.1** | UQ-03 atonement / cross meaning — research + options | Complete — **MD-12** decided |
+| **7.2** | v0.4.x clarifications or v0.5 | **Option A implemented** in [unified-covenant-v0.4.1.md](./unified-covenant-v0.4.1.md); Options B/C **not** adopted — see [phase-7-2-contingent-amendments.md](./phase-7-2-contingent-amendments.md) |
+| **7.5** | **MD-12 Option A** — vindication-only editorial clarification | **Yes** — [v0.4.1](./unified-covenant-v0.4.1.md) + traceability; **no new B** / **DR** |
 | **7.3** | UQ-02 liturgy / calendar sketches + open docket | **No** — **MD-13** open |
 | **7.4** | CCRP case record exemplar (worship / canon use) | **G** practice template only |
 
@@ -36,8 +37,8 @@ Routine re-validation of taxonomy labels is **deferred** in favor of **substance
 
 | Docket | File |
 |--------|------|
-| Atonement (UQ-03) | [maintainer-docket-7-1-atonement.md](./maintainer-docket-7-1-atonement.md) |
-| Liturgy (UQ-02) | [maintainer-docket-7-3-liturgy.md](./maintainer-docket-7-3-liturgy.md) |
+| Atonement (UQ-03) | [maintainer-docket-7-1-atonement.md](./maintainer-docket-7-1-atonement.md) — **MD-12 closed (Option A)** |
+| Liturgy (UQ-02) | [maintainer-docket-7-3-liturgy.md](./maintainer-docket-7-3-liturgy.md) — **MD-13 OPEN** |
 
 ---
 
