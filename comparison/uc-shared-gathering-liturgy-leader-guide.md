@@ -29,7 +29,8 @@
 
 ## During the gathering
 
-- **MD-08:** Members may participate silently, partially, or by presence; no line-by-line verbal affirmation test.
+- **MD-08:** Members may participate silently, partially, or by presence; **no** requirement to speak every **B** line aloud. §3 is led so listening counts as participation unless a member chooses to vocalise.
+- Do **not** treat refusal to repeat the Muhammad or Anointed paragraphs as automatic breach of membership — **essential B** is governed by §14 at covenant entry.
 - Use **witness** language (**MD-10**); avoid “fully preserved” while **DR-10** **C**.
 - Do not adjudicate Q. 4:157 in the liturgy.
 

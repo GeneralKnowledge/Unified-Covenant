@@ -1,6 +1,8 @@
 # Maintainer docket — Phase 7.3 liturgy & calendar (UQ-02)
 
-**Status:** **MD-13 APPROVED** (Phase 7.7 implementation in [v0.4.2](./unified-covenant-v0.4.2.md) — **§12 comment period pending**). **MD-14 OPEN.**
+**Status:** **MD-13 APPROVED** (maintainer direction; Option 1 **B** script). **§12 regularisation:** pre-merge period **incomplete** at PR #29 merge — post-merge review **required**, **not yet started** (Phase 7.8). **MD-14 OPEN.**
+
+**Governance audit:** [phase-7-8-post-merge-governance-audit.md](./phase-7-8-post-merge-governance-audit.md) · **Procedure:** [phase-7-8-post-merge-review-procedure.md](./phase-7-8-post-merge-review-procedure.md)
 
 **Decision brief (Phase 7.6):** [phase-7-6-md-13-decision-brief.md](./phase-7-6-md-13-decision-brief.md) — provisional Boundary 2 / Option 3 **not** selected.
 
@@ -23,14 +25,14 @@
 | Field | Content |
 |-------|---------|
 | **Decision ID** | MD-13 |
-| **Status** | **APPROVED** (Phase 7.7) — **§12 comment period** before merge authority on v0.4.2 |
+| **Status** | **APPROVED** (Phase 7.7) — **post-merge §12 regularisation pending** |
 | **Binding level** | **Option A** — defined shared liturgy as **B** |
-| **Worship model** | **Option 1** — original UC-composed shared prayer script ([uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md)) |
-| **Annual calendar** | **In scope** for **MD-13** consideration; **specific observances, dates, and binding annual rules not individually approved** — see [annual proposal](./phase-7-7-annual-observances-proposal.md) |
-| **MD-14** | Considered **separately** — **OPEN**; no weekly day selected |
-| **Not selected** | Phase 7.6 provisional **Boundary 2 / Option 3**; Options **2** rotation as **B**; **G**-only as sole outcome |
-| **MD-08** | No universal line-by-line affirmation or comprehensive attendance test introduced |
-| **DR-14** | **Outstanding** — [register proposal](./phase-7-7-dr-14-register-proposal.md); **not** added to §14 in v0.4.2 pending maintainer choice after comment period |
+| **Worship model** | **Option 1** — [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md) (Phase 7.8 script audit: editorial clarifications only) |
+| **Annual calendar** | **In scope**; **specific observances, dates, and rules not individually approved** — [annual proposal](./phase-7-7-annual-observances-proposal.md) |
+| **MD-14** | **OPEN** — separate decision; no weekly day selected |
+| **Process note** | PR #29 merged 2026-10-13 ~1.5 min after open; **14-day pre-merge §12 not satisfied** — see Phase 7.8 audit |
+| **MD-08** | No universal line-by-line affirmation or comprehensive attendance test |
+| **DR-14** | **Outstanding** — [register proposal](./phase-7-7-dr-14-register-proposal.md) |
 | **Recorded in** | [decision-docket](./unified-covenant-v0.2-decision-docket.md) · [decision-log](./unified-covenant-v0.2-decision-log.md) §17 |
 
 ---
@@ -47,13 +49,15 @@
 
 ---
 
-## Maintainer checklist (MD-13 post-implementation)
+## Maintainer checklist
 
-1. Complete **§12** comment period on v0.4.2.  
-2. Decide **DR-14** register row ([proposal](./phase-7-7-dr-14-register-proposal.md)).  
-3. Rule on annual observance candidates ([proposal](./phase-7-7-annual-observances-proposal.md)).  
-4. Decide **MD-14** weekly day ([brief](./phase-7-7-md-14-weekly-day-brief.md)).
+1. **Open** post-merge §12 review (GitHub Issue per [procedure](./phase-7-8-post-merge-review-procedure.md)) — **not started** as of Phase 7.8.  
+2. Complete **14-day** minimum from public start date.  
+3. Decide **DR-14** register row.  
+4. Rule on annual observance candidates.  
+5. Decide **MD-14** weekly day.  
+6. **Governance (optional):** Rule on whether merge without pre-merge §12 requires ratification or other remedy.
 
 ---
 
-*Phase 7.3/7.7 docket — MD-13 approved pending §12 review; MD-14 open.*
+*Phase 7.3/7.7/7.8 docket — MD-13 direction preserved; §12 regularisation outstanding.*
