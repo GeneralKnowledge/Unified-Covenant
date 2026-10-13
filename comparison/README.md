@@ -63,8 +63,14 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 | [unified-covenant-v0.3.md](./unified-covenant-v0.3.md) | **Phase 6.4 (prior draft):** v0.3 — MD-01–MD-06 implemented (preserved) |
 | [unified-covenant-v0.3-traceability.md](./unified-covenant-v0.3-traceability.md) | Phase 6.4 doctrine-to-evidence traceability (v0.3) |
 | [unified-covenant-v0.5.md](./unified-covenant-v0.5.md) | **Phase 8.1 (integrated theological construct):** whole-religion synthesis — **PROPOSAL** layers marked; v0.4.2 baseline preserved |
-| [whole-religion-synthesis-map.md](./whole-religion-synthesis-map.md) | Phase 8.1 system map (domains, dependencies) |
-| [whole-religion-development-roadmap.md](./whole-religion-development-roadmap.md) | Phase 8.1 substantive development priorities |
+| [unified-covenant-v0.6.md](./unified-covenant-v0.6.md) | **Phase 8.2 (Founding Commitments):** preservation, calendar, pastoral, ethics integrated — **PROPOSAL**; [decision sheet](./phase-8-2-maintainer-decision-sheet.md) |
+| [unified-covenant-v0.6-traceability.md](./unified-covenant-v0.6-traceability.md) | Phase 8.2 traceability |
+| [phase-8-2-scriptural-preservation-proposal.md](./phase-8-2-scriptural-preservation-proposal.md) | **MD-06 / DR-10** — Sufficient Witness **PROPOSAL** |
+| [uc-sacred-calendar-proposed.md](./uc-sacred-calendar-proposed.md) | **MD-14** + annual calendar **PROPOSAL** |
+| [uc-pastoral-salvation-guide.md](./uc-pastoral-salvation-guide.md) | **UQ-03** pastoral **PROPOSAL** (within **MD-12**) |
+| [uc-ethics-practice-guide.md](./uc-ethics-practice-guide.md) | Ethics practice **PROPOSAL **G**** |
+| [whole-religion-synthesis-map.md](./whole-religion-synthesis-map.md) | Whole-religion system map (updated Phase 8.2) |
+| [whole-religion-development-roadmap.md](./whole-religion-development-roadmap.md) | Remaining gaps after Phase 8.2 |
 | [unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md) | **Phase 7.7/7.8 (constitutional predecessor):** **MD-13** binding liturgy; post-merge §12 regularisation pending |
 | [unified-covenant-v0.4.2-traceability.md](./unified-covenant-v0.4.2-traceability.md) | Phase 7.7 traceability (v0.4.2) |
 | [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md) | **B** shared prayer script (**MD-13** Option 1) |
