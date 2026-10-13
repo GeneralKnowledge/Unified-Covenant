@@ -62,7 +62,10 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 | [unified-covenant-v0.2.md](./unified-covenant-v0.2.md) | **Phase 6.2 (prior draft):** Unified Covenant v0.2 — preserved after MD rulings |
 | [unified-covenant-v0.3.md](./unified-covenant-v0.3.md) | **Phase 6.4 (prior draft):** v0.3 — MD-01–MD-06 implemented (preserved) |
 | [unified-covenant-v0.3-traceability.md](./unified-covenant-v0.3-traceability.md) | Phase 6.4 doctrine-to-evidence traceability (v0.3) |
-| [unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md) | **Phase 7.7/7.8 (current constructive proposal):** v0.4.2 — **MD-13** binding liturgy; **post-merge §12 regularisation pending** |
+| [unified-covenant-v0.5.md](./unified-covenant-v0.5.md) | **Phase 8.1 (integrated theological construct):** whole-religion synthesis — **PROPOSAL** layers marked; v0.4.2 baseline preserved |
+| [whole-religion-synthesis-map.md](./whole-religion-synthesis-map.md) | Phase 8.1 system map (domains, dependencies) |
+| [whole-religion-development-roadmap.md](./whole-religion-development-roadmap.md) | Phase 8.1 substantive development priorities |
+| [unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md) | **Phase 7.7/7.8 (constitutional predecessor):** **MD-13** binding liturgy; post-merge §12 regularisation pending |
 | [unified-covenant-v0.4.2-traceability.md](./unified-covenant-v0.4.2-traceability.md) | Phase 7.7 traceability (v0.4.2) |
 | [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md) | **B** shared prayer script (**MD-13** Option 1) |
 | [phase-7-7-annual-observances-proposal.md](./phase-7-7-annual-observances-proposal.md) | Annual observance **candidates** (not individually approved) |
@@ -116,7 +119,8 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 ## Phase 6 (constructive proposal)
 
 - **[unified-covenant-v0.1.md](./unified-covenant-v0.1.md)** — first constitution-style synthesis (exploratory pact); classification labels **A / B / C** as in v0.1.
-- **[unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md)** — **current** constructive draft (Phase 7.7): **MD-13** binding shared liturgy ([script](./uc-shared-gathering-liturgy.md)); annual observances and **MD-14** weekly day **sub-decisions open**; **§12 comment period** before merge authority. **[v0.4.1](./unified-covenant-v0.4.1.md)**, **[v0.4](./unified-covenant-v0.4.md)**, **[v0.3](./unified-covenant-v0.3.md)**, **[v0.2](./unified-covenant-v0.2.md)** preserved.
+- **[unified-covenant-v0.5.md](./unified-covenant-v0.5.md)** — **Phase 8.1** integrated theological construct (working synthesis; proposals ≠ adopted **B**).
+- **[unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md)** — constitutional predecessor: **MD-13** liturgy, governance, DR register. Earlier drafts preserved.
 
 See [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) §13 for Phase 6.10; **§17** for Phase 7 forward progress. **Phase 6.5–6.6** [taḥrīf research](../research/phase-6-5-tahrif-and-scriptural-preservation.md) and [CCRP stress test](./ccrp-stress-test-6-6.md) inform procedure; **MD-06** / **DR-10** remain **C — open**. **Phase 6.7–6.8** [proposal](./ccrp-revision-proposal-6-7.md) and [QA](./ccrp-proposal-qa-6-8.md) are **historical** inputs to adoption, not standalone authority. **Phase 6.9** [docket archive](./ccrp-maintainer-decisions-6-9.md) records options; **MD-07–MD-11** approved in [decision docket](./unified-covenant-v0.2-decision-docket.md). **Phase 6.10–6.13** CCRP validation chain: [6-10](./ccrp-validation-6-10.md) · [6-11](./ccrp-validation-6-11.md) · [6-12](./ccrp-validation-6-12.md) · [6-13](./ccrp-validation-6-13.md). **Phase 6.14** [coherence audit](./coherence-audit-6-14.md) (v0.4 theology/constitution — no adoption). **Phase 7+** [forward-progress-policy.md](./forward-progress-policy.md) — **MD-12** closed; **MD-13** in **v0.4.2** (post-merge §12 audit Phase 7.8); **MD-14** open.
 

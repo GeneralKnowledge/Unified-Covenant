@@ -1,6 +1,6 @@
 # Unified Covenant
 
-A long-running **intellectual experiment**: reconstruct the Abrahamic religions historically, map where they agree and disagree, and only then attempt a careful, evidence-aware ideological synthesis.
+A project to **construct a coherent new Abrahamic religion** (Unified Covenant), grounded in historical reconstruction, comparative analysis, and preservation-first theology — while keeping the chronicle and decision record intellectually honest.
 
 The name comes from [THE_UNIFIED_COVENANT.md](./THE_UNIFIED_COVENANT.md)—a **first speculative essay** (not project doctrine). Historical work may change, complicate, or invalidate parts of that synthesis.
 
@@ -27,7 +27,9 @@ The name comes from [THE_UNIFIED_COVENANT.md](./THE_UNIFIED_COVENANT.md)—a **f
 | [comparison/unified-covenant-v0.1.md](./comparison/unified-covenant-v0.1.md) | **Phase 6 (prior):** Unified Covenant v0.1 — first constructive constitution (draft) |
 | [comparison/unified-covenant-v0.2.md](./comparison/unified-covenant-v0.2.md) | **Phase 6.2 (prior):** Unified Covenant v0.2 |
 | [comparison/unified-covenant-v0.3.md](./comparison/unified-covenant-v0.3.md) | **Phase 6.4 (prior):** Unified Covenant v0.3 (MD-01–MD-06) |
-| [comparison/unified-covenant-v0.4.md](./comparison/unified-covenant-v0.4.md) | **Phase 6.10 (current proposal):** v0.4 + adopted [CCRP](./comparison/ccrp-adopted.md) (MD-01–MD-11) |
+| [comparison/unified-covenant-v0.5.md](./comparison/unified-covenant-v0.5.md) | **Phase 8.1:** Integrated theological construct (working synthesis) |
+| [comparison/unified-covenant-v0.4.2.md](./comparison/unified-covenant-v0.4.2.md) | Phase 7.7/7.8 constitutional draft (MD-13 liturgy) |
+| [comparison/unified-covenant-v0.4.md](./comparison/unified-covenant-v0.4.md) | Phase 6.10 v0.4 + adopted [CCRP](./comparison/ccrp-adopted.md) |
 | [comparison/unified-covenant-v0.4-traceability.md](./comparison/unified-covenant-v0.4-traceability.md) | Phase 6.10 traceability matrix |
 | [comparison/unified-covenant-v0.2-decision-log.md](./comparison/unified-covenant-v0.2-decision-log.md) | Phase 6.2 audit trail (v0.1 → v0.2) |
 | [comparison/unified-covenant-v0.2-decision-docket.md](./comparison/unified-covenant-v0.2-decision-docket.md) | Maintainer decisions MD-01–MD-11 (approved) |
