@@ -207,4 +207,18 @@
 
 ---
 
+## 17. Phase 7 — Forward progress (substance track)
+
+| Item | Change |
+|------|--------|
+| **Policy** | CCRP meta-audit **freeze** after 6.14 — see [forward-progress-policy.md](./forward-progress-policy.md) |
+| **7.1** | UQ-03 research + options; **MD-12** **OPEN** |
+| **7.2** | Contingent amendment **drafts** only — **blocked** pending **MD-12** ([phase-7-2-contingent-amendments.md](./phase-7-2-contingent-amendments.md)) |
+| **7.3** | Liturgy sketches; **MD-13** **OPEN** |
+| **7.4** | CCRP worship/canon **exemplar** ([ccrp-case-record-exemplar-worship-canon.md](./ccrp-case-record-exemplar-worship-canon.md)) |
+| **v0.4 edit** | §14 traceability link fix; §13 UQ-03 research pointers — **no new B** |
+| **Theology** | **MD-01–MD-11** unchanged; **DR-10** still **C** |
+
+---
+
 *Phase 6.2 decision log — v0.4 is current constructive draft; v0.3 preserved.*

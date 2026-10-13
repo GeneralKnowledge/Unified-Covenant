@@ -209,4 +209,32 @@
 
 ---
 
+## MD-12 — Atonement and cross meaning (Phase 7.1 — **OPEN**)
+
+| Field | Content |
+|-------|---------|
+| **Decision ID** | MD-12 |
+| **Status** | **OPEN** |
+| **Question** | UQ-03 — clarify or extend **B** on cross meaning beyond **DR-04** vindication |
+| **Evidence** | [phase-7-1-atonement-and-cross-meaning.md](../research/phase-7-1-atonement-and-cross-meaning.md) · [phase-7-1-atonement-options.md](../research/phase-7-1-atonement-options.md) |
+| **Docket** | [maintainer-docket-7-1-atonement.md](./maintainer-docket-7-1-atonement.md) |
+| **Contingent drafts** | [phase-7-2-contingent-amendments.md](./phase-7-2-contingent-amendments.md) |
+| **Maintainer decision** | **_(pending)_** |
+
+---
+
+## MD-13 — Minimal liturgy and calendar (Phase 7.3 — **OPEN**)
+
+| Field | Content |
+|-------|---------|
+| **Decision ID** | MD-13 |
+| **Status** | **OPEN** |
+| **Question** | UQ-02 — gathering, prayer shape, calendar **B** within **MD-08** |
+| **Evidence** | [phase-7-3-liturgy-and-calendar-sketch.md](../research/phase-7-3-liturgy-and-calendar-sketch.md) |
+| **Docket** | [maintainer-docket-7-3-liturgy.md](./maintainer-docket-7-3-liturgy.md) |
+| **Dependency** | **MD-12** recommended first |
+| **Maintainer decision** | **_(pending)_** |
+
+---
+
 *Phase 6.3 recommendations remain in table history. **APPROVED** rulings are implemented in [unified-covenant-v0.4.md](./unified-covenant-v0.4.md) (v0.3 preserved)—not scholarly consensus.*

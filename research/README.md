@@ -97,3 +97,16 @@ Procedural clarification only — [ccrp-adopted.md](../comparison/ccrp-adopted.m
 | Substantive coherence audit | [../comparison/coherence-audit-6-14.md](../comparison/coherence-audit-6-14.md) |
 
 Analytical only — no new **B** doctrine.
+
+## Phase 7 (forward progress — substance)
+
+| Module | File |
+|--------|------|
+| Forward policy (CCRP meta-audit freeze) | [../comparison/forward-progress-policy.md](../comparison/forward-progress-policy.md) |
+| **7.1** Atonement / cross meaning (UQ-03) | [phase-7-1-atonement-and-cross-meaning.md](./phase-7-1-atonement-and-cross-meaning.md) |
+| **7.1** Options memo (MD-12) | [phase-7-1-atonement-options.md](./phase-7-1-atonement-options.md) |
+| **7.2** Contingent amendments (draft) | [../comparison/phase-7-2-contingent-amendments.md](../comparison/phase-7-2-contingent-amendments.md) |
+| **7.3** Liturgy / calendar sketch (UQ-02) | [phase-7-3-liturgy-and-calendar-sketch.md](./phase-7-3-liturgy-and-calendar-sketch.md) |
+| **7.4** CCRP exemplar (worship / canon) | [../comparison/ccrp-case-record-exemplar-worship-canon.md](../comparison/ccrp-case-record-exemplar-worship-canon.md) |
+
+**Open maintainer dockets:** [7-1 atonement](../comparison/maintainer-docket-7-1-atonement.md) · [7-3 liturgy](../comparison/maintainer-docket-7-3-liturgy.md) (**MD-12**, **MD-13** **OPEN**).
