@@ -31,3 +31,12 @@ Research documents support Unified Covenant constructive drafts and maintainer d
 | Source verification (CCRP cases) | [phase-6-6-source-verification.md](./phase-6-6-source-verification.md) |
 
 **Output:** [ccrp-stress-test-6-6.md](../comparison/ccrp-stress-test-6-6.md) — five-case CCRP simulation; **not** adopted doctrine or procedure change.
+
+## Phase 6.7 (CCRP revision proposal — governance)
+
+| Module | File |
+|--------|------|
+| CCRP revision package | [../comparison/ccrp-revision-proposal-6-7.md](../comparison/ccrp-revision-proposal-6-7.md) |
+| Canon language audit (v0.3) | [../comparison/canon-language-audit-6-7.md](../comparison/canon-language-audit-6-7.md) |
+
+**Status:** Proposals for maintainer review only. **Does not** amend v0.3 or **MD-01–MD-06**.
