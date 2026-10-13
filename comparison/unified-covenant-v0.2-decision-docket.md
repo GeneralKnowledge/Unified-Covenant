@@ -132,7 +132,7 @@
 | **Maintainer decision** | **APPROVED (Phase 6.4)** |
 | **Approved formulation** | **C** open; separate *taḥrīf* meanings; research agenda §11 v0.3; no convenience **B** ruling |
 | **Implemented in** | v0.3 §11; DR-10; UQ-01 |
-| **Reopen when** | Phase 6.5 *taḥrīf* module completes |
+| **Reopen when** | Maintainer chooses DR-10 **B** option after [Phase 6.5 research](../research/phase-6-5-tahrif-options.md) (module complete; **MD-06** still **C**) |
 
 ---
 

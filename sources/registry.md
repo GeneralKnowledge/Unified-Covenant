@@ -565,3 +565,46 @@ notes: >
   Does not edit chronicle, matrix, or THE_UNIFIED_COVENANT.md. Taḥrīf remains C open per MD-06.
 related_ledger: Phase 6.4 final report
 ```
+
+### `reynolds-tahrif-jaos-2010`
+
+```yaml
+id: reynolds-tahrif-jaos-2010
+claim: Gabriel Said Reynolds argues Qur'anic taḥrīf language aligns with Christian anti-Jewish polemic about misinterpretation and that "textual falsification of the Bible" as systematic Muslim doctrine developed later; distinguishes scriptural falsification, textual alteration, misinterpretation, and yuharrifuna l-kalima 'an mawadi'ihi.
+status: contested
+period: 2010; Qur'an 7th century CE context
+sources:
+  - Gabriel Said Reynolds, "On the Qur'anic Accusation of Scriptural Falsification (taḥrīf) and Christian Anti-Jewish Polemic," Journal of the American Oriental Society 130/2 (2010), 189–202, https://doi.org/10.2307/4082977
+notes: >
+  Phase 6.5: existence and abstract verified via journal indexing and secondary summaries; full article text not re-read line-by-line in this phase.
+related_ledger: research/phase-6-5-tahrif-and-scriptural-preservation.md
+```
+
+### `tabari-tahrif-thesis-2024`
+
+```yaml
+id: tabari-tahrif-thesis-2024
+claim: A 2024 UIN Sunan Kalijaga thesis (digilib 67941) reports that al-Ṭabarī's tafsīr on QS 2:75, 4:46, 5:13, and 5:41 consistently emphasises taḥrīf al-ma'na over textual replacement, with contextual readings per verse.
+status: contested
+period: 2024 thesis on 9th–10th c. tafsīr
+sources:
+  - "Antara Distorsi Makna dan Teks: Analisis Penafsiran al-Tabari tentang Konsep Tahrif…," UIN Sunan Kalijaga digilib, https://digilib.uin-suka.ac.id/id/eprint/67941/
+notes: >
+  Phase 6.5: abstract and repository metadata read; full thesis PDF not read end-to-end; claims depend on thesis author's reading of Jāmiʿ al-bayān.
+related_ledger: research/phase-6-5-tahrif-and-scriptural-preservation.md
+```
+
+### `comparison-phase-6-5-tahrif-research`
+
+```yaml
+id: comparison-phase-6-5-tahrif-research
+claim: Phase 6.5 adds specialist research on taḥrīf, scriptural preservation, and canon trust (UQ-01) with options memo; does not change MD-06 or unified-covenant-v0.3.md doctrine.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - research/phase-6-5-tahrif-and-scriptural-preservation.md
+  - research/phase-6-5-tahrif-options.md
+notes: >
+  Does not edit evidence-matrix, chronicle, THE_UNIFIED_COVENANT.md, or v0.3. Suggested wording changes recorded in research only.
+related_ledger: Phase 6.5 final report
+```
