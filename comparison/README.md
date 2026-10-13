@@ -69,6 +69,8 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 | [../research/phase-6-3-christology-and-divine-unity.md](../research/phase-6-3-christology-and-divine-unity.md) | **Phase 6.3:** Christology and divine unity |
 | [../research/phase-6-3-rabbinic-judaism-and-covenant.md](../research/phase-6-3-rabbinic-judaism-and-covenant.md) | **Phase 6.3:** Rabbinic Judaism, covenant, authority |
 | [../research/phase-6-3-canon-and-prophetic-finality.md](../research/phase-6-3-canon-and-prophetic-finality.md) | **Phase 6.3:** Canon hierarchy and prophetic finality |
+| [../research/phase-6-5-tahrif-and-scriptural-preservation.md](../research/phase-6-5-tahrif-and-scriptural-preservation.md) | **Phase 6.5:** *Taḥrīf*, preservation, canon trust (UQ-01; **not** adopted doctrine) |
+| [../research/phase-6-5-tahrif-options.md](../research/phase-6-5-tahrif-options.md) | **Phase 6.5:** Maintainer options memo (DR-10 / MD-06) |
 | [unified-covenant-review-6-1.md](./unified-covenant-review-6-1.md) | **Phase 6.1:** Adversarial review of v0.1 (classification, coherence, roadmap—design spec for v0.2) |
 | [../history/README.md](../history/README.md) | Chronicle index (Chapters 1–4) |
 | [../sources/registry.md](../sources/registry.md) | Sample claim registry (expand as comparison matures) |
@@ -86,7 +88,7 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 - **[unified-covenant-v0.1.md](./unified-covenant-v0.1.md)** — first constitution-style synthesis (exploratory pact); classification labels **A / B / C** as in v0.1.
 - **[unified-covenant-v0.3.md](./unified-covenant-v0.3.md)** — **current** constructive draft (Phase 6.4): maintainer rulings **MD-01–MD-06**, CCRP canon procedure, defined **Anointed** Christology, explicit **B** vindication doctrine, non-supersession community identity. **[v0.2](./unified-covenant-v0.2.md)** preserved.
 
-See [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) for changes prompted by [unified-covenant-review-6-1.md](./unified-covenant-review-6-1.md). **Phase 6.3** specialist research and [stress-test review](./unified-covenant-v0.2-review-6-3.md) inform the [maintainer decision docket](./unified-covenant-v0.2-decision-docket.md) (not adopted doctrine).
+See [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) for changes prompted by [unified-covenant-review-6-1.md](./unified-covenant-review-6-1.md). **Phase 6.3** specialist research and [stress-test review](./unified-covenant-v0.2-review-6-3.md) inform the [maintainer decision docket](./unified-covenant-v0.2-decision-docket.md). **Phase 6.5** [taḥrīf research](../research/phase-6-5-tahrif-and-scriptural-preservation.md) and [options memo](../research/phase-6-5-tahrif-options.md) feed **UQ-01** / **DR-10** while **MD-06** remains **C — open**.
 
 ## What comparison phases do not do
 
