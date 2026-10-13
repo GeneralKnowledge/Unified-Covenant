@@ -227,18 +227,32 @@
 
 ---
 
-## MD-13 — Minimal liturgy and calendar (Phase 7.3 — **OPEN**)
+## MD-13 — Shared liturgy and annual calendar scope (Phase 7.3 / 7.7 — **APPROVED**)
 
 | Field | Content |
 |-------|---------|
 | **Decision ID** | MD-13 |
-| **Status** | **OPEN** |
-| **Question** | UQ-02 — gathering, prayer shape, calendar **B** within **MD-08** |
-| **Evidence** | [phase-7-3-liturgy-and-calendar-sketch.md](../research/phase-7-3-liturgy-and-calendar-sketch.md) |
+| **Status** | **APPROVED** — **§12 comment period** on [v0.4.2](./unified-covenant-v0.4.2.md) pending |
+| **Binding level** | Defined shared liturgy as **B** (Option A) |
+| **Worship model** | **Option 1** — [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md) |
+| **Annual calendar** | In scope; individual observances **not** approved — [phase-7-7-annual-observances-proposal.md](./phase-7-7-annual-observances-proposal.md) |
+| **MD-14** | **OPEN** — [phase-7-7-md-14-weekly-day-brief.md](./phase-7-7-md-14-weekly-day-brief.md) |
+| **DR-14** | **Outstanding** — [phase-7-7-dr-14-register-proposal.md](./phase-7-7-dr-14-register-proposal.md) |
+| **Evidence** | [phase-7-3 sketch](../research/phase-7-3-liturgy-and-calendar-sketch.md) · [phase-7-6 brief](./phase-7-6-md-13-decision-brief.md) |
 | **Docket** | [maintainer-docket-7-3-liturgy.md](./maintainer-docket-7-3-liturgy.md) |
-| **Dependency** | **MD-12** Option A **closed**; liturgy still awaits **MD-13** |
+
+---
+
+## MD-14 — Weekly gathering day (Phase 7.7 — **OPEN**)
+
+| Field | Content |
+|-------|---------|
+| **Decision ID** | MD-14 |
+| **Status** | **OPEN** |
+| **Question** | Universal weekly **B** day vs **G** local scheduling |
+| **Brief** | [phase-7-7-md-14-weekly-day-brief.md](./phase-7-7-md-14-weekly-day-brief.md) |
 | **Maintainer decision** | **_(pending)_** |
 
 ---
 
-*Phase 6.3 recommendations remain in table history. **APPROVED** rulings **MD-01–MD-11** are in [unified-covenant-v0.4.md](./unified-covenant-v0.4.md) (preserved); **MD-12 Option A** in [unified-covenant-v0.4.1.md](./unified-covenant-v0.4.1.md) (current constructive draft)—not scholarly consensus.*
+*Phase 6.3 recommendations remain in table history. **APPROVED** rulings **MD-01–MD-11** in [v0.4](./unified-covenant-v0.4.md); **MD-12** in [v0.4.1](./unified-covenant-v0.4.1.md); **MD-13** in [v0.4.2](./unified-covenant-v0.4.2.md) (proposal, comment period)—not scholarly consensus.*
