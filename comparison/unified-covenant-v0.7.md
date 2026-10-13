@@ -1,8 +1,10 @@
 # Unified Covenant — Founding faith (v0.7)
 
-**Status:** Phase **8.3** integrated founding text. **Binding doctrine** reflects maintainer founding rulings recorded in [unified-covenant-v0.2-decision-docket.md](./unified-covenant-v0.2-decision-docket.md) (**MD-06**, **MD-14**, **MD-15**) and [unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md) §§8, 11, 14. **Teaching guidance (**G**):** [uc-pastoral-salvation-guide.md](./uc-pastoral-salvation-guide.md), [uc-ethics-practice-guide.md](./uc-ethics-practice-guide.md), [uc-foundational-practices.md](./uc-foundational-practices.md).
+**Status:** Phase **8.3** integrated founding text. **Binding doctrine** reflects maintainer founding rulings recorded in [unified-covenant-v0.2-decision-docket.md](./unified-covenant-v0.2-decision-docket.md) (**MD-06**, **MD-14**, **MD-15**) and [unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md) §§8, 11, 14. **Teaching guidance (**G**):** [uc-pastoral-salvation-guide.md](./uc-pastoral-salvation-guide.md), [uc-ethics-practice-guide.md](./uc-ethics-practice-guide.md), [uc-foundational-practices.md](./uc-foundational-practices.md), [uc-creed.md](./uc-creed.md), [uc-catechism-intro.md](./uc-catechism-intro.md), [uc-membership-and-obligations.md](./uc-membership-and-obligations.md), [uc-founding-stress-test.md](./uc-founding-stress-test.md).
 
 **Predecessors (preserved):** [v0.6](./unified-covenant-v0.6.md) · [v0.5](./unified-covenant-v0.5.md) · constitutional [v0.4.2](./unified-covenant-v0.4.2.md)
+
+**Newcomers:** Start with [creed](./uc-creed.md) → [catechism](./uc-catechism-intro.md) → [membership](./uc-membership-and-obligations.md).
 
 **Practice this week:** Shared liturgy [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md) (**B**, **MD-13**); **Covenant Day** Sunday (**B**, **MD-14**).
 
@@ -80,7 +82,7 @@ Dominant Muslim readings of Q. 4:157 and Christian passion theologies are **desc
 
 UC honours **Muhammad** as **prophet** and **seal of the Abrahamic canonical series in UC** (**DR-08**): the **final canonical voice** in the three-layer witness for **this community**. That is **UC doctrine**, not a claim that Muslims must adopt UC’s formula or that prophecy never occurs elsewhere in other **R** senses.
 
-Muhammad’s witness ** reinforces** *tawḥīd*, justice, and accountability. It **does not** replace Jesus’s **focal** role in UC worship and narrative.
+Muhammad’s witness **reinforces** *tawḥīd*, justice, and accountability. It **does not** replace Jesus’s **focal** role in UC worship and narrative.
 
 ---
 
@@ -149,7 +151,7 @@ Complete orders of service: [uc-foundational-practices.md](./uc-foundational-pra
 
 ## 10. Community — belonging, conscience, and safety
 
-**Entry:** assent to essential **B** (§14 register), public **covenant entry**, commitment to **CCRP** outcomes.
+**Entry:** assent to essential **B** (§14 register), public **covenant entry**, commitment to **CCRP** outcomes — step-by-step [uc-membership-and-obligations.md](./uc-membership-and-obligations.md).
 
 **Conscience (**MD-08**):** no line-by-line verbal test at worship; **recorded dissent** on non-essentials permitted; **dual identity** only where conscience and **R** authorities allow — conflicts **acknowledged**.
 
@@ -195,4 +197,10 @@ Essential **B** / **H** rows: [unified-covenant-v0.4.2.md](./unified-covenant-v0
 
 ---
 
-*Unified Covenant v0.7 — Phase 8.3 founding faith. Read together with v0.4.2 constitution and foundational practices.*
+## Appendix — tested faith
+
+Hard cases (scripture, ethics, daily life) and strengthened reasoning: [uc-founding-stress-test.md](./uc-founding-stress-test.md).
+
+---
+
+*Unified Covenant v0.7 — Phase 8.3 founding faith. Read together with v0.4.2 constitution, creed, catechism, and foundational practices.*

@@ -264,7 +264,7 @@
 | **Annual **B**** | **Covenant Renewal Day** — second **Sunday of October** |
 | **Annual **G**** | **Day of Turning** — Sunday before Renewal; **Day of Witness to the Afflicted** — second **Sunday of March** |
 | **Annual **O**** | **Neighbor-study days** — educational only, not UC holy days |
-| **Teaching **G**** | [uc-pastoral-salvation-guide.md](./uc-pastoral-salvation-guide.md); [uc-ethics-practice-guide.md](./uc-ethics-practice-guide.md); [uc-foundational-practices.md](./uc-foundational-practices.md) |
+| **Teaching **G**** | [uc-pastoral-salvation-guide.md](./uc-pastoral-salvation-guide.md); [uc-ethics-practice-guide.md](./uc-ethics-practice-guide.md); [uc-foundational-practices.md](./uc-foundational-practices.md); [uc-creed.md](./uc-creed.md); [uc-catechism-intro.md](./uc-catechism-intro.md); [uc-membership-and-obligations.md](./uc-membership-and-obligations.md); [uc-founding-stress-test.md](./uc-founding-stress-test.md) |
 | **Implemented in** | v0.4.2 §8.3; [v0.7](./unified-covenant-v0.7.md); **DR-16** |
 | **Does not** | Add **DR-14** liturgy register row; change **MD-13** liturgy text; close **UQ-03** mechanics (**C**) |
 

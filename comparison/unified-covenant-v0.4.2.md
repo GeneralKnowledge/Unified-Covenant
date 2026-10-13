@@ -215,7 +215,7 @@ See [glossary](./glossary-unified-covenant.md). Summary:
 | **Source-tradition (R)** | Authority **inside** Judaism, Christianity, Islam—not auto UC **B** |
 | **Binding UC teaching (procedural + B flag)** | CCRP outcomes for **official** instruction |
 
-**Receive (Declaration):** UC **includes** canonical **witnesses** under **CCRP**; **does not** adopt every **R** claim of inspiration, inerrancy, or *taḥrīf*; **does not** resolve **DR-10** while **C**. UC recognition **≠** source traditions’ recognition of UC interpretation.
+**Receive (Declaration):** UC **includes** canonical **witnesses** under **CCRP**; **does not** adopt every **R** claim of inspiration, inerrancy, or perfect textual uniformity; **DR-10** **Sufficient Witness **B**** (§11). UC recognition **≠** source traditions’ recognition of UC interpretation.
 
 **Anti-dismissal:** “Witness” requires **published** handling of textual claims (**H/R/B/C**), not ignoring inconvenient passages.
 

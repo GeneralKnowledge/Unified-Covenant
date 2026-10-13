@@ -25,8 +25,8 @@
 | **MD-08** | Conscience / participation |
 | **MD-12** | Vindication-only; no substitution **B** |
 | **MD-13** | Liturgy file unchanged |
-| **MD-06** / **DR-10** | Remain **C** in docket until maintainer decision |
-| **MD-14** | Remains **OPEN** until maintainer decision |
+| **MD-06** / **DR-10** | **Historical **C**** in v0.6; **adopted **B**** Phase 8.3 |
+| **MD-14** | **Historical OPEN** in v0.6; **APPROVED** Phase 8.3 |
 | **DR-14** | Not in §14 register |
 
 ---

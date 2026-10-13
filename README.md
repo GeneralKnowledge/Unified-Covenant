@@ -28,7 +28,7 @@ The name comes from [THE_UNIFIED_COVENANT.md](./THE_UNIFIED_COVENANT.md)—a **f
 | [comparison/unified-covenant-v0.2.md](./comparison/unified-covenant-v0.2.md) | **Phase 6.2 (prior):** Unified Covenant v0.2 |
 | [comparison/unified-covenant-v0.3.md](./comparison/unified-covenant-v0.3.md) | **Phase 6.4 (prior):** Unified Covenant v0.3 (MD-01–MD-06) |
 | [comparison/unified-covenant-v0.5.md](./comparison/unified-covenant-v0.5.md) | **Phase 8.1:** Integrated theological construct (working synthesis) |
-| [comparison/unified-covenant-v0.7.md](./comparison/unified-covenant-v0.7.md) | **Phase 8.3:** Founding faith — integrated theology + [practices](./comparison/uc-foundational-practices.md) |
+| [comparison/unified-covenant-v0.7.md](./comparison/unified-covenant-v0.7.md) | **Phase 8.3:** Founding faith — [creed](./comparison/uc-creed.md) · [catechism](./comparison/uc-catechism-intro.md) · [membership](./comparison/uc-membership-and-obligations.md) · [practices](./comparison/uc-foundational-practices.md) |
 | [comparison/unified-covenant-v0.6.md](./comparison/unified-covenant-v0.6.md) | **Phase 8.2 (historical):** proposal snapshot before founding rulings |
 | [comparison/unified-covenant-v0.4.2.md](./comparison/unified-covenant-v0.4.2.md) | Phase 7.7/7.8 constitutional draft (MD-13 liturgy) |
 | [comparison/unified-covenant-v0.4.md](./comparison/unified-covenant-v0.4.md) | Phase 6.10 v0.4 + adopted [CCRP](./comparison/ccrp-adopted.md) |
