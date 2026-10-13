@@ -23,3 +23,11 @@ Research documents support Unified Covenant constructive drafts and maintainer d
 **Feeds:** v0.3 §11 (**MD-06** **C** open); DR-10; [unified-covenant-v0.3-traceability.md](../comparison/unified-covenant-v0.3-traceability.md). **Does not** edit v0.3 theology.
 
 **Current constructive proposal:** [unified-covenant-v0.3.md](../comparison/unified-covenant-v0.3.md)
+
+## Phase 6.6 (CCRP adversarial stress test)
+
+| Module | File |
+|--------|------|
+| Source verification (CCRP cases) | [phase-6-6-source-verification.md](./phase-6-6-source-verification.md) |
+
+**Output:** [ccrp-stress-test-6-6.md](../comparison/ccrp-stress-test-6-6.md) — five-case CCRP simulation; **not** adopted doctrine or procedure change.
