@@ -1,6 +1,6 @@
 # Comparative phase (Phase 5)
 
-This directory holds **structured comparison** across Judaism, Christianity, and Islam after the four-chapter historical chronicle. It is **not** synthesis: no unified theology, no reconciliation of incompatible claims, and no modification of [THE_UNIFIED_COVENANT.md](../THE_UNIFIED_COVENANT.md).
+This directory holds **structured comparison** across Judaism, Christianity, and Islam after the four-chapter historical chronicle, and—beginning in **Phase 6**—the first **constructive** constitution draft. Comparison documents remain **merge-resistant** where incompatibilities are real; [unified-covenant-v0.1.md](./unified-covenant-v0.1.md) does **not** replace [THE_UNIFIED_COVENANT.md](../THE_UNIFIED_COVENANT.md) (original essay, unchanged).
 
 ## Purpose
 
@@ -58,6 +58,7 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 | [evidence-matrix.md](./evidence-matrix.md) | Thematic comparison tables, disagreement register, evidence-gap register |
 | [convergence-assessment.md](./convergence-assessment.md) | Phase 5.2: candidate convergence themes, compatibility outcomes, test of the synthesis essay (essay not edited) |
 | [convergence-source-audit.md](./convergence-source-audit.md) | Phase 5.3: source audit of convergence claims before any essay revision |
+| [unified-covenant-v0.1.md](./unified-covenant-v0.1.md) | **Phase 6:** Unified Covenant v0.1 — first constructive proposal (draft constitution, not final creed) |
 | [../history/README.md](../history/README.md) | Chronicle index (Chapters 1–4) |
 | [../sources/registry.md](../sources/registry.md) | Sample claim registry (expand as comparison matures) |
 
@@ -69,11 +70,15 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 - When a cell says *n/a* or *inadequately covered*, that is intentional—do not fill gaps with unsourced assertions.  
 - Report errors or missing registry entries by extending [sources/registry.md](../sources/registry.md) in a focused follow-up, not by silently rewriting historical chapters.
 
-## What this phase does not do
+## Phase 6 (constructive proposal)
+
+[unified-covenant-v0.1.md](./unified-covenant-v0.1.md) is the **first constitution-style synthesis**: principles labelled **Level A** (defensible common ground), **Level B** (deliberate constructive interpretation), and **Level C** (unresolved or incompatible). It is a draft for critical examination—not project doctrine and not a claim that the three religions are one faith.
+
+## What comparison phases do not do
 
 - No new chronological “Chapter 5” narrative.  
-- No unified-covenant synthesis essay.  
-- No edits to Chapters 1–4 or THE_UNIFIED_COVENANT.md as part of Phase 5 scope.
+- No edits to Chapters 1–4 or THE_UNIFIED_COVENANT.md as part of Phase 5–6 scope (v0.1 is a **new** document alongside the essay).  
+- No claim that a repository-generated text has religious authority.
 
 ## Qualifying “the tradition”
 

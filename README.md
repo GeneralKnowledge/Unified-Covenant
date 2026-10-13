@@ -23,11 +23,14 @@ The name comes from [THE_UNIFIED_COVENANT.md](./THE_UNIFIED_COVENANT.md)—a **f
 | [sources/registry.md](./sources/registry.md) | Minimal claim registry (sample entries) |
 | [comparison/README.md](./comparison/README.md) | **Phase 5:** Comparative method and index |
 | [comparison/evidence-matrix.md](./comparison/evidence-matrix.md) | Thematic matrix, disagreement register, evidence gaps |
+| [comparison/convergence-assessment.md](./comparison/convergence-assessment.md) | Phase 5.2: convergence themes tested against chronicle and matrix |
+| [comparison/unified-covenant-v0.1.md](./comparison/unified-covenant-v0.1.md) | **Phase 6:** Unified Covenant v0.1 — first constructive constitution (draft) |
 
 ## Next stages
 
-- **Comparative stage (Phase 5):** [Evidence matrix](./comparison/evidence-matrix.md) — comparison, not synthesis.  
-- Future: controlled synthesis experiments only after comparison is reviewed.
+- **Phase 5** (comparison): [Evidence matrix](./comparison/evidence-matrix.md) and [convergence assessment](./comparison/convergence-assessment.md).  
+- **Phase 6** (first synthesis): [Unified Covenant v0.1](./comparison/unified-covenant-v0.1.md) — draft constitution; [THE_UNIFIED_COVENANT.md](./THE_UNIFIED_COVENANT.md) remains the earlier speculative essay for comparison.  
+- Future: revision of v0.1 only after review of objections and evidence gaps—not a second version without direction.
 
 ## Note
 
