@@ -1,0 +1,83 @@
+# Unified Covenant — Glossary (v0.4)
+
+**Purpose:** Clarify specialist terms used in [unified-covenant-v0.4.md](./unified-covenant-v0.4.md) and [ccrp-adopted.md](./ccrp-adopted.md). **Does not** replace constitutional **B** text or CCRP rules in the main documents.
+
+---
+
+## Claim classes
+
+| Term | Meaning |
+|------|---------|
+| **H** | Historical baseline—past events, manuscript facts, composition history where evidence supports |
+| **R** | Inherited religious claim within Judaism, Christianity, or Islam |
+| **A** | Motif convergence across traditions (not bibliographic “abstract”) |
+| **B** | Unified Covenant binding doctrine or procedure for members |
+| **C** | Contested / unresolved in UC |
+
+---
+
+## Source depth (**SD-***)
+
+Verification level for a cited source in CCRP step 4. **Reading ≠ endorsement.**
+
+| Code | Meaning |
+|------|---------|
+| **SD-PRI** | Complete primary text read |
+| **SD-ART** | Complete scholarly article or monograph chapter |
+| **SD-EXC** | Substantial excerpt |
+| **SD-ABS** | Abstract or metadata only |
+| **SD-SEC** | Secondary summary |
+| **SD-EXI** | Existence verified; content not inspected |
+| **SD-INA** | Inaccessible or passage unverified |
+
+---
+
+## Ruling status (**RS-***)
+
+Per **sub-question** at CCRP opening.
+
+| Code | Meaning |
+|------|---------|
+| **RS-1** | Settled **B** or **H**—outcome not re-adjudicated; evidence still reviewed |
+| **RS-2** | Settled **open (C)**—no new **B** without **§12** reopen |
+| **RS-3** | Reopen candidate—freeze new **B** pending **§12** |
+| **RS-4** | Unaddressed—full CCRP allowed |
+
+---
+
+## Canon authority modes (**MD-10**)
+
+| Term | Meaning |
+|------|---------|
+| **Inclusion** | Text is listed in the Unified Canon (**B**) |
+| **Canonical witness** | UC uses the text in narrative, worship, and CCRP with **layer-specific** function (Tanakh covenant arc / Anointed witness / *tawḥīd* and seal)—**not** identical to each tradition’s **R** authority mode |
+| **Receive (Declaration)** | UC **includes** witnesses and interprets under **CCRP**; **does not** adopt every **R** claim about inspiration, inerrancy, or preservation; **does not** imply source traditions accept UC interpretation |
+| **Source-tradition authority** | Oral Torah, Nicene faith, *ijmāʿ*, etc.—**R** **inside** inherited communities |
+
+---
+
+## Preservation-first (**MD-07**)
+
+**Defensible:** A claim survives careful textual, historical, linguistic, theological, and interpretive analysis per §2.1 method—**not** a guarantee that all **R** claims reconcile, and **not** a **B** ruling on **DR-10** while **C**.
+
+---
+
+## Teaching layers (**MD-08**)
+
+| Term | Meaning |
+|------|---------|
+| **Official UC doctrine** | **§14** essentials + CCRP **binding** teaching |
+| **Accurate presentation** | Required of **official** teachers/representatives |
+| **Public worship** | No phase-6.10 requirement that every member affirm all **B** in every service |
+| **Private belief** | May differ where §7.3 allows |
+| **Recorded dissent** | Permitted; must not contradict essential **H**/**B** in **official** teaching |
+
+---
+
+## *Taḥrīf* pedagogy (**MD-09**)
+
+Comparative instruction on preservation, alteration, and interpretation across traditions, with **SD-*** discipline and stated uncertainty—**method only**; **MD-06** / **DR-10** remain **C**.
+
+---
+
+*Phase 6.10. See [unified-covenant-v0.4-traceability.md](./unified-covenant-v0.4-traceability.md) for doctrine IDs.*

@@ -1,6 +1,6 @@
 # Phase 6.9 — Maintainer decision docket (CCRP adoption & canon language)
 
-**Status:** **MD-07 through MD-11 — OPEN** (no maintainer choice recorded). **Not** constitutional authority. **Does not** adopt [ccrp-revision-proposal-6-7.md](./ccrp-revision-proposal-6-7.md) or amend [unified-covenant-v0.3.md](./unified-covenant-v0.3.md).
+**Status:** **Historical option archive (Phase 6.9).** **MD-07–MD-11 APPROVED** in Phase 6.10 — see [unified-covenant-v0.2-decision-docket.md](./unified-covenant-v0.2-decision-docket.md) and [unified-covenant-v0.4.md](./unified-covenant-v0.4.md). This file **does not** adopt [ccrp-revision-proposal-6-7.md](./ccrp-revision-proposal-6-7.md) by itself.
 
 **In force unchanged:** **MD-01–MD-06** ([decision docket](./unified-covenant-v0.2-decision-docket.md)); **DR-10** **C**; **MD-06** open.
 

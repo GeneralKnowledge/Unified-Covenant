@@ -696,3 +696,21 @@ notes: >
   Does not edit evidence-matrix, chronicle, THE_UNIFIED_COVENANT.md, or v0.3. Suggested wording changes recorded in research only.
 related_ledger: Phase 6.5 final report
 ```
+
+### `comparison-phase-6-10-ccrp-adoption`
+
+```yaml
+id: comparison-phase-6-10-ccrp-adoption
+claim: Phase 6.10 records approved maintainer decisions MD-07–MD-11, adopts CCRP in ccrp-adopted.md, publishes unified-covenant-v0.4.md with canon-reception and teaching clarifications, and validates procedure without closing MD-06 or DR-10.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - comparison/unified-covenant-v0.4.md
+  - comparison/ccrp-adopted.md
+  - comparison/ccrp-validation-6-10.md
+  - comparison/glossary-unified-covenant.md
+  - comparison/unified-covenant-v0.4-traceability.md
+notes: >
+  Does not edit THE_UNIFIED_COVENANT.md, chronicle, or v0.3. MD-01–MD-06 substantive text preserved in v0.4 except procedural/governance additions (§5.3, §7.3, §11 pedagogy, Declaration MD-10).
+related_ledger: Phase 6.10 final report
+```

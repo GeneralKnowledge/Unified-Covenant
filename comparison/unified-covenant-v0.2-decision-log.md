@@ -146,18 +146,28 @@
 
 ---
 
-## 12. Phase 6.9 — CCRP / canon-language decisions (navigation only)
+## 12. Phase 6.9 — CCRP / canon-language decisions (navigation)
 
-**Status:** **MD-07–MD-11 OPEN** — no maintainer selections recorded in this phase.
-
-| Item | Location |
-|------|----------|
-| Decision docket (full options, matrix, implementation plan) | [ccrp-maintainer-decisions-6-9.md](./ccrp-maintainer-decisions-6-9.md) |
-| CCRP proposal (unadopted) | [ccrp-revision-proposal-6-7.md](./ccrp-revision-proposal-6-7.md) |
-| QA report | [ccrp-proposal-qa-6-8.md](./ccrp-proposal-qa-6-8.md) |
-
-**Unchanged:** **MD-01–MD-06**; **v0.3** current constructive draft; **DR-10** **C**.
+**Archive (options at publication):** [ccrp-maintainer-decisions-6-9.md](./ccrp-maintainer-decisions-6-9.md)
 
 ---
 
-*Phase 6.2 decision log — Phase 6.3–6.4 append for maintainer audit. v0.2 text preserved; v0.3 is current constructive draft.*
+## 13. Phase 6.10 — Maintainer rulings → v0.4 + adopted CCRP
+
+| Decision | Approved formulation (summary) | Implemented |
+|----------|-------------------------------|-------------|
+| **MD-07** | Clarified preservation-first; **defensible** method; not **DR-10** closure | v0.4 §1 |
+| **MD-08** | Accurate official teaching; no universal worship affirmation test | v0.4 §7.3 |
+| **MD-09** | Comparative *taḥrīf* pedagogy + **SD-***; **MD-06** stays **C** | v0.4 §11; CCRP |
+| **MD-10** | Declaration + §5.3.2 + glossary for “receive” / witness | v0.4; [glossary](./glossary-unified-covenant.md) |
+| **MD-11** | Adopted minimal complete CCRP | [ccrp-adopted.md](./ccrp-adopted.md); [validation](./ccrp-validation-6-10.md) |
+
+**Deliverables:** [unified-covenant-v0.4.md](./unified-covenant-v0.4.md), [unified-covenant-v0.4-traceability.md](./unified-covenant-v0.4-traceability.md).
+
+**Unchanged substantive:** **MD-01–MD-06**; **DR-10** **C**. **THE_UNIFIED_COVENANT.md** not edited.
+
+**Historical (not in force as adopted text):** [ccrp-revision-proposal-6-7.md](./ccrp-revision-proposal-6-7.md), [ccrp-proposal-qa-6-8.md](./ccrp-proposal-qa-6-8.md).
+
+---
+
+*Phase 6.2 decision log — v0.4 is current constructive draft; v0.3 preserved.*

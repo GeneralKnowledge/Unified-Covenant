@@ -1,12 +1,12 @@
 # Unified Covenant v0.2 — Maintainer Decision Docket
 
-**Status:** **MD-01–MD-06 APPROVED** as Phase 6.4 starting rulings (implemented in [unified-covenant-v0.3.md](./unified-covenant-v0.3.md)). Historical Phase 6.3 recommendations preserved below.
+**Status:** **MD-01–MD-11 APPROVED**. **MD-01–MD-06** (Phase 6.4) in [unified-covenant-v0.3.md](./unified-covenant-v0.3.md). **MD-07–MD-11** (Phase 6.10) in [unified-covenant-v0.4.md](./unified-covenant-v0.4.md). Historical Phase 6.3 recommendations preserved below.
 
 **Research basis:** Phase 6.3 modules in [research/README.md](../research/README.md); [unified-covenant-v0.2-review-6-3.md](./unified-covenant-v0.2-review-6-3.md).
 
 **Note:** v0.2 previously referenced “§12” for maintainer flags; **no §12 existed** in the document. This docket **is** the authoritative list (Phase 6.3 correction).
 
-**Legend:** **APPROVED (Phase 6.4)** = binding for v0.3+ unless §12 revision with documented reopen.
+**Legend:** **APPROVED** = binding for current constructive draft (v0.4+) unless §12 revision with documented reopen.
 
 ---
 
@@ -136,19 +136,65 @@
 
 ---
 
-## Phase 6.9 — OPEN decisions (CCRP adoption & canon language)
+## MD-07 — Preservation of inherited revelation (Phase 6.10)
 
-**Status:** **MD-07–MD-11** are **not approved**. Full options, matrix, and implementation plan: [ccrp-maintainer-decisions-6-9.md](./ccrp-maintainer-decisions-6-9.md).
+| Field | Content |
+|-------|---------|
+| **Decision ID** | MD-07 |
+| **Maintainer decision** | **APPROVED (Phase 6.10)** — retain **clarified preservation-first** principle (Phase 6.9 option **A/B** hybrid: keep “preserves…where defensible” + explicit **MD-06** / **DR-10** pointer; **not** option **C** “engages only”) |
+| **Approved formulation** | UC seeks to **preserve inherited revelation wherever defensible** through careful textual, historical, linguistic, theological, and interpretive analysis; **defensible** = §2.1 method; strongest defensible **R** ≠ every interpretation in a tradition; honest incompatibility when needed |
+| **Implemented in** | v0.4 §1; [traceability](./unified-covenant-v0.4-traceability.md) |
+| **Does not** | Resolve **DR-10** or close **MD-06** |
 
-| ID | Topic | Status |
-|----|-------|--------|
-| **MD-07** | Preservation-first language (§1 / L-2) | **OPEN** |
-| **MD-08** | Public teaching & worship vs private **R** (L-13) | **OPEN** |
-| **MD-09** | Teaching *taḥrīf* claims while **MD-06** open (L-14) | **OPEN** |
-| **MD-10** | Placement of canon-reception explanation (L-16) | **OPEN** |
-| **MD-11** | CCRP implementation scope & sequencing | **OPEN** |
+---
 
-**MD-01–MD-06** remain **APPROVED** and unchanged.
+## MD-08 — Public teaching, worship, membership (Phase 6.10)
+
+| Field | Content |
+|-------|---------|
+| **Decision ID** | MD-08 |
+| **Maintainer decision** | **APPROVED (Phase 6.10)** — **accurate and honest official teaching** minimum (Phase 6.9 option **1**); **no** universal worship affirmation test; **no** comprehensive belief test for membership in this phase |
+| **Approved formulation** | Official teachers/representatives present UC **H**/**B** accurately, acknowledge major **R** disagreements without misrepresenting J/C/I; distinguish official doctrine / accurate presentation / worship / personal belief / permissible dissent; future worship requirements need separate **MD** |
+| **Implemented in** | v0.4 §7.3; [ccrp-adopted.md](./ccrp-adopted.md) §5 |
+| **Does not** | Prohibit future shared worship development |
+
+---
+
+## MD-09 — Teaching contested *taḥrīf* / preservation (Phase 6.10)
+
+| Field | Content |
+|-------|---------|
+| **Decision ID** | MD-09 |
+| **Maintainer decision** | **APPROVED (Phase 6.10)** — comparative teaching + rigorous **SD-*** assessment + **continued deferral** of final **B** (Phase 6.9 options **1+2**, **not** option **3** defer-**B** without analysis) |
+| **Approved formulation** | Fair **R** diversity; split textual variation / translation / interpretation / theology; state evidential limits; accurate objections; **no** implied **B** on preservation while **MD-06** open |
+| **Implemented in** | v0.4 §11; CCRP pedagogy clause |
+| **Does not** | Close **MD-06** or **DR-10** |
+
+---
+
+## MD-10 — Canon-reception explanation placement (Phase 6.10)
+
+| Field | Content |
+|-------|---------|
+| **Decision ID** | MD-10 |
+| **Maintainer decision** | **APPROVED (Phase 6.10)** — Declaration concise note + constitutional detail + glossary (Phase 6.9 options **1+2+3** combined) |
+| **Approved formulation** | “Receive” = canonical **witnesses** under **CCRP**; layer-specific function; **not** every **R** inspiration/inerrancy/*taḥrīf* claim; UC recognition **≠** source traditions’ recognition of UC interpretation |
+| **Implemented in** | v0.4 Declaration; §5.3.2; [glossary-unified-covenant.md](./glossary-unified-covenant.md) |
+| **Protected file** | [THE_UNIFIED_COVENANT.md](../THE_UNIFIED_COVENANT.md) **not** edited |
+
+---
+
+## MD-11 — CCRP adoption scope (Phase 6.10)
+
+| Field | Content |
+|-------|---------|
+| **Decision ID** | MD-11 |
+| **Maintainer decision** | **APPROVED (Phase 6.10)** — **minimal complete working procedure** with safeguards (Phase 6.9 option **2**, aligned with QA-revised 6.7 package) |
+| **Approved formulation** | Full **RS-***, **SD-***, steps 1–6, outcomes, deadlock, anti-circularity, reasoned challenge; separate from unresolved theology |
+| **Implemented in** | [ccrp-adopted.md](./ccrp-adopted.md); v0.4 §5.3; [ccrp-validation-6-10.md](./ccrp-validation-6-10.md) |
+| **History** | [ccrp-revision-proposal-6-7.md](./ccrp-revision-proposal-6-7.md) · [ccrp-proposal-qa-6-8.md](./ccrp-proposal-qa-6-8.md) remain **unadopted** as standalone proposals |
+
+**Phase 6.9 option archive:** [ccrp-maintainer-decisions-6-9.md](./ccrp-maintainer-decisions-6-9.md) (options **OPEN** at publication; **superseded** by this section for authority).
 
 ---
 
@@ -163,4 +209,4 @@
 
 ---
 
-*Phase 6.3 recommendations remain in table history. **APPROVED** rulings are implemented in [unified-covenant-v0.3.md](./unified-covenant-v0.3.md)—not scholarly consensus.*
+*Phase 6.3 recommendations remain in table history. **APPROVED** rulings are implemented in [unified-covenant-v0.4.md](./unified-covenant-v0.4.md) (v0.3 preserved)—not scholarly consensus.*
