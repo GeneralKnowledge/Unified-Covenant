@@ -1,0 +1,115 @@
+# Unified Covenant v0.2 — Decision Log
+
+**Purpose:** Audit trail from [unified-covenant-v0.1.md](./unified-covenant-v0.1.md) to [unified-covenant-v0.2.md](./unified-covenant-v0.2.md).
+
+**Review basis:** [unified-covenant-review-6-1.md](./unified-covenant-review-6-1.md) (PR #12).
+
+**Legend — criticism disposition:** **Accepted** | **Partially accepted** | **Rejected**
+
+---
+
+## 1. Identity and direction
+
+| Change | Review prompt | Disposition | Reasoning | New B commitments |
+|--------|---------------|-------------|-----------|-------------------|
+| Primary identity → **genuinely unified religion** | Test 3; author decision before v0.2 | **Accepted** (Phase 6.2 spec) | v0.1 Part II “without replacing Judaism…” fits identity 2; Phase 6.2 **explicitly** chooses religion | Declaration of faith §5; membership conversion §9 |
+| Preserve revelation priority | §2 governing direction | **Accepted** | Operationalized §2 sequence + §4 priority | Reconciliation attempts in UC-C docket |
+
+---
+
+## 2. Classification system
+
+| Change | Review prompt | Disposition | Reasoning |
+|--------|---------------|-------------|-----------|
+| Introduce **H — Historical baseline** | Test 1; UC-06 audit | **Accepted** | Conv. §9a: historian convergence ≠ interfaith creed |
+| Narrow **A** to motifs | UC-01–07 audits; objection 7 | **Accepted** | Prevents “seven religions agree” presentation |
+| Retain **B**, **C** with expanded docket | — | **Accepted** | Traceability to v0.1 UC-C01–06 |
+
+---
+
+## 3. Principle-by-principle changes
+
+| ID | v0.1 issue | Disposition | v0.2 action | Evidence |
+|----|------------|-------------|-------------|----------|
+| **UC-01** | Too thin; Level A misleading (Persp. A–C, E) | **Partially accepted** | Split **A** motif + **B** One Sovereign (anti-*shirk*, covenant-active God) | Conv. §1; matrix § A1; UC-C01 |
+| **UC-02** | Grounds differ (conv. §4) | **Accepted** | Split **A** + **B** binding ethics | Conv. §§4, 7 |
+| **UC-03** | Mercy vocabulary not equivalent | **Accepted** | Split **A** + **B**; no lexical equivalence claim | Matrix § I; audit § D |
+| **UC-04** | Motif vs law | **Accepted** | Split **A** + **B** | Ch.1 merge candidates |
+| **UC-05** | Jesus/Muhammad flattening | **Accepted** | Narrow **A** to Hebrew prophetic idiom; **B** distinct roles | Conv. §3; review UC-05 |
+| **UC-06** | Level A classification defect | **Accepted** | **Reclassified to H**; scope rules §3–4 | `jesus-crucifixion-pilate`; review Priority 1 |
+| **UC-07** | Bracketing not shared creed | **Accepted** | Split **A** motifs + **B** substantive eschatology (not v0.1 silence) | Review UC-07; conv. §7 |
+| **UC-08** | No priority rules; Part III mis-tag | **Accepted** | **B** expanded §4; **fixed** mis-tag (Part III v0.1 listed UC-08 as A) | Review Perspective E, F |
+| **UC-09** | Library = neutral common ground | **Accepted** | **B** Unified Canon **hierarchy** | Review §3.8; conv. §5 |
+| **UC-10** | Modern liberty vs history | **Partially accepted** | Split **A** historical coexistence + **B** modern non-coercion (disclosed) | Conv. §10a; Ch.4 § H |
+| **UC-11** | Ethics/authority conflation | **Accepted** | Explicit inherited vs UC ethics §9 / UC-11 | Review §3.7 |
+| **UC-12** | No real revision governance | **Accepted** | §10 procedure + maintainer interim authority | Review §3.10; Priority 2 |
+
+---
+
+## 4. Level C docket decisions
+
+| ID | Reconciliation outcome in v0.2 | Maintainer approval needed? | Deferred? |
+|----|------------------------------|----------------------------|-----------|
+| **UC-C01** | **Irreconcilable** (metaphysics); UC **non-Nicene B** | **Yes** — Trinity boundary | No |
+| **UC-C02** | **Provisionally reconciled** (H crucifixion + B vindication / purpose read of 4:157) | **Yes** — 4:157 wording | Research: Q. 4:157 exegesis gap |
+| **UC-C03** | **Provisionally reconciled** via UC-09 hierarchy | **Yes** — canon order | No |
+| **UC-C04** | **Provisionally reconciled** (series seal) | **Yes** | No |
+| **UC-C05** | **Irreconcilable** exclusive claims; UC **new community B** | Partial | Council design deferred |
+| **UC-C06** | **Unresolved** theological *taḥrīf*; **H** variants only | No ruling requested | Text-critical module |
+
+---
+
+## 5. Membership and governance
+
+| Criticism | Disposition | v0.2 response |
+|-----------|-------------|---------------|
+| Membership under-specified (Persp. F) | **Accepted** | §9 essential vs open; associate vs member |
+| Historical lane binding unclear | **Accepted** | §4.2: **H** binds UC history teaching; **R** in confessional register |
+| Revision deadlock | **Accepted** | §10.2 freeze + dual-record |
+| Maintainer vs future council | **Accepted** | §9.5 interim; §10.5 threshold |
+
+---
+
+## 6. Rejected or deferred review items
+
+| Item | Disposition | Reason |
+|------|-------------|--------|
+| Demote **UC-06** historical fact itself | **Rejected** | Registry + Ch.3 support crucifixion; issue was **labelling**, not fact (review taxonomy) |
+| Make UC **Nicene** to satisfy Christians | **Rejected** | Would abandon *tawḥīd*/Jewish unity preservation goal; recorded as UC-C01 cost |
+| Remove **H** crucifixion to satisfy literal 4:157 | **Rejected** | Would violate §3 H integrity and conv. §9a |
+| Full **taḥrīf** adjudication now | **Deferred** | Evidence gap (matrix; audit § Remaining gaps) |
+
+---
+
+## 7. Contradictions remaining unresolved
+
+1. Same-narrative **Gospel passion** vs. **literal Q. 4:157** — **irreconcilable** without eisegesis (UC admits cost).
+2. **Nicene Trinity** vs. UC **One Sovereign** — **irreconcilable** as same-sense doctrine.
+3. **Exclusive covenant community** claims — **irreconcilable**; UC chooses **new community**.
+4. **Theological taḥrīf** — **unresolved** in UC constitution.
+
+---
+
+## 8. Sources
+
+| Category | Detail |
+|----------|--------|
+| **Repository sources used** | All files listed in v0.2 header; no chronicle edits |
+| **New external sources added** | **None** (Phase 6.2 did not add registry entries; Q. 4:157 addendum deferred to 6.3) |
+| **Research gaps unchanged** | Post-70 rabbinic depth; Nicene; 4:157 academic catalog; *ḥesed*/*raḥma*/grace lexicon (audit § Remaining gaps) |
+
+---
+
+## 9. New religious commitments introduced (summary)
+
+- One Sovereign God (**B**) with anti-*shirk* and covenant-active divine character.
+- Unified Canon **hierarchy** (**B**).
+- UC **prophetic role differentiation** and **series finality** (**B**, provisional).
+- UC **Christology** (Anointed, vindication) (**B**, provisional).
+- **Binding** ethics beyond motifs (**B**).
+- **Eschatological** judgment/resurrection hope (**B**).
+- **Conversion-style membership** with essential doctrines.
+
+---
+
+*Phase 6.2 decision log — for maintainer audit alongside v0.2.*
