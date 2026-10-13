@@ -209,17 +209,21 @@
 
 ---
 
-## MD-12 — Atonement and cross meaning (Phase 7.1 — **OPEN**)
+## MD-12 — Atonement and cross meaning (Phase 7.1 / 7.5 — **APPROVED — Option A**)
 
 | Field | Content |
 |-------|---------|
 | **Decision ID** | MD-12 |
-| **Status** | **OPEN** |
+| **Status** | **APPROVED — Option A** |
+| **Approved scope** | Editorial clarification of existing **DR-04** vindication **B** only — **no new DR** |
 | **Question** | UQ-03 — clarify or extend **B** on cross meaning beyond **DR-04** vindication |
+| **Decision** | **Option A** (vindication-only clarification); Options **B** / **C** **not** adopted |
+| **Implementation** | [unified-covenant-v0.4.1.md](./unified-covenant-v0.4.1.md) · [unified-covenant-v0.4.1-traceability.md](./unified-covenant-v0.4.1-traceability.md) |
+| **MD-02** | **Not reopened** |
+| **Remaining open** | **UQ-03** detailed atonement mechanics (**C**); **MD-13** liturgy separate |
 | **Evidence** | [phase-7-1-atonement-and-cross-meaning.md](../research/phase-7-1-atonement-and-cross-meaning.md) · [phase-7-1-atonement-options.md](../research/phase-7-1-atonement-options.md) |
 | **Docket** | [maintainer-docket-7-1-atonement.md](./maintainer-docket-7-1-atonement.md) |
-| **Contingent drafts** | [phase-7-2-contingent-amendments.md](./phase-7-2-contingent-amendments.md) |
-| **Maintainer decision** | **_(pending)_** |
+| **Contingent record** | [phase-7-2-contingent-amendments.md](./phase-7-2-contingent-amendments.md) |
 
 ---
 
@@ -232,9 +236,9 @@
 | **Question** | UQ-02 — gathering, prayer shape, calendar **B** within **MD-08** |
 | **Evidence** | [phase-7-3-liturgy-and-calendar-sketch.md](../research/phase-7-3-liturgy-and-calendar-sketch.md) |
 | **Docket** | [maintainer-docket-7-3-liturgy.md](./maintainer-docket-7-3-liturgy.md) |
-| **Dependency** | **MD-12** recommended first |
+| **Dependency** | **MD-12** Option A **closed**; liturgy still awaits **MD-13** |
 | **Maintainer decision** | **_(pending)_** |
 
 ---
 
-*Phase 6.3 recommendations remain in table history. **APPROVED** rulings are implemented in [unified-covenant-v0.4.md](./unified-covenant-v0.4.md) (v0.3 preserved)—not scholarly consensus.*
+*Phase 6.3 recommendations remain in table history. **APPROVED** rulings **MD-01–MD-11** are in [unified-covenant-v0.4.md](./unified-covenant-v0.4.md) (preserved); **MD-12 Option A** in [unified-covenant-v0.4.1.md](./unified-covenant-v0.4.1.md) (current constructive draft)—not scholarly consensus.*

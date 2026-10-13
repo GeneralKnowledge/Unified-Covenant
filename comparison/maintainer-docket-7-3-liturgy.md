@@ -15,9 +15,9 @@
 | **Decision ID** | MD-13 |
 | **Status** | **OPEN** |
 | **Question** | What **binding B** (if any) defines UC **gathering**, **prayer shape**, and **annual calendar** without violating **MD-08**? |
-| **Current v0.4** | §1 coherent worship; §8 calendar **C** |
+| **Current draft** | [v0.4.1](./unified-covenant-v0.4.1.md) — §1 coherent worship; §8 calendar **C** |
 | **Alternatives** | **1:** Shared Abrahamic script. **2:** Layer-rotating liturgy. **3:** Minimal covenant assembly (+ optional **G** lectionary only) |
-| **Dependency** | **MD-12** outcome (atonement language in NT week / memorial) |
+| **Dependency** | **MD-12** **closed (Option A)** — atonement **editorial** clarity in v0.4.1; liturgy **B** still requires **MD-13** |
 | **Maintainer decision** | **_(pending)_** |
 | **If APPROVED** | **§12**; possible **DR-14** practice row; update v0.4 or v0.5 §8 |
 

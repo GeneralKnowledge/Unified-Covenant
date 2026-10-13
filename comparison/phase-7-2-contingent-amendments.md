@@ -1,23 +1,25 @@
-# Phase 7.2 — Contingent amendments (pending MD-12)
+# Phase 7.2 — Contingent amendments (MD-12)
 
-**Status:** Draft text only. **Not** in force. **Do not merge** into v0.4/v0.5 until maintainer approves **MD-12**.
+**Status:** **Option A implemented** in [unified-covenant-v0.4.1.md](./unified-covenant-v0.4.1.md) (Phase 7.5, **MD-12 APPROVED — Option A**). **Options B and C remain unapproved** — drafts below are **historical / conditional only**; **not** UC doctrine.
 
-**Trigger:** [maintainer-docket-7-1-atonement.md](./maintainer-docket-7-1-atonement.md)
+**Docket:** [maintainer-docket-7-1-atonement.md](./maintainer-docket-7-1-atonement.md)
 
 ---
 
 ## Implementation matrix
 
-| MD-12 choice | Target document | New MD? | **MD-02** reopen? |
-|--------------|-----------------|---------|-------------------|
-| **A** | v0.4.x (§4.5, §9, §13) | **No** | **No** |
-| **B** | [unified-covenant-v0.5.md](./unified-covenant-v0.5.md) (create on approval) | **MD-12** | **Memo required** |
-| **C** | v0.4.x (§13, §5.3 pedagogy note) | **No** (optional **G** memo) | **No** |
-| **DEFER** | None | — | — |
+| MD-12 choice | Target document | New MD? | **MD-02** reopen? | Repository state |
+|--------------|-----------------|---------|-------------------|------------------|
+| **A** | v0.4.1 (§4.5, §9, §13) | **No** | **No** | **Implemented** |
+| **B** | [unified-covenant-v0.5.md](./unified-covenant-v0.5.md) (create on approval) | **MD-12** | **Memo required** | **Not approved — do not implement** |
+| **C** | v0.4.x (§13, §5.3 pedagogy note) | **No** (optional **G** memo) | **No** | **Not selected — do not implement** |
+| **DEFER** | None | — | — | Superseded by Option A approval |
 
 ---
 
-## § A — Option A draft (vindication-only clarification)
+## § A — Option A (implemented in v0.4.1)
+
+**Authority:** Maintainer **MD-12 Option A**. Text below matches the adopted clarifications; **v0.4.1** is authoritative.
 
 ### §4.5 addendum (after “Defined terms” table)
 
@@ -27,15 +29,17 @@
 
 > **Forgiveness and the cross:** Personal **forgiveness** is **not** asserted to occur **by mechanism X** disclosed in UC **B**; the **Anointed’s** passion and **vindication** **model** trust under affliction and **ground hope** that God **vindicates** the faithful, without requiring Nicene or substitutionary **R** formulas.
 
-### §13 UQ-03 row (after MD-12 Option A)
+### §13 UQ-03 row (v0.4.1)
 
 | ID | Question | Importance | Evidence needed |
 |----|----------|------------|-----------------|
-| UQ-03 | Detailed atonement mechanics | Christology | **Closed as C-with-clarity** — see §4.5 bracket |
+| UQ-03 | Detailed atonement mechanics remain open (**C**); UC’s binding teaching is limited to **DR-04** vindication and the clarifications in §§4.5 and 9 | Christology | Further research and an explicit future maintainer decision if additional doctrine is proposed |
 
 ---
 
-## § B — Option B draft (representative suffering **B** → v0.5)
+## § B — Option B draft (**unapproved** — representative suffering **B** → v0.5)
+
+**Do not merge.** Preserved for maintainer reference only.
 
 ### New §4.7 (v0.5)
 
@@ -55,7 +59,9 @@
 
 ---
 
-## § C — Option C draft (explicit **C** + **G** teaching)
+## § C — Option C draft (**unselected** — explicit **C** + **G** teaching)
+
+**Do not merge.** Preserved for maintainer reference only.
 
 ### §13 replacement row for UQ-03
 
@@ -73,10 +79,12 @@
 
 | Item | State |
 |------|-------|
-| **MD-12** | **OPEN** |
-| v0.4 / v0.5 | **Unchanged** until maintainer acts |
-| Traceability | Update [unified-covenant-v0.4-traceability.md](./unified-covenant-v0.4-traceability.md) or v0.5 traceability **after** approval |
+| **MD-12** | **APPROVED — Option A** |
+| **Current constructive draft** | [unified-covenant-v0.4.1.md](./unified-covenant-v0.4.1.md) |
+| [unified-covenant-v0.4.md](./unified-covenant-v0.4.md) | **Preserved** (pre–Option A) |
+| Traceability | [unified-covenant-v0.4.1-traceability.md](./unified-covenant-v0.4.1-traceability.md) |
+| Options B / C | **Unapproved** — drafts only in § B / § C above |
 
 ---
 
-*Contingent amendments — drafts only.*
+*Contingent amendments — Option A in force in v0.4.1; B/C historical.*
