@@ -112,4 +112,19 @@
 
 ---
 
-*Phase 6.2 decision log — for maintainer audit alongside v0.2.*
+## 10. Phase 6.3 research append (stress-test)
+
+| Finding | Source module | Proposed correction (not adopted until maintainer) |
+|---------|---------------|---------------------------------------------------|
+| Missing **§12** in v0.2 | Structural audit | Created [decision docket](./unified-covenant-v0.2-decision-docket.md); v0.2 pointers updated |
+| UC-C02 “provisionally reconciled” overstates Muslim/Christian **R** alignment | [phase-6-3-quran-4-157.md](../research/phase-6-3-quran-4-157.md) | Reclassify as **B synthesis**; MD-02 **OPEN** |
+| 4:157 vindication read = **novel UC**, partial 4:158 precedent only | Same | Decision log **rejects** claim of strong classical precedent |
+| UC-09 + Judaism oral Torah | [phase-6-3-rabbinic-judaism-and-covenant.md](../research/phase-6-3-rabbinic-judaism-and-covenant.md) | Proposed UC-09 disclaimer; MD-03 **OPEN** |
+| UC-C04 series finality ≠ dominant Islamic seal doctrine | [phase-6-3-canon-and-prophetic-finality.md](../research/phase-6-3-canon-and-prophetic-finality.md) | MD-04 **OPEN** |
+| Nicene ≠ economic Trinity shortcut | [phase-6-3-christology-and-divine-unity.md](../research/phase-6-3-christology-and-divine-unity.md) | Supports MD-01 non-Nicene **B** with cost |
+
+**Full audit:** [unified-covenant-v0.2-review-6-3.md](./unified-covenant-v0.2-review-6-3.md)
+
+---
+
+*Phase 6.2 decision log — Phase 6.3 append for maintainer audit alongside v0.2.*

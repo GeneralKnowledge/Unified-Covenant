@@ -430,3 +430,122 @@ notes: >
   intent remain contested; chronicle does not adjudicate.
 related_ledger: Direct disagreements §2; Matrix theme E crucifixion row
 ```
+
+### `mevorach-q4-157-2023`
+
+```yaml
+id: mevorach-q4-157-2023
+claim: A detailed linguistic and contextual analysis of Qur'an 4:157 argues that the verse has long been read as denying Jesus' crucifixion and that alternative readings face serious textual and contextual obstacles; surveys classical substitution tafsīr.
+status: widely-accepted interpretation
+period: 2023 publication; Qur'an text 7th century CE
+sources:
+  - Daniyal Mevorach, "The Non-Crucifixion Verse: A Historical, Contextual, and Linguistic Analysis," American Journal of Islam and Society (2023), https://ajis.org/index.php/ajiss/article/view/3143
+notes: >
+  Phase 6.3 module uses this for semi-consensus denial thesis and critique of minority re-readings.
+  Full article not line-verified in agent session; bibliographic URL verified reachable.
+related_ledger: research/phase-6-3-quran-4-157.md; UC-C02
+```
+
+### `lawson-crucifixion-quran`
+
+```yaml
+id: lawson-crucifixion-quran
+claim: Todd Lawson's research on Qur'an 4:157 documents diverse tafsīr (substitution, denial, agency-focused readings) and argues the Qur'an's wording does not by itself equate to all later Muslim doctrine without exegesis.
+status: contested
+period: 20th–21st century scholarship; Qur'an 7th century CE
+sources:
+  - Todd Lawson, materials on crucifixion and the Qur'an (e.g. introduction/chapters in Lawson's monograph work; PDF excerpt at https://toddlawson.ca/pdf/lawson_crucifixion_quran.pdf)
+notes: >
+  PDF surveyed for Phase 6.3; not every chapter verified. Use for interpretive diversity, not as matrix historical verdict.
+related_ledger: research/phase-6-3-quran-4-157.md
+```
+
+### `reynolds-quran-bible-2018`
+
+```yaml
+id: reynolds-quran-bible-2018
+claim: Gabriel Said Reynolds, The Qur'an and the Bible: Text and Commentary (Yale University Press, 2018), provides parallel biblical-Qur'anic commentary including Q. 4:157 in conversation with Gospel passion narratives.
+status: widely-accepted interpretation
+period: 2018; Qur'an and biblical traditions
+sources:
+  - Gabriel Said Reynolds, The Qur'an and the Bible (New Haven: Yale University Press, 2018)
+notes: >
+  Cited in Mevorach 2023 and Phase 6.3 modules; page-level commentary not re-checked in this phase.
+related_ledger: research/phase-6-3-quran-4-157.md
+```
+
+### `khorchide-von-stosch-4-157-critique-2023`
+
+```yaml
+id: khorchide-von-stosch-4-157-critique-2023
+claim: A 2023 Persian/English academic article critiques Mouhanad Khorchide and Klaus von Stosch's harmonizing reading of Qur'an 4:157 with Gospel accounts, arguing it diverges from the verse's explicit contextual meaning.
+status: contested
+period: 2023
+sources:
+  - "A Critique on Khorchide and Von Stosch's Theory Regarding the Crucifixion of Jesus in the Qur'an," Quran2020 journal, PNU, https://quran2020.journals.pnu.ac.ir/article_12427.html
+notes: >
+  Represents critique of minority harmonizing position; not endorsement of UC synthesis.
+related_ledger: research/phase-6-3-quran-4-157.md
+```
+
+### `nicene-creed-325`
+
+```yaml
+id: nicene-creed-325
+claim: The Creed of Nicaea (325 CE) confesses Jesus Christ as true God from true God, begotten not made, homoousios with the Father, incarnate, suffered, and rose on the third day.
+status: religious-tradition
+period: 325 CE (First Council of Nicaea)
+sources:
+  - Creed text via earlychurchtexts.com (Nicaea 325) and critical edition Giuseppe Luigi Dossetti, Il Simbolo di Nicea e di Constantinopoli (Herder, 1967) — cited at fourthcentury.com
+  - Wolfgang Kinzig, "The Creed of Nicaea," Ecumenical Review (2023), https://onlinelibrary.wiley.com/doi/full/10.1111/erev.12782
+notes: >
+  Post-Ch.3 Christian normative baseline for UC-C01 stress-test. Homoousios nuance per Kinzig — not full later Trinitarian precision in 325 alone.
+related_ledger: research/phase-6-3-christology-and-divine-unity.md; UC-C01
+```
+
+### `friedmann-finality-prophethood`
+
+```yaml
+id: friedmann-finality-prophethood
+claim: Yohanan Friedmann's work argues that the doctrine of Muhammad's finality developed over time and that early understandings of khātama al-nabiyyīn may have differed from later absolute closure of prophecy.
+status: contested
+period: academic 1980s–2000s; Qur'an 33:40
+sources:
+  - Yohanan Friedmann, Prophecy Continuous (Berkeley, 1989) — standard academic reference cited in seal-of-prophets surveys
+notes: >
+  Exact page claims not verified in this phase; use for diversity of finality development, not as Islamic R ruling.
+related_ledger: research/phase-6-3-canon-and-prophetic-finality.md; UC-C04
+```
+
+### `mishnah-avot-1-1-torah-chain`
+
+```yaml
+id: mishnah-avot-1-1-torah-chain
+claim: Mishnah Avot 1:1 presents a chain of transmission from Moses at Sinai through prophets and sages, foundational to rabbinic claims for oral Torah authority alongside written Torah.
+status: religious-tradition
+period: Mishnah compilation traditionally ca. 200 CE; content attributed to earlier sages
+sources:
+  - Mishnah Avot 1:1 (standard editions; e.g. Sefaria translation)
+notes: >
+  Post-chronicle primary for Judaism authority module; not narrated in Ch.1–4.
+related_ledger: research/phase-6-3-rabbinic-judaism-and-covenant.md; UC-09
+```
+
+### `comparison-phase-6-3-research`
+
+```yaml
+id: comparison-phase-6-3-research
+claim: Phase 6.3 adds specialist research modules and a doctrinal stress-test of Unified Covenant v0.2 without adopting maintainer decisions; creates decision docket MD-01–MD-06.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - research/phase-6-3-quran-4-157.md
+  - research/phase-6-3-christology-and-divine-unity.md
+  - research/phase-6-3-rabbinic-judaism-and-covenant.md
+  - research/phase-6-3-canon-and-prophetic-finality.md
+  - comparison/unified-covenant-v0.2-review-6-3.md
+  - comparison/unified-covenant-v0.2-decision-docket.md
+notes: >
+  Does not edit chronicle, matrix, or v0.1; minimal v0.2 edit for §12/docket pointer correction only.
+related_ledger: Phase 6.3 final report
+```
