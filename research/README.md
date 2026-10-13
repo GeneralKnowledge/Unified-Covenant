@@ -65,3 +65,11 @@ QA-revises [6.7 proposal](../comparison/ccrp-revision-proposal-6-7.md) and [cano
 | Glossary | [../comparison/glossary-unified-covenant.md](../comparison/glossary-unified-covenant.md) |
 
 **Approved:** **MD-07–MD-11** in [decision docket](../comparison/unified-covenant-v0.2-decision-docket.md). **MD-06** / **DR-10** remain **C**.
+
+## Phase 6.11 (CCRP semantics audit)
+
+| Module | File |
+|--------|------|
+| Regression audit | [../comparison/ccrp-validation-6-11.md](../comparison/ccrp-validation-6-11.md) |
+
+Procedural clarification only — [ccrp-adopted.md](../comparison/ccrp-adopted.md) §1, §3.
