@@ -34,14 +34,24 @@ Verification level for a cited source in CCRP step 4. **Reading ≠ endorsement.
 
 ## Ruling status (**RS-***)
 
-Per **sub-question** at CCRP opening.
+Per **sub-question** at CCRP opening. **Not** determined by listing **MD-01–MD-11** globally—apply the **scope test** in [ccrp-adopted.md §1.2](./ccrp-adopted.md#12-how-to-assign-rs-scope-test).
 
 | Code | Meaning |
 |------|---------|
-| **RS-1** | Settled **B** or **H**—outcome not re-adjudicated; evidence still reviewed |
-| **RS-2** | Settled **open (C)**—no new **B** without **§12** reopen |
-| **RS-3** | Reopen candidate—freeze new **B** pending **§12** |
-| **RS-4** | Unaddressed—full CCRP allowed |
+| **RS-1** | **Applicable** decision/register entry establishes **B** or **H** **for this sub-question’s scope** |
+| **RS-2** | Decision **explicitly leaves** sub-question **open (C)** (e.g. **MD-06**, **DR-10**) |
+| **RS-3** | Reopening active—freeze new **B** on that sub-question |
+| **RS-4** | No applicable settled outcome or open reservation |
+
+## Decision authority vs evidence (**3A / 3B / 3C**)
+
+| Layer | Role |
+|-------|------|
+| **3A** | Which **MD**/**DR**/**§** governs; scope; reopen—**project authority** |
+| **3B** | **SD-*** codes on sources used to support **H** or **R** claims |
+| **3C** | Argument, counterevidence, uncertainty |
+
+**MD**/**DR** text is **not** **SD-PRI** for the subject matter of the decision (except narrow “what UC decided” documentary questions).
 
 ---
 

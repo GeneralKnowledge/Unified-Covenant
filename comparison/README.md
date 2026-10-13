@@ -66,7 +66,8 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 | [unified-covenant-v0.4-traceability.md](./unified-covenant-v0.4-traceability.md) | Phase 6.10 traceability (v0.4) |
 | [ccrp-adopted.md](./ccrp-adopted.md) | **Adopted** Canon Conflict Resolution Procedure (Phase 6.10) |
 | [glossary-unified-covenant.md](./glossary-unified-covenant.md) | Terminology glossary (MD-10) |
-| [ccrp-validation-6-10.md](./ccrp-validation-6-10.md) | Phase 6.10 adversarial + procedural validation |
+| [ccrp-validation-6-10.md](./ccrp-validation-6-10.md) | Phase 6.10 adversarial validation (historical) |
+| [ccrp-validation-6-11.md](./ccrp-validation-6-11.md) | Phase 6.11 RS/evidence regression audit |
 | [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) | **Phase 6.2:** Audit trail from v0.1 to v0.2 (review dispositions, new commitments, open conflicts) |
 | [unified-covenant-v0.2-decision-docket.md](./unified-covenant-v0.2-decision-docket.md) | Maintainer decisions **MD-01–MD-11** (APPROVED); Phase 6.3 history retained |
 | [unified-covenant-v0.2-review-6-3.md](./unified-covenant-v0.2-review-6-3.md) | **Phase 6.3:** Doctrinal stress-test audit of v0.2 |
@@ -99,7 +100,7 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 - **[unified-covenant-v0.1.md](./unified-covenant-v0.1.md)** — first constitution-style synthesis (exploratory pact); classification labels **A / B / C** as in v0.1.
 - **[unified-covenant-v0.4.md](./unified-covenant-v0.4.md)** — **current** constructive draft (Phase 6.10): **MD-01–MD-11**, [adopted CCRP](./ccrp-adopted.md), canon-reception language (**MD-10**), teaching minimums (**MD-08**), *taḥrīf* pedagogy (**MD-09**). **[v0.3](./unified-covenant-v0.3.md)** and **[v0.2](./unified-covenant-v0.2.md)** preserved.
 
-See [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) §13 for Phase 6.10. **Phase 6.5–6.6** [taḥrīf research](../research/phase-6-5-tahrif-and-scriptural-preservation.md) and [CCRP stress test](./ccrp-stress-test-6-6.md) inform procedure; **MD-06** / **DR-10** remain **C — open**. **Phase 6.7–6.8** [proposal](./ccrp-revision-proposal-6-7.md) and [QA](./ccrp-proposal-qa-6-8.md) are **historical** inputs to adoption, not standalone authority. **Phase 6.9** [docket archive](./ccrp-maintainer-decisions-6-9.md) records options; **MD-07–MD-11** approved in [decision docket](./unified-covenant-v0.2-decision-docket.md). **Phase 6.10** [validation](./ccrp-validation-6-10.md) re-tests five adversarial cases plus circularity and deadlock.
+See [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) §13 for Phase 6.10. **Phase 6.5–6.6** [taḥrīf research](../research/phase-6-5-tahrif-and-scriptural-preservation.md) and [CCRP stress test](./ccrp-stress-test-6-6.md) inform procedure; **MD-06** / **DR-10** remain **C — open**. **Phase 6.7–6.8** [proposal](./ccrp-revision-proposal-6-7.md) and [QA](./ccrp-proposal-qa-6-8.md) are **historical** inputs to adoption, not standalone authority. **Phase 6.9** [docket archive](./ccrp-maintainer-decisions-6-9.md) records options; **MD-07–MD-11** approved in [decision docket](./unified-covenant-v0.2-decision-docket.md). **Phase 6.10** [validation](./ccrp-validation-6-10.md) · **Phase 6.11** [regression audit](./ccrp-validation-6-11.md) (RS scope + evidence provenance).
 
 ## What comparison phases do not do
 

@@ -1,8 +1,10 @@
 # Phase 6.10 — CCRP validation (adopted procedure)
 
-**Status:** Worked examples against [ccrp-adopted.md](./ccrp-adopted.md) / [unified-covenant-v0.4.md](./unified-covenant-v0.4.md). **Not** new doctrine.
+**Status:** Worked examples from Phase 6.10. **Not** new doctrine.
 
-**Baseline:** Phase 6.6 cases **re-tested** with **RS-***, **SD-***, **MD-07–MD-11** in force.
+**Semantics update:** RS scope and evidence provenance were corrected in Phase 6.11 — see [ccrp-validation-6-11.md](./ccrp-validation-6-11.md) for authoritative re-run. Test **4** below reflects the **pre-6.11** wording error (**SD-PRI** on **MD**); do **not** use that evidence rule.
+
+**Baseline:** Phase 6.6 cases re-tested with **RS-***, **SD-***, **MD-07–MD-11** in force (6.10 adoption).
 
 ---
 
@@ -54,9 +56,9 @@
 
 **Sub-questions:** (q1) Q 33:40 dominant **R**; (q2) UC seal of **canonical series** (**RS-1** **B** DR-08).
 
-**Procedure:** Step 4 glossary cross-ref “seal”; step 5 cites **MD-04**; **SD-PRI** on **MD** text.
+**Procedure (6.10 text — superseded):** Step 5 cited **MD-04** with **SD-PRI** on MD — **incorrect** (confuses **3A** with **3B**). **Corrected (6.11):** **3A** = **MD-04**/**DR-08**; **3B** = Q 33:40 + scholarship **SD-*** for **R** survey.
 
-**Outcome:** **B** clearly **new UC doctrine**, not dominant Islamic **R**.
+**Outcome:** **B** clearly **new UC doctrine**, not dominant Islamic **R** (unchanged substantive expectation).
 
 ---
 
