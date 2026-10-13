@@ -4,15 +4,25 @@
 
 ---
 
-## Claim classes
+## Four dimensions (CCRP — Phase 6.13)
+
+Do **not** conflate: **(1) claim class** of the proposition examined · **(2) RS status** · **(3) RS-1 outcome kind** · **(4) 3A/3B/3C** evidence. See [ccrp-adopted.md §0](./ccrp-adopted.md#0-four-dimensions-do-not-conflate).
+
+---
+
+## Claim classes (proposition under examination)
 
 | Term | Meaning |
 |------|---------|
-| **H** | Historical baseline—past events, manuscript facts, composition history where evidence supports |
+| **H** | Historical proposition—past events, manuscripts, composition (evidence via **3B**) |
 | **R** | Inherited religious claim within Judaism, Christianity, or Islam |
-| **A** | Motif convergence across traditions (not bibliographic “abstract”) |
-| **B** | Unified Covenant binding doctrine or procedure for members |
-| **C** | Contested / unresolved in UC |
+| **A** | Motif convergence (not bibliographic “abstract”) |
+| **B** | **Substantive** UC doctrine proposed or adopted **on merits** (membership creed, §14 essentials, etc.) |
+| **C** | Substantive UC question **left open** |
+
+**Governance questions** (must UC follow CCRP? must teachers present **R** fairly? which **SD-*** for pedagogy?) are **not** a sixth letter class on **H/R** truth—they are **institutional** sub-questions. When settled, they use **RS-1** with outcome kind **G**, not **B** on preservation theology or **H** on history.
+
+**Register class vs outcome kind:** v0.4 may label **MD-07**–**MD-10** with constitutional **B** wording while CCRP assigns **G** to the operational sub-question—see [traceability](./unified-covenant-v0.4-traceability.md) MD table.
 
 ---
 
@@ -98,4 +108,4 @@ Comparative instruction on preservation, alteration, and interpretation across t
 
 ---
 
-*Phase 6.10. See [unified-covenant-v0.4-traceability.md](./unified-covenant-v0.4-traceability.md) for doctrine IDs.*
+*Updated through Phase 6.13. See [unified-covenant-v0.4-traceability.md](./unified-covenant-v0.4-traceability.md) for doctrine IDs.*

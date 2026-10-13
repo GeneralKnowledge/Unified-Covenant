@@ -4,7 +4,7 @@
 
 **History (not in force):** [ccrp-revision-proposal-6-7.md](./ccrp-revision-proposal-6-7.md) · [ccrp-proposal-qa-6-8.md](./ccrp-proposal-qa-6-8.md) · [ccrp-stress-test-6-6.md](./ccrp-stress-test-6-6.md)
 
-**Validation:** [ccrp-validation-6-10.md](./ccrp-validation-6-10.md) · [ccrp-validation-6-11.md](./ccrp-validation-6-11.md) · [ccrp-validation-6-12.md](./ccrp-validation-6-12.md) (RS outcome kinds — Phase 6.12)
+**Validation:** [ccrp-validation-6-10.md](./ccrp-validation-6-10.md) · [ccrp-validation-6-11.md](./ccrp-validation-6-11.md) · [ccrp-validation-6-12.md](./ccrp-validation-6-12.md) · [ccrp-validation-6-13.md](./ccrp-validation-6-13.md) (claim classes vs outcome kinds — Phase 6.13)
 
 **Authoritative procedure:** This file is the **authoritative** CCRP text. [unified-covenant-v0.4.md](./unified-covenant-v0.4.md) §5.3 is a **summary** kept in sync with this document.
 
@@ -13,6 +13,21 @@
 ## Anti-circularity
 
 The Constitution **cannot** settle a scriptural dispute by citing **only** its own supremacy clause. UC **B** text is **not** independent proof of historical **H** or inherited **R** claims. **Decision authority** (what UC has decided) **≠** **evidence provenance** (what sources support **H** or **R** claims about the world or traditions).
+
+---
+
+## 0. Four dimensions (do not conflate)
+
+Every sub-question in a CCRP run must be readable on **four separate axes**:
+
+| Dimension | Question | Values (this repo) |
+|-----------|----------|-------------------|
+| **A — Claim class** | What **kind of proposition** is under examination? | **H**, **R**, **B** (proposed/adopted UC doctrine on merits), **C** (open UC question), **A** (motif convergence). **Governance questions** (method, procedure, pedagogy, language rules) are **not** a substitute for **H/R/B/C/A** on theological or historical **merits**—they are institutional-rule questions answered with **RS-1** kind **G** when settled. |
+| **B — RS status** | What is the **procedural status** of this sub-question? | **RS-1** … **RS-4** (**§1.1**) |
+| **C — Outcome kind** | If **RS-1**, what **kind of outcome** is already settled? | **B**, **H**, or **G** (**§1.4**). **G is not a claim class** and **does not** establish truth of **H** or **R** claims. |
+| **D — Evidence & inference** | What supports substantive claims? | **3A** authority, **3B** **SD-***, **3C** reasoning (**§3**) |
+
+**Register (step 1):** Record **claim class** (or “governance question”) **and** assign **RS** + **outcome kind** (if **RS-1**) **independently**.
 
 ---
 
@@ -33,14 +48,16 @@ Decompose each dispute into sub-questions **q1…qn**. Assign **one RS code per 
 
 ### 1.2 How to assign RS (scope test)
 
-For each sub-question:
+For **each** sub-question, apply steps **in order** (first match that applies after step 2 governs status):
 
-1. State the sub-question in one sentence (outcome sought, class **H/R/B/C**).  
-2. Locate the **narrowest** governing **MD**, **DR-***, constitutional **§**, or prior **§12** ruling whose **approved scope** matches.  
-3. If that entry’s class for this question is **C**, or the entry **defers** substantive theology (e.g. **MD-06**, **DR-10** on preservation) → **RS-2**.  
-4. If the entry establishes a **substantive B**, **substantive H**, or **binding governance G** for **this exact question** → **RS-1** + outcome kind (**§1.4**).  
-5. If reopening is active on this sub-question → **RS-3**.  
-6. Else → **RS-4**.
+1. **Frame** — One-sentence sub-question; record **claim class** (**H/R/B/C/A**) for **merits**, or label **governance question** if the sub-question is only about UC rules/process/language (**§0**).  
+2. **Locate** — **Narrowest** governing **MD**, **DR-***, **§**, or prior **§12** ruling whose **approved scope** matches. If **none** and the question is governance-only → candidate **RS-4** (no invented **G** authority).  
+3. **Reopen first** — If **§12** reopening is **active** on **this sub-question**, or maintainer has **accepted** a **Reasoned challenge** moving it to reopen → **RS-3** (skip steps 4–6 for status). **Reasoned challenge alone** (not accepted) → **does not** change **RS**; log in step 6.  
+4. **Open substantive** — If governing entry **reserves** this sub-question as **C** (e.g. **MD-06**, **DR-10** on preservation theology) → **RS-2**.  
+5. **Settled** — If governing entry **settles** this sub-question → **RS-1** + **outcome kind** **B**, **H**, or **G** (**§1.4**). Constitutional **B** wording in v0.4 may describe a **method** while **CCRP** classifies the operational requirement as **G**—both can be true on different dimensions (**traceability**).  
+6. **Unaddressed** — Else → **RS-4**.
+
+**Mixed disputes:** **RS-1 G** (“must run CCRP?”) **coexists** with **RS-2** (preservation theology) as **separate sub-questions**—neither determines the other.
 
 **Precedence when sources conflict:** Approved **MD** → Constitution **B/H** text → traceability (audit map only). **Stop** step 5 and publish maintainer reconciliation memo if they disagree.
 
@@ -182,4 +199,4 @@ For each option: state how **3B** sources support the claim, assumptions, interp
 
 ---
 
-*Adopted Phase 6.10; RS/evidence Phase 6.11; RS-1 outcome kinds (B/H/G) Phase 6.12. Maintained in sync with v0.4 §5.3 summary.*
+*Adopted Phase 6.10; RS/evidence Phase 6.11; outcome kinds Phase 6.12; four-dimension model Phase 6.13. Maintained in sync with v0.4 §5.3 summary.*

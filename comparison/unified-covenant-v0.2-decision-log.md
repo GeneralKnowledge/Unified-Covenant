@@ -194,4 +194,17 @@
 
 ---
 
+## 16. Phase 6.13 — Four dimensions & RS algorithm order (procedural only)
+
+| Item | Change |
+|------|--------|
+| **§0** | Claim class vs RS vs outcome kind vs evidence |
+| **§1.2** | **RS-3** evaluated before **RS-1**/**RS-2**; reasoned challenge alone does not change **RS** |
+| **Traceability** | MD-07–11 register class vs CCRP **G** kind documented |
+| **Theology** | Unchanged |
+
+**Deliverable:** [ccrp-validation-6-13.md](./ccrp-validation-6-13.md).
+
+---
+
 *Phase 6.2 decision log — v0.4 is current constructive draft; v0.3 preserved.*
