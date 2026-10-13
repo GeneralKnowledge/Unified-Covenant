@@ -4,7 +4,7 @@
 
 **Supersedes for constructive purposes:** [unified-covenant-v0.1.md](./unified-covenant-v0.1.md) (exploratory pact and principle set; preserved unchanged).
 
-**Decision audit:** [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md)
+**Decision audit:** [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) · **Open maintainer choices:** [unified-covenant-v0.2-decision-docket.md](./unified-covenant-v0.2-decision-docket.md)
 
 **Grounding (comparative layer, not automatically doctrine):** [history/01](../history/01-before-the-branches.md)–[04](../history/04-the-emergence-of-islam.md); [evidence-matrix.md](./evidence-matrix.md); [convergence-assessment.md](./convergence-assessment.md); [convergence-source-audit.md](./convergence-source-audit.md); [unified-covenant-review-6-1.md](./unified-covenant-review-6-1.md) (Phase 6.1 adversarial review).
 
@@ -127,7 +127,7 @@ Each principle lists: **commitment**, **classification**, **rationale**, **relat
 | **Strongest objection** | Trinitarian Christians: UC **misrepresents** Christian God if Trinity is not **essential** membership (review Perspective B). |
 | **Membership** | **Essential:** **B** limb. **A** motif acknowledged in study. |
 | **Dependencies** | UC-C01; UC-07; UC-08 |
-| **Status** | **B provisionally adopted** — maintainer approval flagged for Trinity boundary (§12) |
+| **Status** | **B provisionally adopted** — maintainer approval flagged for Trinity boundary ([Decision Docket MD-01](./unified-covenant-v0.2-decision-docket.md#md-01--trinity-incarnation-and-divine-status-of-jesus-uc-c01-uc-01-b)) |
 
 ### UC-02 — Moral accountability (motif) and accountable life (doctrine)
 
@@ -183,7 +183,7 @@ Each principle lists: **commitment**, **classification**, **rationale**, **relat
 | **Objection** | **J/C/I** each has **non-negotiable** finality/christology unlike UC series model. |
 | **Membership** | **Essential** (**B** prophetic structure) |
 | **Dependencies** | UC-C01, UC-C02, UC-C04 |
-| **Status** | **Provisional** — prophetic finality wording (§12) |
+| **Status** | **Provisional** — prophetic finality wording ([MD-04](./unified-covenant-v0.2-decision-docket.md#md-04--muhammads-prophethood-and-finality-uc-c04-uc-05-b-73)) |
 
 ### UC-06 — Historical baseline: Jesus under Roman authority (H)
 
@@ -235,7 +235,7 @@ Each principle lists: **commitment**, **classification**, **rationale**, **relat
 | **Objection** | Each tradition’s **final/inspired** claim conflicts with UC hierarchy—**by design**. |
 | **Membership** | **Essential** |
 | **Dependencies** | UC-C03, UC-C06 |
-| **Status** | **Provisional** — maintainer approval on hierarchy (§12) |
+| **Status** | **Provisional** — maintainer approval on hierarchy ([MD-03](./unified-covenant-v0.2-decision-docket.md#md-03--unified-canon-authority-hierarchy-uc-09-uc-c03)) |
 
 ### UC-10 — Coexistence: historical motif (A) and civic covenant (B)
 
@@ -540,7 +540,7 @@ When **≥50 adult adherents** and **≥1 year** stability, convene **Constituti
 
 ## Part VIII — Phase 6.3 roadmap (prioritised)
 
-1. **Maintainer decisions** on §12 flagged items (Trinity boundary, canon hierarchy, 4:157 vindication wording).
+1. **Maintainer decisions** on [Decision Docket](./unified-covenant-v0.2-decision-docket.md) items **MD-01–MD-04** (Trinity boundary, canon hierarchy, 4:157/vindication, prophetic finality); see Phase 6.3 research modules in [research/README.md](../research/README.md).
 2. **Specialist addendum:** Q. 4:157 academic exegesis (registry + matrix gap closure).
 3. **Rabbinic/post-70** and **Nicene** supplements for **R** representation quality—not to force consensus.
 4. **Liturgical draft** (covenant entry, readings cycle across Unified Canon).

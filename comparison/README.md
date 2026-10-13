@@ -61,6 +61,12 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 | [unified-covenant-v0.1.md](./unified-covenant-v0.1.md) | **Phase 6 (prior draft):** Unified Covenant v0.1 — exploratory constitution and coexistence pact (superseded for constructive work by v0.2) |
 | [unified-covenant-v0.2.md](./unified-covenant-v0.2.md) | **Phase 6.2 (current constructive proposal):** Unified Covenant v0.2 — theological and constitutional draft of a genuinely unified religion (**not** historically or theologically validated) |
 | [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) | **Phase 6.2:** Audit trail from v0.1 to v0.2 (review dispositions, new commitments, open conflicts) |
+| [unified-covenant-v0.2-decision-docket.md](./unified-covenant-v0.2-decision-docket.md) | **Phase 6.3:** Open maintainer decisions (MD-01–MD-06); recommendations only |
+| [unified-covenant-v0.2-review-6-3.md](./unified-covenant-v0.2-review-6-3.md) | **Phase 6.3:** Doctrinal stress-test audit of v0.2 |
+| [../research/phase-6-3-quran-4-157.md](../research/phase-6-3-quran-4-157.md) | **Phase 6.3:** Q. 4:157 specialist investigation |
+| [../research/phase-6-3-christology-and-divine-unity.md](../research/phase-6-3-christology-and-divine-unity.md) | **Phase 6.3:** Christology and divine unity |
+| [../research/phase-6-3-rabbinic-judaism-and-covenant.md](../research/phase-6-3-rabbinic-judaism-and-covenant.md) | **Phase 6.3:** Rabbinic Judaism, covenant, authority |
+| [../research/phase-6-3-canon-and-prophetic-finality.md](../research/phase-6-3-canon-and-prophetic-finality.md) | **Phase 6.3:** Canon hierarchy and prophetic finality |
 | [unified-covenant-review-6-1.md](./unified-covenant-review-6-1.md) | **Phase 6.1:** Adversarial review of v0.1 (classification, coherence, roadmap—design spec for v0.2) |
 | [../history/README.md](../history/README.md) | Chronicle index (Chapters 1–4) |
 | [../sources/registry.md](../sources/registry.md) | Sample claim registry (expand as comparison matures) |
@@ -78,7 +84,7 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 - **[unified-covenant-v0.1.md](./unified-covenant-v0.1.md)** — first constitution-style synthesis (exploratory pact); classification labels **A / B / C** as in v0.1.
 - **[unified-covenant-v0.2.md](./unified-covenant-v0.2.md)** — **current** constructive draft: an attempt at a **genuinely unified religion**, with revised labels **A / B / H / C**, membership, governance, and a doctrinal decision docket. **Not** validated by scholars or religious authorities; comparative layers (matrix, convergence assessment) remain independent.
 
-See [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) for changes prompted by [unified-covenant-review-6-1.md](./unified-covenant-review-6-1.md).
+See [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) for changes prompted by [unified-covenant-review-6-1.md](./unified-covenant-review-6-1.md). **Phase 6.3** specialist research and [stress-test review](./unified-covenant-v0.2-review-6-3.md) inform the [maintainer decision docket](./unified-covenant-v0.2-decision-docket.md) (not adopted doctrine).
 
 ## What comparison phases do not do
 
