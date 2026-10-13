@@ -622,6 +622,21 @@ notes: >
 related_ledger: research/phase-6-6-source-verification.md
 ```
 
+### `comparison-phase-6-7-ccrp-revision-proposal`
+
+```yaml
+id: comparison-phase-6-7-ccrp-revision-proposal
+claim: Phase 6.7 proposes CCRP procedural revisions and a v0.3 canon-language audit from Phase 6.6 findings; does not adopt changes or alter MD-01–MD-06.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - comparison/ccrp-revision-proposal-6-7.md
+  - comparison/canon-language-audit-6-7.md
+notes: >
+  Traceability DR-10 revision column updated to reference 6.5–6.7; DR-10 class remains C. unified-covenant-v0.3.md not edited.
+related_ledger: Phase 6.7 final report
+```
+
 ### `comparison-phase-6-6-ccrp-stress-test`
 
 ```yaml
