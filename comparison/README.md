@@ -77,6 +77,7 @@ In the **disagreement register**, multi-layer disputes (especially crucifixion/r
 | [maintainer-docket-7-1-atonement.md](./maintainer-docket-7-1-atonement.md) | **MD-12 APPROVED — Option A** (UQ-03 editorial clarification) |
 | [phase-7-2-contingent-amendments.md](./phase-7-2-contingent-amendments.md) | Option A **implemented** in v0.4.1; Options B/C **unapproved** drafts |
 | [maintainer-docket-7-3-liturgy.md](./maintainer-docket-7-3-liturgy.md) | **MD-13 OPEN** — UQ-02 liturgy options |
+| [phase-7-6-md-13-decision-brief.md](./phase-7-6-md-13-decision-brief.md) | Phase 7.6 **MD-13** maintainer decision brief (**not** adopted worship) |
 | [ccrp-case-record-exemplar-worship-canon.md](./ccrp-case-record-exemplar-worship-canon.md) | Phase 7.4 CCRP operational exemplar (**G** only) |
 | [unified-covenant-v0.2-decision-log.md](./unified-covenant-v0.2-decision-log.md) | **Phase 6.2:** Audit trail from v0.1 to v0.2 (review dispositions, new commitments, open conflicts) |
 | [unified-covenant-v0.2-decision-docket.md](./unified-covenant-v0.2-decision-docket.md) | Maintainer decisions **MD-01–MD-11** (APPROVED); Phase 6.3 history retained |
