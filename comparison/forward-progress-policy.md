@@ -28,6 +28,7 @@ Routine re-validation of taxonomy labels is **deferred** in favor of **substance
 | **7.5** | **MD-12 Option A** — vindication-only editorial clarification | **Yes** — [v0.4.1](./unified-covenant-v0.4.1.md) + traceability; **no new B** / **DR** |
 | **7.3** | UQ-02 liturgy / calendar sketches + open docket | **No** — **MD-13** open |
 | **7.4** | CCRP case record exemplar (worship / canon use) | **G** practice template only |
+| **7.6** | **MD-13** decision brief (liturgy / calendar) | **No** — maintainer **MD-13** still **OPEN**; see [phase-7-6-md-13-decision-brief.md](./phase-7-6-md-13-decision-brief.md) |
 
 **Unchanged without maintainer:** **MD-06** / **DR-10** **C**; **MD-01–MD-11** text; [THE_UNIFIED_COVENANT.md](../THE_UNIFIED_COVENANT.md).
 
