@@ -89,3 +89,11 @@ Procedural clarification only — [ccrp-adopted.md](../comparison/ccrp-adopted.m
 | Operational completeness audit | [../comparison/ccrp-validation-6-13.md](../comparison/ccrp-validation-6-13.md) |
 
 [ccrp-adopted.md](../comparison/ccrp-adopted.md) §0 — claim class vs RS vs outcome kind vs evidence.
+
+## Phase 6.14 (v0.4 coherence audit)
+
+| Module | File |
+|--------|------|
+| Substantive coherence audit | [../comparison/coherence-audit-6-14.md](../comparison/coherence-audit-6-14.md) |
+
+Analytical only — no new **B** doctrine.

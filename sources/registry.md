@@ -761,3 +761,18 @@ notes: >
   Manual validation only. MD-06/DR-10 remain open.
 related_ledger: Phase 6.13 final report
 ```
+
+### `comparison-phase-6-14-coherence-audit`
+
+```yaml
+id: comparison-phase-6-14-coherence-audit
+claim: Phase 6.14 adversarial coherence audit of unified-covenant-v0.4.md maps contradictions, omissions, and ranked future tasks without adopting doctrine or amending MD/CCRP.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - comparison/coherence-audit-6-14.md
+  - comparison/unified-covenant-v0.4.md
+notes: >
+  Does not edit v0.4 theology, MD-01–MD-11, ccrp-adopted.md, or THE_UNIFIED_COVENANT.md. MD-06/DR-10 remain open.
+related_ledger: Phase 6.14 final report
+```
