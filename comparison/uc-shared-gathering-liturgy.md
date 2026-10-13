@@ -1,6 +1,6 @@
 # Unified Covenant — Shared gathering liturgy (MD-13)
 
-**Status:** Authoritative text for **binding B** worship form adopted under **MD-13** (Phase 7.7). Implemented in [unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md) §8.2.
+**Status:** Authoritative text for **binding B** worship form under **MD-13** (Phase 7.7). Implemented in [unified-covenant-v0.4.2.md](./unified-covenant-v0.4.2.md) §8.2. **Governance:** Pre-merge §12 review incomplete at PR #29 merge — [Phase 7.8 audit](./phase-7-8-post-merge-governance-audit.md).
 
 **Not:** Jewish *tefillah*, Christian Eucharistic liturgy, or Islamic *ṣalāt*. **Not** a claim that source traditions accept this form.
 
@@ -50,7 +50,9 @@
 
 ## 3 — Shared prayer: mercy, gratitude, repentance, renewal
 
-*(Leader, then all repeat each paragraph, or all read together.)*
+*(Leader reads each paragraph; the assembly may join aloud, repeat softly, or listen in silence — **MD-08**.)*
+
+*(Leader — optional **G** cue before this section: UC holds **DR-04** vindication and **MD-12** limits—no penal substitution or new atonement **B** in this prayer.)*
 
 **Merciful One, receive our thanks for daily bread, for companions, and for the witnesses of scripture that guide us.**
 
@@ -58,9 +60,9 @@
 
 **Grant us repentance that changes how we live, not words alone.**
 
-**Renew in us courage to follow Jesus the Anointed in trust and service — crucified in history, vindicated by You, held in our story without Nicene dogma or a new salvation mechanism.**
+**Renew in us courage to follow Jesus the Anointed in trust and service — crucified in history, vindicated by You.**
 
-**Seal our hearts in loyalty to Muhammad as prophet and seal of our canonical series — our UC doctrine, not a claim that others must adopt our formula.**
+**Help us honour Muhammad as prophet and seal of our canonical series — our UC doctrine, not a claim that others must adopt our formula.**
 
 ---
 

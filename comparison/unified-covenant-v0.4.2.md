@@ -1,6 +1,6 @@
 # Unified Covenant v0.4.2 — Theological and Constitutional Proposal
 
-**Status:** Constructive successor to v0.4.1 — **MD-01–MD-11**, **MD-12 Option A**, and **MD-13** (Phase 7.7): **binding B** shared gathering liturgy (Option 1 script). **§12 comment period** applies before this draft acquires maintainer merge authority (minimum 14 days per §12). **Not** a validated creed; not consensus among Judaism, Christianity, and Islam.
+**Status:** Constructive successor to v0.4.1 — **MD-01–MD-11**, **MD-12 Option A**, and **MD-13** (Phase 7.7): **binding B** shared gathering liturgy (Option 1 script). **Governance (Phase 7.8):** [PR #29](https://github.com/GeneralKnowledge/Unified-Covenant/pull/29) merged **2026-10-13** UTC **before** the §12 **14-day** pre-merge comment minimum elapsed (~2 minutes between open and merge). Pre-merge §12 **not completed**. **Post-merge regularisation** required — [audit](./phase-7-8-post-merge-governance-audit.md) · [procedure](./phase-7-8-post-merge-review-procedure.md). A Git merge **does not** by itself prove §12 review completion. **Not** a validated creed; not consensus among Judaism, Christianity, and Islam.
 
 **Supersedes for constructive purposes:** [unified-covenant-v0.4.1.md](./unified-covenant-v0.4.1.md) (preserved unchanged) · [unified-covenant-v0.4.md](./unified-covenant-v0.4.md) · [unified-covenant-v0.3.md](./unified-covenant-v0.3.md).
 
@@ -373,7 +373,7 @@ UC is the **Unified Covenant assembly**—a **voluntary** religious body with it
 
 **Participation (MD-08):** Official UC gatherings **use** this **B** form. Members are **not** required to **verbally affirm every line** each time; presence, silence, or partial participation remain permissible. This **does not** create a comprehensive belief test or universal attendance test.
 
-**Proposed DR register row:** [phase-7-7-dr-14-register-proposal.md](./phase-7-7-dr-14-register-proposal.md) — **not** added to §14 until maintainer confirms after comment period.
+**Proposed DR register row:** [phase-7-7-dr-14-register-proposal.md](./phase-7-7-dr-14-register-proposal.md) — **not** added to §14 until maintainer confirms after post-merge §12 regularisation.
 
 ### 8.3 Annual observances (**MD-13** scope — partial)
 
@@ -447,8 +447,8 @@ UC **does** distinguish:
 ## §12 — Revision and constitutional change
 
 1. **Proposal** — Doctrine memo + traceability + CCRP completion (if scriptural).  
-2. **Comment** — 14-day minimum (repository). **v0.4.2 (MD-13)** is subject to this period before merge authority.  
-3. **Decision** — Maintainer or council; **never** silent merge.  
+2. **Comment** — 14-day minimum (repository). **v0.4.2 (MD-13):** pre-merge comment period **was not completed** before PR #29 merge (2026-10-13). Post-merge review per [phase-7-8-post-merge-review-procedure.md](./phase-7-8-post-merge-review-procedure.md) **does not** retroactively satisfy step 2.  
+3. **Decision** — Maintainer or council; **never** silent merge. Git merge alone is **not** documented proof of completed §12 review.  
 4. **H override** — Requires **new historical evidence** memo; cannot be done by theological vote alone.  
 5. **Frozen C** — Reopen only via §12 or maintainer **reopen** record.  
 
@@ -513,4 +513,4 @@ We live in **accountability, justice, and mercy**, as **Unified Covenant** — a
 | CCRP | Six-step summary | Adopted | Unchanged | Unchanged |
 | *Taḥrīf* / **DR-10** | — | **C** | **C** | **C** |
 
-*v0.4.2 — Phase 7.7 (**MD-13**). [v0.4.1](./unified-covenant-v0.4.1.md) preserved. §12 comment period pending.*
+*v0.4.2 — Phase 7.7 (**MD-13**), governance note Phase 7.8. [v0.4.1](./unified-covenant-v0.4.1.md) preserved. Pre-merge §12 incomplete; post-merge review **not started** until public issue per procedure doc.*

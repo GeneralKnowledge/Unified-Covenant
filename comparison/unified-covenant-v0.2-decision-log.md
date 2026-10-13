@@ -221,8 +221,9 @@
 | **7.5** | **MD-12 Option A APPROVED** — editorial clarification in [unified-covenant-v0.4.1.md](./unified-covenant-v0.4.1.md) (§§4.5, 9, §13 **UQ-03**); **DR-04** substance unchanged; **no new DR**; **MD-02** not reopened; **UQ-03** mechanics remain **C** / open |
 | **Current draft** | **v0.4.1** supersedes v0.4 for constructive work; [v0.4](./unified-covenant-v0.4.md) preserved |
 | **7.6** | **MD-13** decision brief — no adoption |
-| **7.7** | **MD-13 APPROVED** — binding **Option 1** script in [v0.4.2](./unified-covenant-v0.4.2.md) §8.2; annual observance **candidates** only; **MD-14 OPEN**; **DR-14** proposal outstanding; **§12 comment period** required before merge authority |
+| **7.7** | **MD-13 APPROVED** — binding **Option 1** script in [v0.4.2](./unified-covenant-v0.4.2.md) §8.2; merged PR #29 **2026-10-13**; annual **candidates** only; **MD-14 OPEN**; **DR-14** proposal outstanding |
+| **7.8** | Post-merge governance audit — pre-merge §12 **incomplete** at merge; [audit](./phase-7-8-post-merge-governance-audit.md) + [procedure](./phase-7-8-post-merge-review-procedure.md); liturgy script editorial clarifications (**MD-08** participation); post-merge review **not started** until public issue |
 
 ---
 
-*Phase 6.2 decision log — v0.4.2 is current constructive proposal (MD-13); v0.4.1 preserved; §12 review pending.*
+*Phase 6.2 decision log — v0.4.2 current constructive proposal (MD-13); §12 regularisation outstanding.*

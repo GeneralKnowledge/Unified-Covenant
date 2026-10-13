@@ -4,7 +4,7 @@
 
 **Prior maps:** [unified-covenant-v0.4.1-traceability.md](./unified-covenant-v0.4.1-traceability.md) · [unified-covenant-v0.4-traceability.md](./unified-covenant-v0.4-traceability.md)
 
-**Phase 7.7 (MD-13):** Binding shared liturgy **B** (§8.2). **MD-14** weekly day **OPEN**. Annual observance **candidates** not individually approved. **DR-14** register row **proposed only** — see [phase-7-7-dr-14-register-proposal.md](./phase-7-7-dr-14-register-proposal.md).
+**Phase 7.7 (MD-13):** Binding shared liturgy **B** (§8.2). **Phase 7.8:** Pre-merge §12 incomplete at PR #29 merge — [phase-7-8-post-merge-governance-audit.md](./phase-7-8-post-merge-governance-audit.md). **MD-14** **OPEN**. Annual **candidates** not approved. **DR-14** **proposed only**.
 
 ---
 

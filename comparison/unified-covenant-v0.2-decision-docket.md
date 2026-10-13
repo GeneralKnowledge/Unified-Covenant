@@ -232,7 +232,7 @@
 | Field | Content |
 |-------|---------|
 | **Decision ID** | MD-13 |
-| **Status** | **APPROVED** — **§12 comment period** on [v0.4.2](./unified-covenant-v0.4.2.md) pending |
+| **Status** | **APPROVED** — **post-merge §12 regularisation pending** (pre-merge 14-day period **not completed** before PR #29 merge; see [phase-7-8-post-merge-governance-audit.md](./phase-7-8-post-merge-governance-audit.md)) |
 | **Binding level** | Defined shared liturgy as **B** (Option A) |
 | **Worship model** | **Option 1** — [uc-shared-gathering-liturgy.md](./uc-shared-gathering-liturgy.md) |
 | **Annual calendar** | In scope; individual observances **not** approved — [phase-7-7-annual-observances-proposal.md](./phase-7-7-annual-observances-proposal.md) |
@@ -255,4 +255,4 @@
 
 ---
 
-*Phase 6.3 recommendations remain in table history. **APPROVED** rulings **MD-01–MD-11** in [v0.4](./unified-covenant-v0.4.md); **MD-12** in [v0.4.1](./unified-covenant-v0.4.1.md); **MD-13** in [v0.4.2](./unified-covenant-v0.4.2.md) (proposal, comment period)—not scholarly consensus.*
+*Phase 6.3 recommendations remain in table history. **APPROVED** rulings **MD-01–MD-11** in [v0.4](./unified-covenant-v0.4.md); **MD-12** in [v0.4.1](./unified-covenant-v0.4.1.md); **MD-13** in [v0.4.2](./unified-covenant-v0.4.2.md) — §12 regularisation outstanding (Phase 7.8)—not scholarly consensus.*
