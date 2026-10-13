@@ -170,4 +170,16 @@
 
 ---
 
+## 14. Phase 6.11 — CCRP semantics clarification (procedural only)
+
+| Item | Change |
+|------|--------|
+| **RS-1** | Scoped to sub-question + applicable **MD**/**DR** outcome — **not** blanket **MD-01–MD-11** |
+| **Evidence** | **3A** decision authority separated from **3B** **SD-*** provenance; **MD**/**DR** ≠ **SD-PRI** for subject-matter **H**/**R** |
+| **Theology** | **MD-01–MD-11** formulations **unchanged**; **MD-06** / **DR-10** remain **C** |
+
+**Deliverable:** [ccrp-validation-6-11.md](./ccrp-validation-6-11.md); [ccrp-adopted.md](./ccrp-adopted.md) §1, §3.
+
+---
+
 *Phase 6.2 decision log — v0.4 is current constructive draft; v0.3 preserved.*

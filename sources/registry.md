@@ -714,3 +714,19 @@ notes: >
   Does not edit THE_UNIFIED_COVENANT.md, chronicle, or v0.3. MD-01–MD-06 substantive text preserved in v0.4 except procedural/governance additions (§5.3, §7.3, §11 pedagogy, Declaration MD-10).
 related_ledger: Phase 6.10 final report
 ```
+
+### `comparison-phase-6-11-ccrp-semantics`
+
+```yaml
+id: comparison-phase-6-11-ccrp-semantics
+claim: Phase 6.11 corrects CCRP ruling-status scope (RS-1 not blanket MD-01–MD-11) and separates decision authority (3A) from SD-* evidence provenance (3B), with regression tests; no change to MD-01–MD-11 substantive theology or DR-10 open status.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - comparison/ccrp-adopted.md
+  - comparison/ccrp-validation-6-11.md
+  - comparison/unified-covenant-v0.4.md
+notes: >
+  THE_UNIFIED_COVENANT.md unchanged. Phase 6.7/6.8 remain historical proposals.
+related_ledger: Phase 6.11 final report
+```

@@ -182,24 +182,22 @@ UC **teaches as history:** Jesus of Nazareth, a Jewish figure, was **executed by
 
 ### 5.3 Canon Conflict Resolution Procedure (CCRP) — **MD-03**, **MD-11**
 
-**Authoritative copy:** [ccrp-adopted.md](./ccrp-adopted.md) (matches this section). **Adopted** Phase 6.10 from [QA-revised proposal](./ccrp-revision-proposal-6-7.md).
+**Authoritative procedure:** [ccrp-adopted.md](./ccrp-adopted.md) (Phase 6.10, semantics corrected Phase 6.11). This §5.3 **summarizes** the adopted text; if wording diverges, **ccrp-adopted.md** governs.
 
 **Anti-circularity rule:** The Constitution **cannot** settle a scriptural dispute by citing **only** its own supremacy clause. UC **B** text is **not** independent proof of historical **H** or inherited **R** claims.
 
 #### 5.3.1 Ruling status (mandatory at opening)
 
-Decompose each dispute into sub-questions **q1…qn**. Assign **one RS code per sub-question**.
+Decompose each dispute into sub-questions **q1…qn**. Assign **one RS code per sub-question** by **scope** (full rules: [ccrp-adopted.md §1](./ccrp-adopted.md#1-ruling-status-mandatory-at-opening)).
 
-| Code | Meaning | CCRP behaviour |
-|------|---------|----------------|
-| **RS-1** Settled **B/H** | **MD-01–MD-11**, **§14 DR-***, or prior **§12** **B**/**H** | **Do not** re-adjudicate **outcome**; **still** complete steps 2–4 (evidence, **R**, costs, objections); step 5 **records** existing **B**/**H** |
-| **RS-2** Settled open (**C**) | e.g. **DR-10**, **MD-06** | Full steps 1–4; step 5 **may not** adopt **B** without **§12** + **MD** reopen |
-| **RS-3** Reopen candidate | **§12** **H** memo pending or maintainer accepted **Reasoned challenge** | **Freeze** new **B** on that sub-question until **§12** completes |
-| **RS-4** Unaddressed | No **MD**/**DR** | Full CCRP; step 5 may propose **B** per §10 |
+| Code | Meaning |
+|------|---------|
+| **RS-1** | **Applicable** approved decision/register entry **establishes B/H outcome** for **this sub-question’s exact scope** |
+| **RS-2** | Decision **explicitly leaves** the sub-question **open (C)** — e.g. **MD-06** / **DR-10** on preservation theology |
+| **RS-3** | Reopening active (**§12** or accepted **Reasoned challenge**) — freeze new **B** on that sub-question |
+| **RS-4** | No applicable settled outcome or open reservation |
 
-**Reasoned challenge:** Logged in step 6; **does not** suspend **B**/**H** unless maintainer moves sub-question to **RS-3**. **RS-1** **does not** block evidence review—it blocks **silent overturn**.
-
-**Precedence:** Approved **MD** → this Constitution **B/H** → traceability (audit map). **Conflict:** stop step 5; maintainer reconciliation memo.
+**Not RS-1:** An **MD** id alone does **not** settle every sub-question (**MD-06** → **RS-2** for *taḥrīf* theology; **MD-07** method ≠ reconciled **R**; **MD-09** pedagogy ≠ **DR-10** **B**; **MD-11** procedure ≠ doctrinal truth). **RS-1** still requires steps 2–4 (evidence, costs, objections, scope limits).
 
 #### 5.3.2 Canon authority modes (**MD-10**)
 
@@ -217,34 +215,26 @@ See [glossary](./glossary-unified-covenant.md). Summary:
 
 **Anti-dismissal:** “Witness” requires **published** handling of textual claims (**H/R/B/C**), not ignoring inconvenient passages.
 
-#### 5.3.3 Evidence standards and **SD-*** source depth
+#### 5.3.3 Decision authority, evidence (**SD-***), and inference
 
-**Doctrinal classes:** **H**, **R**, **A** (motif only), **B**, **C**. **Never** use **A** for bibliographic depth.
+Separate **three** layers in every step-4/5 record (full rules: [ccrp-adopted.md §3](./ccrp-adopted.md#3-decision-authority-evidence-provenance-and-inference)):
 
-| **SD-*** | Verification level (reading ≠ endorsement) |
-|----------|---------------------------------------------|
-| **SD-PRI** | Complete primary text read |
-| **SD-ART** | Complete article or monograph chapter read |
-| **SD-EXC** | Substantial excerpt |
-| **SD-ABS** | Abstract/metadata only |
-| **SD-SEC** | Secondary summary |
-| **SD-EXI** | Existence verified only |
-| **SD-INA** | Inaccessible or passage unverified |
+| Layer | Content |
+|-------|---------|
+| **3A Decision authority** | Governing **MD**/**DR**/**§**, class, **scope**, reopen rule — **not** **SD-*** for subject-matter **H**/**R** |
+| **3B Evidence provenance** | **SD-*** on scripture, texts, scholarship (**SD-PRI** … **SD-INA** — see [glossary](./glossary-unified-covenant.md)) |
+| **3C Argument** | Inference, assumptions, counterevidence, uncertainty |
 
-**Decisive step-4 minimums:** **H** (event) **SD-EXC** or **SD-PRI**; **H** (mss) **SD-ART**/**SD-EXC** or matrix **SD-SEC**; **R** dominant **SD-EXC** or **SD-SEC** survey; **R** minority only if attested; **B** from **MD**/DR = **SD-PRI**; **RS-2** → **no new B**.
-
-**Mixed bundles:** Decisive weight = weakest **decisive** leg; **SD-INA** cannot support **new B**. **Unequal verification** must be labelled—no false parity.
-
-**DR-10 topics:** High-confidence **R** on *taḥrīf*/preservation requires **SD-EXC** primary tafsīr or **SD-ART** monograph on the claim; else **low-confidence** mandatory.
+**Rules:** UC **B**/**H** **does not** prove historical **H** or inherited **R**. **MD**/**DR** text is **not** **SD-PRI** for the theology/history under dispute (only for “what UC decided” documentary questions). **RS-2** → **no new B**. **SD-EXI**/**SD-INA** cannot support **new B** or high-confidence conclusions. **DR-10** strict **SD-EXC**/**SD-ART** requirements unchanged.
 
 #### 5.3.4 Operational steps 1–6
 
 1. **Register** — Passages, translation, genres, **claim types**, **RS** per sub-question.  
 2. **Context** — Language, setting, intertexts, chronicle/registry **H** limits.  
 3. **Tradition survey** — Dominant **R** + attested minority + period/school + **strongest objection** + **ranking uncertainty** if needed (**SD-*** cited).  
-4. **Publish alternatives** — ≥2 serious options; evidence table with **SD-***; conflicting scholarship **both** listed.  
+4. **Publish alternatives** — ≥2 serious options; **3A** + **3B** (**SD-***) + **3C**; conflicting scholarship **both** listed.  
 5. **UC ruling proposal** — **B** text (if permitted), costs, classification; maintainer/council per §10; **MD-05** supersession optics check.  
-6. **Record** — Traceability ID; **dissent** (objection, unresolved **SD-***, traditions, costs, **RS**, **MD** refs); revision trigger.
+6. **Record** — Traceability ID; **dissent**; **3A**/**3B**/**3C** summary; revision trigger.
 
 #### 5.3.5 Outcomes, deadlock, teaching layers (**MD-08**, **MD-09**)
 
