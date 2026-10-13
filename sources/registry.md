@@ -622,6 +622,22 @@ notes: >
 related_ledger: research/phase-6-6-source-verification.md
 ```
 
+### `comparison-phase-6-8-ccrp-proposal-qa`
+
+```yaml
+id: comparison-phase-6-8-ccrp-proposal-qa
+claim: Phase 6.8 QA audits the Phase 6.7 CCRP revision proposal; introduces SD-* source-depth notation distinct from doctrinal A; does not adopt changes or alter MD-01–MD-06.
+status: widely-accepted interpretation
+period: methodological (2026 project phase)
+sources:
+  - comparison/ccrp-proposal-qa-6-8.md
+  - comparison/ccrp-revision-proposal-6-7.md (QA-revised)
+  - comparison/canon-language-audit-6-7.md (QA addendum)
+notes: >
+  DR-10 traceability cross-link updated; v0.3 unchanged. Implementation readiness: qualified ready for maintainer approval process.
+related_ledger: Phase 6.8 final report
+```
+
 ### `comparison-phase-6-7-ccrp-revision-proposal`
 
 ```yaml

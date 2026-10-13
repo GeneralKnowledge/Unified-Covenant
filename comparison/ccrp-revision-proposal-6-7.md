@@ -6,6 +6,8 @@
 
 **Maintainer rulings in force:** [unified-covenant-v0.2-decision-docket.md](./unified-covenant-v0.2-decision-docket.md) (**MD-01–MD-06** unchanged).
 
+**Phase 6.8 QA revision (not adoption):** [ccrp-proposal-qa-6-8.md](./ccrp-proposal-qa-6-8.md) corrected **source-depth notation** (**SD-***, distinct from doctrinal **A**), **RS** split-register rules, and evidence sufficiency tables. Text below incorporates those corrections.
+
 ---
 
 ## 1. Executive summary
@@ -31,7 +33,7 @@ This document proposes **replacement/insertion text** for **§5.3** (and cross-r
 |-------------------|-------|-------------------------|
 | Pre-rulings short-circuit deliberation | B, C, D | **§5.3.1** Ruling status register |
 | “Receive” canon ambiguous with **DR-10** **C** | A, E | **§5.3.2** Canon authority modes + teaching gloss |
-| Unequal source depth presented as symmetry | A | **§5.3.3** Evidence standards + depth codes |
+| Unequal source depth presented as symmetry | A | **§5.3.3** Evidence standards + **SD-*** source-depth codes |
 | Minority/dominant risk in teaching | A, B, D | **§5.3.4** Diversity record template |
 | Dissent under-specified | All | **§5.3.5** Outcome taxonomy + dissent fields |
 | Supersession optics vs **MD-05** | E | **§5.3.6** MD-05 review checkpoint |
@@ -63,18 +65,20 @@ This document proposes **replacement/insertion text** for **§5.3** (and cross-r
 ```markdown
 #### 5.3.1 Ruling status (mandatory at CCRP opening)
 
-When registering a conflict, assign **one primary status** per sub-question:
+When registering a conflict, **decompose** into sub-questions **q1…qn**. Assign **one RS code per sub-question** (a single dispute may mix **RS-1**, **RS-2**, etc.).
 
 | Code | Meaning | CCRP behaviour |
 |------|---------|----------------|
-| **RS-1 Settled B/H** | Bound by **MD-01–MD-06**, **§14 DR-***, or prior **§12** **B**/**H** | **Do not** re-adjudicate outcome; complete steps 2–4 on **R** **survey**, **costs**, and **non-reconciliation**; step 5 **records** existing **B**/**H** with citation |
-| **RS-2 Settled open (C)** | **MD** or **DR** explicitly **C** (e.g. **DR-10**, **MD-06**) | Steps 1–4 **full**; step 5 **may not** adopt **B** without **§12** + **MD** reopen |
-| **RS-3 Reopen candidate** | New **H** evidence memo claims **§12** **H** override | **Freeze** new **B** until **§12** **H** process completes |
-| **RS-4 Unaddressed** | No **MD**/**DR** coverage | Full CCRP; step 5 may propose **B** per **§10** |
+| **RS-1 Settled B/H** | Bound by **MD-01–MD-06**, **§14 DR-***, or prior **§12** **B**/**H** | **Do not** re-adjudicate **outcome** on that sub-question; **still complete** steps 2–4 on **evidence**, **R** survey, **costs**, **objections**, and **non-reconciliation**; step 5 **records** existing **B**/**H** with citation |
+| **RS-2 Settled open (C)** | **MD** or **DR** explicitly **C** (e.g. **DR-10**, **MD-06**) | Steps 1–4 **full**; step 5 **may not** adopt **B** on that sub-question without **§12** + maintainer **MD** reopen |
+| **RS-3 Reopen candidate** | **§12** **H**-override memo **pending** or maintainer accepted **Reasoned challenge** | **Freeze** new **B** on that sub-question until **§12** completes |
+| **RS-4 Unaddressed** | No **MD**/**DR** coverage | Full CCRP on that sub-question; step 5 may propose **B** per **§10** |
 
-**Challenge without revocation:** Any member may file a **Reasoned challenge** (step 6 log) against **RS-1** **reasoning** or **scope**; that **does not** suspend **B**/**H** unless **maintainer** accepts **RS-3** under **§12**.
+**Challenge without revocation:** Any member may file a **Reasoned challenge** (step 6 log) against **RS-1** **reasoning** or **scope**; that **does not** suspend **B**/**H** unless **maintainer** moves the sub-question to **RS-3** under **§12**.
 
 **Anti-overturn:** An ordinary CCRP run **cannot** contradict **RS-1**; equating **R** streams as reconciled when **RS-1** **B** rejects that reconciliation is **invalid**.
+
+**Precedence (docket / constitution / traceability):** If **approved MD**, **v0.3**, and **traceability** disagree, **stop** step 5 and publish a **maintainer reconciliation memo** — order of authority: **(1) approved MD**, **(2) v0.3 B/H text**, **(3) traceability** (audit map only).
 ```
 
 **Amendment class:** **Procedural change** (does not alter **MD** substance; constrains process).
@@ -87,7 +91,7 @@ When registering a conflict, assign **one primary status** per sub-question:
 | Mode | Definition | UC example |
 |------|------------|------------|
 | **Inclusion (B)** | Text **in** Unified Canon layers (**DR-06**) | Tanakh, NT, Qur’an listed |
-| **Witness (B + procedural)** | Text **used** in UC narrative, worship, and CCRP as **covenant witness** | §5.1 “canonical witness” |
+| **Witness (B + procedural)** | Text **used** in UC narrative, worship, and CCRP as **covenant witness** — **same inclusion**, **layer-specific function** (Tanakh arc / Anointed / *tawḥīd*+seal), **not** identical **R** authority mode | §5.1 “canonical witness” |
 | **UC doctrine (B)** | Binds **members** after **§12** / **MD** | DR-01–DR-09 essentials |
 | **Source-tradition authority (R)** | Authority **inside** Judaism, Christianity, Islam | Oral Torah, Nicene faith, *ijmāʿ* |
 | **Governing interpretation (Procedural + B)** | **CCRP** outcomes marked **binding** for **UC teaching** | DR-07 |
@@ -102,29 +106,39 @@ When registering a conflict, assign **one primary status** per sub-question:
 ### 4.3 Insert **§5.3.3 — Evidence standards and source depth**
 
 ```markdown
-#### 5.3.3 Evidence standards
+#### 5.3.3 Evidence standards and source verification depth
 
-| Class | Minimum for step 4 “serious option” | May override |
-|-------|-------------------------------------|--------------|
-| **H** | Primary/secondary **H** sources; registry/chronicle; **depth code** ≥ **E** for decisive claims | **R** on **past events** per deadlock table |
-| **R** | Named **normative** or **dominant** stream + **documented minority**; **depth** stated | **H** on same **past event** |
-| **A** | Motif evidence in matrix/conv. with **qualifiers** | **B** |
-| **B** | **§12** / **MD** / prior CCRP **binding** record | — |
-| **C** | Explicit **open** register; **no B** from step 5 | — |
+**Doctrinal classes (unchanged):** **H**, **R**, **A** (motif convergence), **B**, **C** — never use **A** for bibliographic verification.
 
-**Source depth codes (publish in step 4):**
+**Source-depth codes (SD-* — verification only; reading ≠ endorsement):**
 
 | Code | Meaning |
 |------|---------|
-| **F** | Full primary or full article read |
-| **E** | Substantial excerpt |
-| **A** | Abstract/metadata only |
-| **S** | Secondary summary |
-| **V** | Bibliography/existence only |
+| **SD-PRI** | Complete **primary** text read (scripture, creed, inscription as cited) |
+| **SD-ART** | Complete scholarly **article** or monograph **chapter** read |
+| **SD-EXC** | **Substantial excerpt** (continuous argument or tafsīr lemma block) |
+| **SD-ABS** | **Abstract** or metadata only |
+| **SD-SEC** | **Secondary** summary (another author’s description) |
+| **SD-EXI** | **Existence** verified; content not inspected |
+| **SD-INA** | Source **inaccessible** or relevant passage **unverified** |
 
-**Asymmetry rule:** If tradition **X** is **F/E** and tradition **Y** is **S/V** on the same sub-question, step 4 **must** label **confidence unequal** and **may not** claim **parity** of verification.
+| Class | Minimum **SD** for a **decisive** step-4 option | May override |
+|-------|-----------------------------------------------|--------------|
+| **H** (past event) | **SD-EXC** from **H** scholarship or **SD-PRI** if claim is text-internal | **R** on **past events** per deadlock table |
+| **H** (manuscript) | **SD-ART** or **SD-EXC** handbook, or **SD-SEC** matrix/registry row (label inherited) | — |
+| **R** (dominant) | **SD-EXC** normative text or **SD-SEC** accredited survey naming stream | **H** on same **past event** |
+| **R** (minority) | **SD-EXC** or **SD-SEC** **if attested** — **omit** minority if not established | — |
+| **A** (motif) | **SD-SEC** matrix/conv. minimum | **B** |
+| **B** | **MD**/**DR**/**§12** text = **SD-PRI** | — |
+| **C** | Any **SD**; **no new B** when sub-question is **RS-2** | — |
 
-**Canon-trust topics (DR-10 open):** Step 4 **cannot** rate **high** confidence on **classical tafsīr** claims without **E/F** primary tafsīr or **explicit low-confidence** flag.
+**Mixed bundle (step 4):** List each source with **SD-***; **decisive weight** = weakest **decisive** leg. **SD-INA** cannot support **new B**.
+
+**Asymmetry rule:** If one stream’s decisive legs are **SD-ART/SD-EXC/SD-PRI** and another’s are **SD-SEC/SD-EXI/SD-ABS** on the same sub-question, step 4 **must** label **verification unequal** — **no parity** claim.
+
+**Conflicting scholarship:** Publish **both** assessments with **SD** labels; do not merge into one “high confidence.”
+
+**Canon-trust (DR-10 open):** High-confidence **R** options on *taḥrīf*/preservation require **SD-EXC** primary tafsīr **or** **SD-ART** academic work **on that claim**; else **low-confidence** flag **mandatory**.
 ```
 
 **Amendment class:** **Procedural change**.
@@ -135,7 +149,7 @@ When registering a conflict, assign **one primary status** per sub-question:
 
 ```markdown
 3. **Tradition survey** — For each affected stream, record:
-   - **Dominant/normative R** (label as such; cite **depth**);
+   - **Dominant/normative R** (label as such; cite **SD-***);
    - **Significant minority R** (at least one where attested);
    - **Period/school** if dispute is era-specific;
    - **Strongest objection** to the **leading UC outcome** (RS-1 or step 5 draft);
@@ -160,7 +174,7 @@ When registering a conflict, assign **one primary status** per sub-question:
 **Published dissent record (step 6) must include:**
 
 1. **Strongest objection** (one paragraph minimum).  
-2. **Unresolved evidence** (with **depth codes**).  
+2. **Unresolved evidence** (with **SD-*** codes).  
 3. **Affected traditions** and **costs**.  
 4. **RS code** and whether **MD**/**DR** cited.  
 5. **Supersession optics check (MD-05):** Yes/No — if **Yes**, attach **non-supersession** clarifier for publication.
@@ -182,7 +196,7 @@ Renumber: current steps become **5.3.7 Operational steps 1–6**, incorporating 
 |--------|-----------|-----------|
 | **RS register** | Prevents faux reopen of **MD-02** crucifixion/**B** vindication while still **surveying** **R** | None on substance |
 | **Canon modes** | Separates **DR-06** from **DR-10** **C** | **MD-06** stays open |
-| **Depth codes** | Prevents **Case A** overconfidence on **S** tafsīr | None |
+| **SD-* depth codes** | Prevents **Case A** overconfidence on **SD-SEC** tafsīr | None |
 | **Dissent fields** | Makes **qualified pass** outcomes **auditable** | None |
 | **MD-05 check** | Addresses **Case E** optics without new **B** | Reinforces **MD-05** |
 
@@ -196,7 +210,7 @@ Renumber: current steps become **5.3.7 Operational steps 1–6**, incorporating 
 
 | | Current CCRP | Phase 6.6 defect | Proposed rule | Outcome under proposal | Still open | Change type | Future evidence |
 |---|--------------|------------------|---------------|------------------------|------------|-------------|-----------------|
-| A | Default **C** | “Receive” ambiguity | **RS-2** + canon modes gloss | **C** preserved; **public teaching** uses **witness** gloss; step 4 **low confidence** on **S** tafsīr | **DR-10** **B** | **Procedure** only | **F** Reynolds; **E/F** Ṭabarī |
+| A | Default **C** | “Receive” ambiguity | **RS-2** (DR-10) + **RS-1** (DR-06); canon modes gloss | **C** preserved; **witness** gloss; step 4 **low confidence** on **SD-SEC/SD-ABS** tafsīr | **DR-10** **B** | **Procedure** only | **SD-ART** Reynolds; **SD-EXC/SD-PRI** Ṭabarī |
 
 **Rating under proposed procedure:** **Pass** (procedure) — **not** theological proof of preservation.
 
@@ -251,7 +265,7 @@ Renumber: current steps become **5.3.7 Operational steps 1–6**, incorporating 
 
 ## 8. Evidence and source-depth requirements (summary)
 
-See **§4.3**. Phase 6.6 [source verification](../research/phase-6-6-source-verification.md) **confidence caps remain**; this proposal **does not** upgrade **S** → **F**.
+See **§4.3**. Phase 6.6 [source verification](../research/phase-6-6-source-verification.md) **confidence caps remain**; this proposal **does not** upgrade **SD-SEC** → **SD-ART** without new inspection.
 
 ---
 
@@ -281,7 +295,7 @@ See **§4.3**. Phase 6.6 [source verification](../research/phase-6-6-source-veri
 | **§5.3.1 RS register** | Procedural change | **Explicit approval** + **§12** if embedded in v0.4 |
 | **Canon modes table** | Procedural + editorial | **Explicit approval** (teaching impact) |
 | **“Receive” teaching gloss** | Editorial clarification | **May** adopt in **education** docs without **B** change; **constitution** embed = **approval** |
-| **Source depth codes** | Procedural change | **Explicit approval** |
+| **SD-* source-depth codes** | Procedural change | **Explicit approval** |
 | **Step 3 diversity template** | Procedural change | **Explicit approval** |
 | **Dissent record fields** | Procedural change | **Explicit approval** |
 | **MD-05 supersession check** | Procedural change | **Explicit approval** |

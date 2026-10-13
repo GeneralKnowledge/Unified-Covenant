@@ -6,6 +6,8 @@
 
 **MD-06 / DR-10:** Remains **C — open**; suggestions here **do not** adopt preservation **B**.
 
+**Phase 6.8 QA addendum (not adoption):** See [ccrp-proposal-qa-6-8.md](./ccrp-proposal-qa-6-8.md). Reclassifications: **L-13** → **substantive (maintainer approval)**; **L-16** → **substantive if embedded in Declaration body**, editorial if footnote/glossary only; **L-19** → procedural with **substantive risk** (curriculum operationalises **MD-05**). Updated class counts in QA report §8.
+
 ---
 
 ## Audit method
@@ -35,10 +37,10 @@ For each v0.3 locus: **location**, **current wording** (short quote), **misunder
 | **L-10** | §6.2 | “**Inspired-by** Q 33:40 language, **reinterpreted**” | **UC** claims **Qur’anic** endorsement of UC finality | Add: “**UC B**, not **tafsīr** **R**.” | Editorial |
 | **L-11** | §6.2 | “**Not** equivalent to **dominant Islamic** …” | Equivalence in **pastoral** speech | **Mandatory** glossary entry **seal (UC series)** in CCRP publish. | Procedural |
 | **L-12** | §7.1 | “**new** *brit* community” | **Replaces** Jewish **brit** | Pair with **MD-05** bullet every time **brit** used: “**UC brit**, not **YHWH–Israel brit**.” | Editorial |
-| **L-13** | §7.3 | Private 4:157 **R** if public respects **H+B** | **Silent** approval of **denial** **R** | Clarify: **Public** UC worship **must** affirm **DR-03/04**; **private** belief **not** policed except **essential B**. | Editorial |
+| **L-13** | §7.3 | Private 4:157 **R** if public respects **H+B** | **Silent** approval of **denial** **R** | Clarify: **Public** UC worship **must** affirm **DR-03/04**; **private** belief **not** policed except **essential B**. | **Substantive decision** (QA 6.8: public teaching minimum) |
 | **L-14** | §11 | “**does not** adopt wholesale **taḥrīf** polemic **or its denial**” | UC **neutral** = **agnostic** on **Qur’an** charges | Clarify: UC **teaches** **R** **content** of accusations in **comparative** mode; **does not** adopt as **B**. | **Substantive decision** (pedagogy scope) |
 | **L-15** | §11 | “Textual variation **alone** **does not** prove or disprove **R** theology” | Variation **proves** corruption to some readers | Keep; add mirror: “Agreement in text **alone** does not prove **R** preservation.” | Editorial |
-| **L-16** | Declaration | “We **receive** … as **Unified Canon**” | **Inerrancy** or **full** **R** preservation | Proposed **Declaration** addendum (editorial): “**Receive** = **canonical inclusion as witnesses under CCRP** (**DR-06**); **DR-10** **C**.” | Editorial (if gloss only) |
+| **L-16** | Declaration | “We **receive** … as **Unified Canon**” | **Inerrancy** or **full** **R** preservation | Proposed **Declaration** addendum: “**Receive** = **canonical inclusion as witnesses under CCRP** (**DR-06**); **DR-10** **C**.” | **Substantive if in Declaration body**; **editorial** if external glossary only (QA 6.8) |
 | **L-17** | Declaration | “**crucified in history**, **vindicated by God**” | **Muslim** **R** / **H** conflict **hidden** | Add: “**Not** a claim that **Q 4:157** **R** agrees (**DR-05**).” | Editorial |
 | **L-18** | Declaration | “**seal of the Abrahamic canonical series in UC**” | Same as **Islamic** **khātam** | Already has “**in UC**”; repeat “**our** doctrine” in **§6** cross-ref. | Editorial |
 | **L-19** | Declaration | “**new community** alongside, not replacing” | **Layered canon** still **progressive** supersession | Link **MD-05** + **witness** gloss; CCRP **MD-05 check** on curricula. | Procedural |
@@ -72,11 +74,11 @@ For each v0.3 locus: **location**, **current wording** (short quote), **misunder
 
 | Class | Count |
 |-------|-------|
-| **Editorial** | 19 |
-| **Substantive decision** | 2 (**L-2**, **L-14**) |
-| **Procedural** (CCRP/governance) | 5 |
+| **Editorial** | 16 (see QA 6.8 §8) |
+| **Substantive decision** | 4 (**L-2**, **L-13**, **L-14**, **L-16** conditional) |
+| **Procedural** (CCRP/governance) | 6 |
 
-**Substantive items do not close MD-06**; they clarify **how** UC talks about **open** questions and **R** polemic **without** new **B**.
+**Substantive items do not close MD-06**; they clarify **how** UC talks about **open** questions and **R** polemic **without** new **B**. **L-13** requires maintainer choice on public-worship minimum.
 
 ---
 
